@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>BookService.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Cebrailapp</a> &gt; <a href="index.source.html" class="el_package">com.cebrail.app.service</a> &gt; <span class="el_source">BookService.java</span></div><h1>BookService.java</h1><pre class="source lang-java linenums">package com.cebrail.app.service;
+
+import com.cebrail.app.domain.Book;
+import com.cebrail.app.repository.BookRepository;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import java.util.Optional;
+
+/**
+ * Service Implementation for managing {@link Book}.
+ */
+@Service
+@Transactional
+public class BookService {
+
+<span class="nc" id="L22">    private final Logger log = LoggerFactory.getLogger(BookService.class);</span>
+
+    private final BookRepository bookRepository;
+
+<span class="nc" id="L26">    public BookService(BookRepository bookRepository) {</span>
+<span class="nc" id="L27">        this.bookRepository = bookRepository;</span>
+<span class="nc" id="L28">    }</span>
+
+    /**
+     * Save a book.
+     *
+     * @param book the entity to save.
+     * @return the persisted entity.
+     */
+    public Book save(Book book) {
+<span class="nc" id="L37">        log.debug(&quot;Request to save Book : {}&quot;, book);</span>
+<span class="nc" id="L38">        return bookRepository.save(book);</span>
+    }
+
+    /**
+     * Get all the books.
+     *
+     * @param pageable the pagination information.
+     * @return the list of entities.
+     */
+    @Transactional(readOnly = true)
+    public Page&lt;Book&gt; findAll(Pageable pageable) {
+<span class="nc" id="L49">        log.debug(&quot;Request to get all Books&quot;);</span>
+<span class="nc" id="L50">        return bookRepository.findAll(pageable);</span>
+    }
+
+
+    /**
+     * Get all the books with eager load of many-to-many relationships.
+     *
+     * @return the list of entities.
+     */
+    public Page&lt;Book&gt; findAllWithEagerRelationships(Pageable pageable) {
+<span class="nc" id="L60">        return bookRepository.findAllWithEagerRelationships(pageable);</span>
+    }
+
+    /**
+     * Get one book by id.
+     *
+     * @param id the id of the entity.
+     * @return the entity.
+     */
+    @Transactional(readOnly = true)
+    public Optional&lt;Book&gt; findOne(Long id) {
+<span class="nc" id="L71">        log.debug(&quot;Request to get Book : {}&quot;, id);</span>
+<span class="nc" id="L72">        return bookRepository.findOneWithEagerRelationships(id);</span>
+    }
+
+    /**
+     * Delete the book by id.
+     *
+     * @param id the id of the entity.
+     */
+    public void delete(Long id) {
+<span class="nc" id="L81">        log.debug(&quot;Request to delete Book : {}&quot;, id);</span>
+<span class="nc" id="L82">        bookRepository.deleteById(id);</span>
+<span class="nc" id="L83">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

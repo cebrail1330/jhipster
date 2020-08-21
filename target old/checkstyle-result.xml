@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.32">
+<file name="C:\Users\cebra\deneme\pom.xml">
+</file>
+<file name="C:\Users\cebra\deneme\README.md">
+</file>
+<file name="C:\Users\cebra\deneme\src\main\resources\.h2.server.properties">
+</file>
+<file name="C:\Users\cebra\deneme\src\main\resources\i18n\messages.properties">
+</file>
+<file name="C:\Users\cebra\deneme\src\main\resources\i18n\messages_en.properties">
+</file>
+<file name="C:\Users\cebra\deneme\src\test\resources\i18n\messages_en.properties">
+</file>
+</checkstyle>

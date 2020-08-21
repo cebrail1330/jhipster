@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>BookCriteria.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Cebrailapp</a> &gt; <a href="index.source.html" class="el_package">com.cebrail.app.service.dto</a> &gt; <span class="el_source">BookCriteria.java</span></div><h1>BookCriteria.java</h1><pre class="source lang-java linenums">package com.cebrail.app.service.dto;
+
+import java.io.Serializable;
+import java.util.Objects;
+import io.github.jhipster.service.Criteria;
+import io.github.jhipster.service.filter.BooleanFilter;
+import io.github.jhipster.service.filter.DoubleFilter;
+import io.github.jhipster.service.filter.Filter;
+import io.github.jhipster.service.filter.FloatFilter;
+import io.github.jhipster.service.filter.IntegerFilter;
+import io.github.jhipster.service.filter.LongFilter;
+import io.github.jhipster.service.filter.StringFilter;
+import io.github.jhipster.service.filter.BigDecimalFilter;
+import io.github.jhipster.service.filter.LocalDateFilter;
+
+/**
+ * Criteria class for the {@link com.cebrail.app.domain.Book} entity. This class is used
+ * in {@link com.cebrail.app.web.rest.BookResource} to receive all the possible filtering options from
+ * the Http GET request parameters.
+ * For example the following could be a valid request:
+ * {@code /books?id.greaterThan=5&amp;attr1.contains=something&amp;attr2.specified=false}
+ * As Spring is unable to properly convert the types, unless specific {@link Filter} class are used, we need to use
+ * fix type specific filters.
+ */
+public class BookCriteria implements Serializable, Criteria {
+
+    private static final long serialVersionUID = 1L;
+
+    private LongFilter id;
+
+    private StringFilter title;
+
+    private StringFilter description;
+
+    private LocalDateFilter publicationDate;
+
+    private BigDecimalFilter price;
+
+    private LongFilter authorId;
+
+<span class="fc" id="L41">    public BookCriteria() {</span>
+<span class="fc" id="L42">    }</span>
+
+<span class="nc" id="L44">    public BookCriteria(BookCriteria other) {</span>
+<span class="nc bnc" id="L45" title="All 2 branches missed.">        this.id = other.id == null ? null : other.id.copy();</span>
+<span class="nc bnc" id="L46" title="All 2 branches missed.">        this.title = other.title == null ? null : other.title.copy();</span>
+<span class="nc bnc" id="L47" title="All 2 branches missed.">        this.description = other.description == null ? null : other.description.copy();</span>
+<span class="nc bnc" id="L48" title="All 2 branches missed.">        this.publicationDate = other.publicationDate == null ? null : other.publicationDate.copy();</span>
+<span class="nc bnc" id="L49" title="All 2 branches missed.">        this.price = other.price == null ? null : other.price.copy();</span>
+<span class="nc bnc" id="L50" title="All 2 branches missed.">        this.authorId = other.authorId == null ? null : other.authorId.copy();</span>
+<span class="nc" id="L51">    }</span>
+
+    @Override
+    public BookCriteria copy() {
+<span class="nc" id="L55">        return new BookCriteria(this);</span>
+    }
+
+    public LongFilter getId() {
+<span class="fc" id="L59">        return id;</span>
+    }
+
+    public void setId(LongFilter id) {
+<span class="fc" id="L63">        this.id = id;</span>
+<span class="fc" id="L64">    }</span>
+
+    public StringFilter getTitle() {
+<span class="fc" id="L67">        return title;</span>
+    }
+
+    public void setTitle(StringFilter title) {
+<span class="fc" id="L71">        this.title = title;</span>
+<span class="fc" id="L72">    }</span>
+
+    public StringFilter getDescription() {
+<span class="fc" id="L75">        return description;</span>
+    }
+
+    public void setDescription(StringFilter description) {
+<span class="fc" id="L79">        this.description = description;</span>
+<span class="fc" id="L80">    }</span>
+
+    public LocalDateFilter getPublicationDate() {
+<span class="fc" id="L83">        return publicationDate;</span>
+    }
+
+    public void setPublicationDate(LocalDateFilter publicationDate) {
+<span class="fc" id="L87">        this.publicationDate = publicationDate;</span>
+<span class="fc" id="L88">    }</span>
+
+    public BigDecimalFilter getPrice() {
+<span class="fc" id="L91">        return price;</span>
+    }
+
+    public void setPrice(BigDecimalFilter price) {
+<span class="fc" id="L95">        this.price = price;</span>
+<span class="fc" id="L96">    }</span>
+
+    public LongFilter getAuthorId() {
+<span class="fc" id="L99">        return authorId;</span>
+    }
+
+    public void setAuthorId(LongFilter authorId) {
+<span class="fc" id="L103">        this.authorId = authorId;</span>
+<span class="fc" id="L104">    }</span>
+
+
+    @Override
+    public boolean equals(Object o) {
+<span class="nc bnc" id="L109" title="All 2 branches missed.">        if (this == o) {</span>
+<span class="nc" id="L110">            return true;</span>
+        }
+<span class="nc bnc" id="L112" title="All 4 branches missed.">        if (o == null || getClass() != o.getClass()) {</span>
+<span class="nc" id="L113">            return false;</span>
+        }
+<span class="nc" id="L115">        final BookCriteria that = (BookCriteria) o;</span>
+<span class="nc" id="L116">        return</span>
+<span class="nc bnc" id="L117" title="All 2 branches missed.">            Objects.equals(id, that.id) &amp;&amp;</span>
+<span class="nc bnc" id="L118" title="All 2 branches missed.">            Objects.equals(title, that.title) &amp;&amp;</span>
+<span class="nc bnc" id="L119" title="All 2 branches missed.">            Objects.equals(description, that.description) &amp;&amp;</span>
+<span class="nc bnc" id="L120" title="All 2 branches missed.">            Objects.equals(publicationDate, that.publicationDate) &amp;&amp;</span>
+<span class="nc bnc" id="L121" title="All 2 branches missed.">            Objects.equals(price, that.price) &amp;&amp;</span>
+<span class="nc bnc" id="L122" title="All 2 branches missed.">            Objects.equals(authorId, that.authorId);</span>
+    }
+
+    @Override
+    public int hashCode() {
+<span class="nc" id="L127">        return Objects.hash(</span>
+        id,
+        title,
+        description,
+        publicationDate,
+        price,
+        authorId
+        );
+    }
+
+    // prettier-ignore
+    @Override
+    public String toString() {
+<span class="nc" id="L140">        return &quot;BookCriteria{&quot; +</span>
+<span class="nc bnc" id="L141" title="All 2 branches missed.">                (id != null ? &quot;id=&quot; + id + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L142" title="All 2 branches missed.">                (title != null ? &quot;title=&quot; + title + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L143" title="All 2 branches missed.">                (description != null ? &quot;description=&quot; + description + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L144" title="All 2 branches missed.">                (publicationDate != null ? &quot;publicationDate=&quot; + publicationDate + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L145" title="All 2 branches missed.">                (price != null ? &quot;price=&quot; + price + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L146" title="All 2 branches missed.">                (authorId != null ? &quot;authorId=&quot; + authorId + &quot;, &quot; : &quot;&quot;) +</span>
+            &quot;}&quot;;
+    }
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

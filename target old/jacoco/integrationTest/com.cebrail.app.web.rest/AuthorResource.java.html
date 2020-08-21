@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>AuthorResource.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Cebrailapp</a> &gt; <a href="index.source.html" class="el_package">com.cebrail.app.web.rest</a> &gt; <span class="el_source">AuthorResource.java</span></div><h1>AuthorResource.java</h1><pre class="source lang-java linenums">package com.cebrail.app.web.rest;
+
+import com.cebrail.app.domain.Author;
+import com.cebrail.app.service.AuthorService;
+import com.cebrail.app.web.rest.errors.BadRequestAlertException;
+import com.cebrail.app.service.dto.AuthorCriteria;
+import com.cebrail.app.service.AuthorQueryService;
+
+import io.github.jhipster.web.util.HeaderUtil;
+import io.github.jhipster.web.util.PaginationUtil;
+import io.github.jhipster.web.util.ResponseUtil;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.List;
+import java.util.Optional;
+
+/**
+ * REST controller for managing {@link com.cebrail.app.domain.Author}.
+ */
+@RestController
+@RequestMapping(&quot;/api&quot;)
+public class AuthorResource {
+
+<span class="fc" id="L35">    private final Logger log = LoggerFactory.getLogger(AuthorResource.class);</span>
+
+    private static final String ENTITY_NAME = &quot;author&quot;;
+
+    @Value(&quot;${jhipster.clientApp.name}&quot;)
+    private String applicationName;
+
+    private final AuthorService authorService;
+
+    private final AuthorQueryService authorQueryService;
+
+<span class="fc" id="L46">    public AuthorResource(AuthorService authorService, AuthorQueryService authorQueryService) {</span>
+<span class="fc" id="L47">        this.authorService = authorService;</span>
+<span class="fc" id="L48">        this.authorQueryService = authorQueryService;</span>
+<span class="fc" id="L49">    }</span>
+
+    /**
+     * {@code POST  /authors} : Create a new author.
+     *
+     * @param author the author to create.
+     * @return the {@link ResponseEntity} with status {@code 201 (Created)} and with body the new author, or with status {@code 400 (Bad Request)} if the author has already an ID.
+     * @throws URISyntaxException if the Location URI syntax is incorrect.
+     */
+    @PostMapping(&quot;/authors&quot;)
+    public ResponseEntity&lt;Author&gt; createAuthor(@RequestBody Author author) throws URISyntaxException {
+<span class="fc" id="L60">        log.debug(&quot;REST request to save Author : {}&quot;, author);</span>
+<span class="fc bfc" id="L61" title="All 2 branches covered.">        if (author.getId() != null) {</span>
+<span class="fc" id="L62">            throw new BadRequestAlertException(&quot;A new author cannot already have an ID&quot;, ENTITY_NAME, &quot;idexists&quot;);</span>
+        }
+<span class="fc" id="L64">        Author result = authorService.save(author);</span>
+<span class="fc" id="L65">        return ResponseEntity.created(new URI(&quot;/api/authors/&quot; + result.getId()))</span>
+<span class="fc" id="L66">            .headers(HeaderUtil.createEntityCreationAlert(applicationName, true, ENTITY_NAME, result.getId().toString()))</span>
+<span class="fc" id="L67">            .body(result);</span>
+    }
+
+    /**
+     * {@code PUT  /authors} : Updates an existing author.
+     *
+     * @param author the author to update.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and with body the updated author,
+     * or with status {@code 400 (Bad Request)} if the author is not valid,
+     * or with status {@code 500 (Internal Server Error)} if the author couldn't be updated.
+     * @throws URISyntaxException if the Location URI syntax is incorrect.
+     */
+    @PutMapping(&quot;/authors&quot;)
+    public ResponseEntity&lt;Author&gt; updateAuthor(@RequestBody Author author) throws URISyntaxException {
+<span class="fc" id="L81">        log.debug(&quot;REST request to update Author : {}&quot;, author);</span>
+<span class="fc bfc" id="L82" title="All 2 branches covered.">        if (author.getId() == null) {</span>
+<span class="fc" id="L83">            throw new BadRequestAlertException(&quot;Invalid id&quot;, ENTITY_NAME, &quot;idnull&quot;);</span>
+        }
+<span class="fc" id="L85">        Author result = authorService.save(author);</span>
+<span class="fc" id="L86">        return ResponseEntity.ok()</span>
+<span class="fc" id="L87">            .headers(HeaderUtil.createEntityUpdateAlert(applicationName, true, ENTITY_NAME, author.getId().toString()))</span>
+<span class="fc" id="L88">            .body(result);</span>
+    }
+
+    /**
+     * {@code GET  /authors} : get all the authors.
+     *
+     * @param pageable the pagination information.
+     * @param criteria the criteria which the requested entities should match.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and the list of authors in body.
+     */
+    @GetMapping(&quot;/authors&quot;)
+    public ResponseEntity&lt;List&lt;Author&gt;&gt; getAllAuthors(AuthorCriteria criteria, Pageable pageable) {
+<span class="fc" id="L100">        log.debug(&quot;REST request to get Authors by criteria: {}&quot;, criteria);</span>
+<span class="fc" id="L101">        Page&lt;Author&gt; page = authorQueryService.findByCriteria(criteria, pageable);</span>
+<span class="fc" id="L102">        HttpHeaders headers = PaginationUtil.generatePaginationHttpHeaders(ServletUriComponentsBuilder.fromCurrentRequest(), page);</span>
+<span class="fc" id="L103">        return ResponseEntity.ok().headers(headers).body(page.getContent());</span>
+    }
+
+    /**
+     * {@code GET  /authors/count} : count all the authors.
+     *
+     * @param criteria the criteria which the requested entities should match.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and the count in body.
+     */
+    @GetMapping(&quot;/authors/count&quot;)
+    public ResponseEntity&lt;Long&gt; countAuthors(AuthorCriteria criteria) {
+<span class="fc" id="L114">        log.debug(&quot;REST request to count Authors by criteria: {}&quot;, criteria);</span>
+<span class="fc" id="L115">        return ResponseEntity.ok().body(authorQueryService.countByCriteria(criteria));</span>
+    }
+
+    /**
+     * {@code GET  /authors/:id} : get the &quot;id&quot; author.
+     *
+     * @param id the id of the author to retrieve.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and with body the author, or with status {@code 404 (Not Found)}.
+     */
+    @GetMapping(&quot;/authors/{id}&quot;)
+    public ResponseEntity&lt;Author&gt; getAuthor(@PathVariable Long id) {
+<span class="fc" id="L126">        log.debug(&quot;REST request to get Author : {}&quot;, id);</span>
+<span class="fc" id="L127">        Optional&lt;Author&gt; author = authorService.findOne(id);</span>
+<span class="fc" id="L128">        return ResponseUtil.wrapOrNotFound(author);</span>
+    }
+
+    /**
+     * {@code DELETE  /authors/:id} : delete the &quot;id&quot; author.
+     *
+     * @param id the id of the author to delete.
+     * @return the {@link ResponseEntity} with status {@code 204 (NO_CONTENT)}.
+     */
+    @DeleteMapping(&quot;/authors/{id}&quot;)
+    public ResponseEntity&lt;Void&gt; deleteAuthor(@PathVariable Long id) {
+<span class="fc" id="L139">        log.debug(&quot;REST request to delete Author : {}&quot;, id);</span>
+<span class="fc" id="L140">        authorService.delete(id);</span>
+<span class="fc" id="L141">        return ResponseEntity.noContent().headers(HeaderUtil.createEntityDeletionAlert(applicationName, true, ENTITY_NAME, id.toString())).build();</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

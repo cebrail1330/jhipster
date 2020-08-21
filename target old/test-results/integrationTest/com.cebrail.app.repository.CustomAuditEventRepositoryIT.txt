@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cebrail.app.repository.CustomAuditEventRepositoryIT
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.39 s - in com.cebrail.app.repository.CustomAuditEventRepositoryIT

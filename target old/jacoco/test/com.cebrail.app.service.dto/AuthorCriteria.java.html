@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>AuthorCriteria.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Cebrailapp</a> &gt; <a href="index.source.html" class="el_package">com.cebrail.app.service.dto</a> &gt; <span class="el_source">AuthorCriteria.java</span></div><h1>AuthorCriteria.java</h1><pre class="source lang-java linenums">package com.cebrail.app.service.dto;
+
+import java.io.Serializable;
+import java.util.Objects;
+import io.github.jhipster.service.Criteria;
+import io.github.jhipster.service.filter.BooleanFilter;
+import io.github.jhipster.service.filter.DoubleFilter;
+import io.github.jhipster.service.filter.Filter;
+import io.github.jhipster.service.filter.FloatFilter;
+import io.github.jhipster.service.filter.IntegerFilter;
+import io.github.jhipster.service.filter.LongFilter;
+import io.github.jhipster.service.filter.StringFilter;
+import io.github.jhipster.service.filter.LocalDateFilter;
+
+/**
+ * Criteria class for the {@link com.cebrail.app.domain.Author} entity. This class is used
+ * in {@link com.cebrail.app.web.rest.AuthorResource} to receive all the possible filtering options from
+ * the Http GET request parameters.
+ * For example the following could be a valid request:
+ * {@code /authors?id.greaterThan=5&amp;attr1.contains=something&amp;attr2.specified=false}
+ * As Spring is unable to properly convert the types, unless specific {@link Filter} class are used, we need to use
+ * fix type specific filters.
+ */
+public class AuthorCriteria implements Serializable, Criteria {
+
+    private static final long serialVersionUID = 1L;
+
+    private LongFilter id;
+
+    private StringFilter name;
+
+    private LocalDateFilter birthDate;
+
+    private LongFilter bookId;
+
+<span class="nc" id="L36">    public AuthorCriteria() {</span>
+<span class="nc" id="L37">    }</span>
+
+<span class="nc" id="L39">    public AuthorCriteria(AuthorCriteria other) {</span>
+<span class="nc bnc" id="L40" title="All 2 branches missed.">        this.id = other.id == null ? null : other.id.copy();</span>
+<span class="nc bnc" id="L41" title="All 2 branches missed.">        this.name = other.name == null ? null : other.name.copy();</span>
+<span class="nc bnc" id="L42" title="All 2 branches missed.">        this.birthDate = other.birthDate == null ? null : other.birthDate.copy();</span>
+<span class="nc bnc" id="L43" title="All 2 branches missed.">        this.bookId = other.bookId == null ? null : other.bookId.copy();</span>
+<span class="nc" id="L44">    }</span>
+
+    @Override
+    public AuthorCriteria copy() {
+<span class="nc" id="L48">        return new AuthorCriteria(this);</span>
+    }
+
+    public LongFilter getId() {
+<span class="nc" id="L52">        return id;</span>
+    }
+
+    public void setId(LongFilter id) {
+<span class="nc" id="L56">        this.id = id;</span>
+<span class="nc" id="L57">    }</span>
+
+    public StringFilter getName() {
+<span class="nc" id="L60">        return name;</span>
+    }
+
+    public void setName(StringFilter name) {
+<span class="nc" id="L64">        this.name = name;</span>
+<span class="nc" id="L65">    }</span>
+
+    public LocalDateFilter getBirthDate() {
+<span class="nc" id="L68">        return birthDate;</span>
+    }
+
+    public void setBirthDate(LocalDateFilter birthDate) {
+<span class="nc" id="L72">        this.birthDate = birthDate;</span>
+<span class="nc" id="L73">    }</span>
+
+    public LongFilter getBookId() {
+<span class="nc" id="L76">        return bookId;</span>
+    }
+
+    public void setBookId(LongFilter bookId) {
+<span class="nc" id="L80">        this.bookId = bookId;</span>
+<span class="nc" id="L81">    }</span>
+
+
+    @Override
+    public boolean equals(Object o) {
+<span class="nc bnc" id="L86" title="All 2 branches missed.">        if (this == o) {</span>
+<span class="nc" id="L87">            return true;</span>
+        }
+<span class="nc bnc" id="L89" title="All 4 branches missed.">        if (o == null || getClass() != o.getClass()) {</span>
+<span class="nc" id="L90">            return false;</span>
+        }
+<span class="nc" id="L92">        final AuthorCriteria that = (AuthorCriteria) o;</span>
+<span class="nc" id="L93">        return</span>
+<span class="nc bnc" id="L94" title="All 2 branches missed.">            Objects.equals(id, that.id) &amp;&amp;</span>
+<span class="nc bnc" id="L95" title="All 2 branches missed.">            Objects.equals(name, that.name) &amp;&amp;</span>
+<span class="nc bnc" id="L96" title="All 2 branches missed.">            Objects.equals(birthDate, that.birthDate) &amp;&amp;</span>
+<span class="nc bnc" id="L97" title="All 2 branches missed.">            Objects.equals(bookId, that.bookId);</span>
+    }
+
+    @Override
+    public int hashCode() {
+<span class="nc" id="L102">        return Objects.hash(</span>
+        id,
+        name,
+        birthDate,
+        bookId
+        );
+    }
+
+    // prettier-ignore
+    @Override
+    public String toString() {
+<span class="nc" id="L113">        return &quot;AuthorCriteria{&quot; +</span>
+<span class="nc bnc" id="L114" title="All 2 branches missed.">                (id != null ? &quot;id=&quot; + id + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L115" title="All 2 branches missed.">                (name != null ? &quot;name=&quot; + name + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L116" title="All 2 branches missed.">                (birthDate != null ? &quot;birthDate=&quot; + birthDate + &quot;, &quot; : &quot;&quot;) +</span>
+<span class="nc bnc" id="L117" title="All 2 branches missed.">                (bookId != null ? &quot;bookId=&quot; + bookId + &quot;, &quot; : &quot;&quot;) +</span>
+            &quot;}&quot;;
+    }
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

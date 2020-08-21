@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>BookQueryService.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Cebrailapp</a> &gt; <a href="index.source.html" class="el_package">com.cebrail.app.service</a> &gt; <span class="el_source">BookQueryService.java</span></div><h1>BookQueryService.java</h1><pre class="source lang-java linenums">package com.cebrail.app.service;
+
+import java.util.List;
+
+import javax.persistence.criteria.JoinType;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.jpa.domain.Specification;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import io.github.jhipster.service.QueryService;
+
+import com.cebrail.app.domain.Book;
+import com.cebrail.app.domain.*; // for static metamodels
+import com.cebrail.app.repository.BookRepository;
+import com.cebrail.app.service.dto.BookCriteria;
+
+/**
+ * Service for executing complex queries for {@link Book} entities in the database.
+ * The main input is a {@link BookCriteria} which gets converted to {@link Specification},
+ * in a way that all the filters must apply.
+ * It returns a {@link List} of {@link Book} or a {@link Page} of {@link Book} which fulfills the criteria.
+ */
+@Service
+@Transactional(readOnly = true)
+public class BookQueryService extends QueryService&lt;Book&gt; {
+
+<span class="nc" id="L32">    private final Logger log = LoggerFactory.getLogger(BookQueryService.class);</span>
+
+    private final BookRepository bookRepository;
+
+<span class="nc" id="L36">    public BookQueryService(BookRepository bookRepository) {</span>
+<span class="nc" id="L37">        this.bookRepository = bookRepository;</span>
+<span class="nc" id="L38">    }</span>
+
+    /**
+     * Return a {@link List} of {@link Book} which matches the criteria from the database.
+     * @param criteria The object which holds all the filters, which the entities should match.
+     * @return the matching entities.
+     */
+    @Transactional(readOnly = true)
+    public List&lt;Book&gt; findByCriteria(BookCriteria criteria) {
+<span class="nc" id="L47">        log.debug(&quot;find by criteria : {}&quot;, criteria);</span>
+<span class="nc" id="L48">        final Specification&lt;Book&gt; specification = createSpecification(criteria);</span>
+<span class="nc" id="L49">        return bookRepository.findAll(specification);</span>
+    }
+
+    /**
+     * Return a {@link Page} of {@link Book} which matches the criteria from the database.
+     * @param criteria The object which holds all the filters, which the entities should match.
+     * @param page The page, which should be returned.
+     * @return the matching entities.
+     */
+    @Transactional(readOnly = true)
+    public Page&lt;Book&gt; findByCriteria(BookCriteria criteria, Pageable page) {
+<span class="nc" id="L60">        log.debug(&quot;find by criteria : {}, page: {}&quot;, criteria, page);</span>
+<span class="nc" id="L61">        final Specification&lt;Book&gt; specification = createSpecification(criteria);</span>
+<span class="nc" id="L62">        return bookRepository.findAll(specification, page);</span>
+    }
+
+    /**
+     * Return the number of matching entities in the database.
+     * @param criteria The object which holds all the filters, which the entities should match.
+     * @return the number of matching entities.
+     */
+    @Transactional(readOnly = true)
+    public long countByCriteria(BookCriteria criteria) {
+<span class="nc" id="L72">        log.debug(&quot;count by criteria : {}&quot;, criteria);</span>
+<span class="nc" id="L73">        final Specification&lt;Book&gt; specification = createSpecification(criteria);</span>
+<span class="nc" id="L74">        return bookRepository.count(specification);</span>
+    }
+
+    /**
+     * Function to convert {@link BookCriteria} to a {@link Specification}
+     * @param criteria The object which holds all the filters, which the entities should match.
+     * @return the matching {@link Specification} of the entity.
+     */
+    protected Specification&lt;Book&gt; createSpecification(BookCriteria criteria) {
+<span class="nc" id="L83">        Specification&lt;Book&gt; specification = Specification.where(null);</span>
+<span class="nc bnc" id="L84" title="All 2 branches missed.">        if (criteria != null) {</span>
+<span class="nc bnc" id="L85" title="All 2 branches missed.">            if (criteria.getId() != null) {</span>
+<span class="nc" id="L86">                specification = specification.and(buildRangeSpecification(criteria.getId(), Book_.id));</span>
+            }
+<span class="nc bnc" id="L88" title="All 2 branches missed.">            if (criteria.getTitle() != null) {</span>
+<span class="nc" id="L89">                specification = specification.and(buildStringSpecification(criteria.getTitle(), Book_.title));</span>
+            }
+<span class="nc bnc" id="L91" title="All 2 branches missed.">            if (criteria.getDescription() != null) {</span>
+<span class="nc" id="L92">                specification = specification.and(buildStringSpecification(criteria.getDescription(), Book_.description));</span>
+            }
+<span class="nc bnc" id="L94" title="All 2 branches missed.">            if (criteria.getPublicationDate() != null) {</span>
+<span class="nc" id="L95">                specification = specification.and(buildRangeSpecification(criteria.getPublicationDate(), Book_.publicationDate));</span>
+            }
+<span class="nc bnc" id="L97" title="All 2 branches missed.">            if (criteria.getPrice() != null) {</span>
+<span class="nc" id="L98">                specification = specification.and(buildRangeSpecification(criteria.getPrice(), Book_.price));</span>
+            }
+<span class="nc bnc" id="L100" title="All 2 branches missed.">            if (criteria.getAuthorId() != null) {</span>
+<span class="nc" id="L101">                specification = specification.and(buildSpecification(criteria.getAuthorId(),</span>
+<span class="nc" id="L102">                    root -&gt; root.join(Book_.authors, JoinType.LEFT).get(Author_.id)));</span>
+            }
+        }
+<span class="nc" id="L105">        return specification;</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

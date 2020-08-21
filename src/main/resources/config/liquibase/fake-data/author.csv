@@ -1,0 +1,5000 @@
+id;name;birth_date
+1;Susan Cooper;2020-07-15
+2;Terry Brooks;2020-07-16
+3;Isaac Asimov;2020-07-16
+4;Candace Bushnell;2020-07-16
+5;Jerry Spinelli;2020-07-15
+6;Jodi Picoult;2020-07-15
+7;Jodi Picoult;2020-07-16
+8;Gary Jennings;2020-07-15
+9;Brian Jacques;2020-07-16
+10;Cassandra Clare;2020-07-16
+11;Kate Morton;2020-07-15
+12;Frederick Forsyth;2020-07-16
+13;Charlaine Harris;2020-07-16
+14;Tamora Pierce;2020-07-16
+15;Walter Isaacson;2020-07-15
+16;Tamora Pierce;2020-07-15
+17;Cecelia Ahern;2020-07-16
+18;Kristin Cashore;2020-07-15
+19;Henry James;2020-07-16
+20;David James Duncan;2020-07-16
+21;Jodi Picoult;2020-07-15
+22;Janet Evanovich;2020-07-16
+23;Jeaniene Frost;2020-07-16
+24;Marie Lu;2020-07-16
+25;Ted Dekker;2020-07-15
+26;Nelson DeMille;2020-07-15
+27;John Grisham;2020-07-16
+28;Rainbow Rowell;2020-07-15
+29;Rick Riordan;2020-07-16
+30;Harlan Coben;2020-07-16
+31;Mary Higgins Clark;2020-07-15
+32;Sally Green;2020-07-16
+33;Oscar Wilde;2020-07-16
+34;Kelley Armstrong;2020-07-16
+35;Charles Bukowski;2020-07-15
+36;Melissa de la Cruz;2020-07-15
+37;Don Freeman;2020-07-16
+38;John Grisham;2020-07-15
+39;Richard Yates;2020-07-16
+40;William Gibson;2020-07-16
+41;Joseph Heller;2020-07-15
+42;Tori Spelling;2020-07-16
+43;Ezra Jack Keats;2020-07-16
+44;Chuck Palahniuk;2020-07-16
+45;Malorie Blackman;2020-07-15
+46;Vince Flynn;2020-07-15
+47;Laura McHugh;2020-07-16
+48;George Saunders;2020-07-15
+49;Lara Adrian;2020-07-16
+50;Bill Clegg;2020-07-16
+51;Judith Kerr;2020-07-15
+52;David Wiesner;2020-07-16
+53;P.G. Wodehouse;2020-07-16
+54;Laurell K. Hamilton;2020-07-16
+55;Clive Barker;2020-07-15
+56;Jack London;2020-07-15
+57;Susan  Wilson;2020-07-16
+58;Terry Brooks;2020-07-15
+59;Brady Udall;2020-07-16
+60;C.C. Hunter;2020-07-16
+61;J.R. Ward;2020-07-15
+62;Philip Roth;2020-07-16
+63;Richard Matheson;2020-07-16
+64;Rachel Hawkins;2020-07-16
+65;Stephen King;2020-07-15
+66;Iain M. Banks;2020-07-15
+67;Virginia Woolf;2020-07-16
+68;James Patterson;2020-07-15
+69;Meg Cabot;2020-07-16
+70;Terry Brooks;2020-07-16
+71;David Gemmell;2020-07-15
+72;Megan Whalen Turner;2020-07-16
+73;Jennifer Crusie;2020-07-16
+74;Isaac Asimov;2020-07-16
+75;Laurell K. Hamilton;2020-07-15
+76;W. Bruce Cameron;2020-07-15
+77;Mike Carey;2020-07-16
+78;David Mitchell;2020-07-15
+79;Tessa Dare;2020-07-16
+80;Cecelia Ahern;2020-07-16
+81;Patrick O'Brian;2020-07-15
+82;Alison Weir;2020-07-16
+83;Kelley Armstrong;2020-07-16
+84;Tamora Pierce;2020-07-16
+85;James Patterson;2020-07-15
+86;Terry Pratchett;2020-07-15
+87;Bryce Courtenay;2020-07-16
+88;Deborah Harkness;2020-07-15
+89;Sam Harris;2020-07-16
+90;Karin Slaughter;2020-07-16
+91;Liane Moriarty;2020-07-15
+92;Robert   Harris;2020-07-16
+93;Maya Banks;2020-07-16
+94;Jennifer Rush;2020-07-16
+95;Karin Slaughter;2020-07-15
+96;Steve Berry;2020-07-15
+97;Mary Higgins Clark;2020-07-16
+98;Dolen Perkins-Valdez;2020-07-15
+99;Kim Stanley Robinson;2020-07-16
+100;Kass Morgan;2020-07-16
+101;Rick Riordan;2020-07-15
+102;Audrey Niffenegger;2020-07-16
+103;"V.E. Schwab; Victoria Schwab";2020-07-16
+104;Katie Alender;2020-07-16
+105;Isaac Asimov;2020-07-15
+106;Danielle Steel;2020-07-15
+107;David Herbert Donald;2020-07-16
+108;Rick Riordan;2020-07-15
+109;Henry Miller;2020-07-16
+110;Toni Morrison;2020-07-16
+111;Melanie Gideon;2020-07-15
+112;Arnold Lobel;2020-07-16
+113;Barbara Kingsolver;2020-07-16
+114;Kurt Vonnegut Jr.;2020-07-16
+115;Janet Evanovich;2020-07-15
+116;Charles Dickens;2020-07-15
+117;Jane Green;2020-07-16
+118;Kazuo Ishiguro;2020-07-15
+119;Alistair MacLean;2020-07-16
+120;Margaret Atwood;2020-07-16
+121;Daniel Silva;2020-07-15
+122;Sherrilyn Kenyon;2020-07-16
+123;Kevin Hearne;2020-07-16
+124;Robert K. Massie;2020-07-16
+125;C.S. Lewis;2020-07-15
+126;P.G. Wodehouse;2020-07-15
+127;Linda Howard;2020-07-16
+128;Erin Hunter;2020-07-15
+129;Clare Vanderpool;2020-07-16
+130;Margaret Atwood;2020-07-16
+131;Dean Koontz;2020-07-15
+132;Beth Harbison;2020-07-16
+133;Julie Garwood;2020-07-16
+134;Daniel Woodrell;2020-07-16
+135;James Agee;2020-07-15
+136;John Grisham;2020-07-15
+137;Jean Anouilh;2020-07-16
+138;William Gibson;2020-07-15
+139;"Roald Dahl; Quentin Blake";2020-07-16
+140;Alison Weir;2020-07-16
+141;Rita Williams-Garcia;2020-07-15
+142;Lauren Kate;2020-07-16
+143;Ray Bradbury;2020-07-16
+144;Joelle Charbonneau;2020-07-16
+145;Julie Buxbaum;2020-07-15
+146;Louise Penny;2020-07-15
+147;Terry Pratchett;2020-07-16
+148;Jennifer Weiner;2020-07-15
+149;Jeanne DuPrau;2020-07-16
+150;Lorrie Moore;2020-07-16
+151;Jeff Kinney;2020-07-15
+152;Georgia Cates;2020-07-16
+153;Ken Follett;2020-07-16
+154;Indu Sundaresan;2020-07-16
+155;James Ellroy;2020-07-15
+156;Chuck Palahniuk;2020-07-15
+157;Laini Taylor;2020-07-16
+158;Diana Gabaldon;2020-07-15
+159;Rodman Philbrick;2020-07-16
+160;Kim Stanley Robinson;2020-07-16
+161;Jeffrey Eugenides;2020-07-15
+162;Peter F. Hamilton;2020-07-16
+163;Tim Winton;2020-07-16
+164;Laurell K. Hamilton;2020-07-16
+165;Frances Mayes;2020-07-15
+166;Arthur Golden;2020-07-15
+167;James Frey;2020-07-16
+168;John Grisham;2020-07-15
+169;Kendare Blake;2020-07-16
+170;Carl Hiaasen;2020-07-16
+171;J.G. Ballard;2020-07-15
+172;Jessie Burton;2020-07-16
+173;Rick Riordan;2020-07-16
+174;Leon Uris;2020-07-16
+175;John Grisham;2020-07-15
+176;Daniel Keyes;2020-07-15
+177;Kaye Gibbons;2020-07-16
+178;Mary  Stewart;2020-07-15
+179;J.D. Robb;2020-07-16
+180;Jeffrey Archer;2020-07-16
+181;Ludwig Bemelmans;2020-07-15
+182;Melissa Senate;2020-07-16
+183;Alice Sebold;2020-07-16
+184;Liane Moriarty;2020-07-16
+185;Patricia Briggs;2020-07-15
+186;Ann Hood;2020-07-15
+187;Tedd Arnold;2020-07-16
+188;Dean Koontz;2020-07-15
+189;Jeaniene Frost;2020-07-16
+190;Margaret Leroy;2020-07-16
+191;James Lee Burke;2020-07-15
+192;Teri Terry;2020-07-16
+193;Martin Heidegger;2020-07-16
+194;David Baldacci;2020-07-16
+195;Michael Crichton;2020-07-15
+196;Kevin Henkes;2020-07-15
+197;John  Stephens;2020-07-16
+198;Robin Hobb;2020-07-15
+199;Nelson DeMille;2020-07-16
+200;Jeannette Walls;2020-07-16
+201;Terry Pratchett;2020-07-15
+202;Michel Houellebecq;2020-07-16
+203;Clive Barker;2020-07-16
+204;Neal Stephenson;2020-07-16
+205;Alastair Reynolds;2020-07-15
+206;Nora Roberts;2020-07-15
+207;Jim Butcher;2020-07-16
+208;Neil Strauss;2020-07-15
+209;V.C. Andrews;2020-07-16
+210;Kent Haruf;2020-07-16
+211;David Nicholls;2020-07-15
+212;Maria V. Snyder;2020-07-16
+213;Ian McEwan;2020-07-16
+214;Robert Crais;2020-07-16
+215;Mary Higgins Clark;2020-07-15
+216;Daniel Silva;2020-07-15
+217;L.J. Smith;2020-07-16
+218;Jandy Nelson;2020-07-15
+219;Scott Anderson;2020-07-16
+220;Lauren Beukes;2020-07-16
+221;David Baldacci;2020-07-15
+222;F. Scott Fitzgerald;2020-07-16
+223;Patricia Cornwell;2020-07-16
+224;Nicole  Williams;2020-07-16
+225;J.D. Robb;2020-07-15
+226;Barbara Kingsolver;2020-07-15
+227;Craig Ferguson;2020-07-16
+228;Michael Crichton;2020-07-15
+229;Lisa Kleypas;2020-07-16
+230;Patricia Cornwell;2020-07-16
+231;Margaret Atwood;2020-07-15
+232;Paolo Bacigalupi;2020-07-16
+233;Orson Scott Card;2020-07-16
+234;R.L. Stine;2020-07-16
+235;Michael J. Sullivan;2020-07-15
+236;Ursula K. Le Guin;2020-07-15
+237;Avi;2020-07-16
+238;Edan Lepucki;2020-07-15
+239;Madeline Miller;2020-07-16
+240;John Sandford;2020-07-16
+241;Laura Dave;2020-07-15
+242;Abbi Glines;2020-07-16
+243;Edgar Allan Poe;2020-07-16
+244;Anita Shreve;2020-07-16
+245;Kathryn Lasky;2020-07-15
+246;Linwood Barclay;2020-07-15
+247;Brian Staveley;2020-07-16
+248;Scott McCloud;2020-07-15
+249;Sherrilyn Kenyon;2020-07-16
+250;Nora Roberts;2020-07-16
+251;Jennifer Estep;2020-07-15
+252;Philip Pullman;2020-07-16
+253;Andy Weir;2020-07-16
+254;M.L. Stedman;2020-07-16
+255;Lauren Kate;2020-07-15
+256;Vince Flynn;2020-07-15
+257;Vince Flynn;2020-07-16
+258;Jonathan Harr;2020-07-15
+259;Emma Donoghue;2020-07-16
+260;Nevil Shute;2020-07-16
+261;Raymond E. Feist;2020-07-15
+262;David Eddings;2020-07-16
+263;Stephen King;2020-07-16
+264;Ted Dekker;2020-07-16
+265;Jana Deleon;2020-07-15
+266;Francine Rivers;2020-07-15
+267;Nora Roberts;2020-07-16
+268;Lev Grossman;2020-07-15
+269;Sidney Sheldon;2020-07-16
+270;Elizabeth Berg;2020-07-16
+271;Tess Gerritsen;2020-07-15
+272;Jim Butcher;2020-07-16
+273;Malcolm Gladwell;2020-07-16
+274;William Faulkner;2020-07-16
+275;Kady Cross;2020-07-15
+276;Steve Berry;2020-07-15
+277;James Patterson;2020-07-16
+278;Larissa Ione;2020-07-15
+279;Dennis Lehane;2020-07-16
+280;Kate Mosse;2020-07-16
+281;Kristen Ashley;2020-07-15
+282;James Patterson;2020-07-16
+283;Tahereh Mafi;2020-07-16
+284;Meg Rosoff;2020-07-16
+285;David McCullough;2020-07-15
+286;Kristin Hannah;2020-07-15
+287;Suzanne Collins;2020-07-16
+288;Julia Quinn;2020-07-15
+289;Agatha Christie;2020-07-16
+290;James Patterson;2020-07-16
+291;Richelle Mead;2020-07-15
+292;Brian Lumley;2020-07-16
+293;James Patterson;2020-07-16
+294;Brian Jacques;2020-07-16
+295;Jeffery Deaver;2020-07-15
+296;Terry Pratchett;2020-07-15
+297;Tom Robbins;2020-07-16
+298;Betty Mahmoody;2020-07-15
+299;Kathy Reichs;2020-07-16
+300;Kiersten White;2020-07-16
+301;John Wyndham;2020-07-15
+302;Paul O. Zelinsky;2020-07-16
+303;Jennifer L. Armentrout;2020-07-16
+304;Ruth Wariner;2020-07-16
+305;Chris Gardner;2020-07-15
+306;Kurt Vonnegut Jr.;2020-07-15
+307;Shel Silverstein;2020-07-16
+308;Nicholas Sparks;2020-07-15
+309;Cassandra Clare;2020-07-16
+310;Mitch Albom;2020-07-16
+311;Arthur C. Clarke;2020-07-15
+312;Michael Scott;2020-07-16
+313;Terry Pratchett;2020-07-16
+314;Clive Barker;2020-07-16
+315;Sylvain Reynard;2020-07-15
+316;Sue Grafton;2020-07-15
+317;Steven Erikson;2020-07-16
+318;J.D. Robb;2020-07-15
+319;Karen Cushman;2020-07-16
+320;Ravinder Singh;2020-07-16
+321;Sophie Kinsella;2020-07-15
+322;Tom Rob Smith;2020-07-16
+323;Larry Niven;2020-07-16
+324;Melissa de la Cruz;2020-07-16
+325;Sarah Addison Allen;2020-07-15
+326;Robert Crais;2020-07-15
+327;Trudi Canavan;2020-07-16
+328;George R. Stewart;2020-07-15
+329;Julie Anne Peters;2020-07-16
+330;Glen Cook;2020-07-16
+331;Piers Anthony;2020-07-15
+332;Steven Erikson;2020-07-16
+333;Cecelia Ahern;2020-07-16
+334;Patricia Gaffney;2020-07-16
+335;Juliet Marillier;2020-07-15
+336;Nora Roberts;2020-07-15
+337;Stephen King;2020-07-16
+338;Sidney Sheldon;2020-07-15
+339;Ben Mikaelsen;2020-07-16
+340;Yann Martel;2020-07-16
+341;Lauren Kate;2020-07-15
+342;Ian McEwan;2020-07-16
+343;Cinda Williams Chima;2020-07-16
+344;Lauren Blakely;2020-07-16
+345;Jodi Picoult;2020-07-15
+346;Kristin Hannah;2020-07-15
+347;Robert Crais;2020-07-16
+348;Sylvia Day;2020-07-15
+349;V.C. Andrews;2020-07-16
+350;Peter V. Brett;2020-07-16
+351;E.L. James;2020-07-15
+352;Dean Koontz;2020-07-16
+353;John Grisham;2020-07-16
+354;Ellen Hopkins;2020-07-16
+355;Erin Hunter;2020-07-15
+356;D.J. MacHale;2020-07-15
+357;Lauren Oliver;2020-07-16
+358;Mercedes Lackey;2020-07-15
+359;Chetan Bhagat;2020-07-16
+360;"Larry Niven; Jerry Pournelle";2020-07-16
+361;Ben Hatke;2020-07-15
+362;Ha Jin;2020-07-16
+363;Sarah J. Maas;2020-07-16
+364;Lawrence Hill;2020-07-16
+365;Jordan Belfort;2020-07-15
+366;Julia Quinn;2020-07-15
+367;J.D. Robb;2020-07-16
+368;Ernest Hemingway;2020-07-15
+369;"Angie Sage; Mark Zug";2020-07-16
+370;Catherine Coulter;2020-07-16
+371;Brandon Mull;2020-07-15
+372;Kathy Reichs;2020-07-16
+373;Alice Munro;2020-07-16
+374;Tom Clancy;2020-07-16
+375;Simone Elkeles;2020-07-15
+376;Arthur Nersesian;2020-07-15
+377;Naomi Novik;2020-07-16
+378;Harlan Coben;2020-07-15
+379;Jeffrey Archer;2020-07-16
+380;Michael Connelly;2020-07-16
+381;Ilsa J. Bick;2020-07-15
+382;Brandon Sanderson;2020-07-16
+383;Peter Shaffer;2020-07-16
+384;Sidney Sheldon;2020-07-16
+385;Lois McMaster Bujold;2020-07-15
+386;Maya Banks;2020-07-15
+387;Michael Connelly;2020-07-16
+388;Mary Kay Andrews;2020-07-15
+389;Gillian Flynn;2020-07-16
+390;Sheila Burnford;2020-07-16
+391;Emily Giffin;2020-07-15
+392;David Baldacci;2020-07-16
+393;Cynthia Bond;2020-07-16
+394;Nic Pizzolatto;2020-07-16
+395;Nora Roberts;2020-07-15
+396;Frank Herbert;2020-07-15
+397;J.D. Robb;2020-07-16
+398;Courtney Milan;2020-07-15
+399;Susan Cooper;2020-07-16
+400;Maya Banks;2020-07-16
+401;Adam Johnson;2020-07-15
+402;Rick Yancey;2020-07-16
+403;Dean Koontz;2020-07-16
+404;Jennifer Echols;2020-07-16
+405;Kiera Cass;2020-07-15
+406;James Patterson;2020-07-15
+407;Carrie Jones;2020-07-16
+408;Richard Branson;2020-07-15
+409;Douglas Preston;2020-07-16
+410;Pittacus Lore;2020-07-16
+411;H. Rider Haggard;2020-07-15
+412;Lolly Winston;2020-07-16
+413;Scott Westerfeld;2020-07-16
+414;Jack Kerouac;2020-07-16
+415;Douglas Coupland;2020-07-15
+416;James Patterson;2020-07-15
+417;T.A. Barron;2020-07-16
+418;Lynda Mullaly Hunt;2020-07-15
+419;Harlan Coben;2020-07-16
+420;Richard Peck;2020-07-16
+421;Piers Anthony;2020-07-15
+422;Allen Eskens;2020-07-16
+423;Jennifer Donnelly;2020-07-16
+424;Daniel Silva;2020-07-16
+425;T.H. White;2020-07-15
+426;Mike Mullin;2020-07-15
+427;Peter Shaffer;2020-07-16
+428;Isaac Marion;2020-07-15
+429;Jodi Picoult;2020-07-16
+430;Kim Harrison;2020-07-16
+431;Vince Flynn;2020-07-15
+432;Jandy Nelson;2020-07-16
+433;Terry Pratchett;2020-07-16
+434;Jodi Picoult;2020-07-16
+435;Paul Auster;2020-07-15
+436;Michael  Grant;2020-07-15
+437;F. Paul Wilson;2020-07-16
+438;Geraldine Brooks;2020-07-15
+439;Marissa Meyer;2020-07-16
+440;Aprilynne Pike;2020-07-16
+441;Joel C. Rosenberg;2020-07-15
+442;Lisa Gardner;2020-07-16
+443;Emma Straub;2020-07-16
+444;Clive Barker;2020-07-16
+445;James Patterson;2020-07-15
+446;Brian Jacques;2020-07-15
+447;Robert Crais;2020-07-16
+448;Dean Koontz;2020-07-15
+449;Truman Capote;2020-07-16
+450;Toni Morrison;2020-07-16
+451;Liane Moriarty;2020-07-15
+452;Nelson DeMille;2020-07-16
+453;Matthew Reilly;2020-07-16
+454;Sue Miller;2020-07-16
+455;Peter Heller;2020-07-15
+456;Robin Hobb;2020-07-15
+457;Leslie Marmon Silko;2020-07-16
+458;James Rollins;2020-07-15
+459;R.A. Salvatore;2020-07-16
+460;Kasie West;2020-07-16
+461;Meg Cabot;2020-07-15
+462;Marie Lu;2020-07-16
+463;Richard Ford;2020-07-16
+464;Jon J. Muth;2020-07-16
+465;Moira Young;2020-07-15
+466;Mercer Mayer;2020-07-15
+467;Melanie Rawn;2020-07-16
+468;Elizabeth George Speare;2020-07-15
+469;Ted Dekker;2020-07-16
+470;Richard Paul Evans;2020-07-16
+471;Anna Todd;2020-07-15
+472;Michael Connelly;2020-07-16
+473;Christine Feehan;2020-07-16
+474;Sarah Ockler;2020-07-16
+475;James Patterson;2020-07-15
+476;Carl Sagan;2020-07-15
+477;Robert Muchamore;2020-07-16
+478;Dean Koontz;2020-07-15
+479;Barack Obama;2020-07-16
+480;Shannon Hale;2020-07-16
+481;Lesley Livingston;2020-07-15
+482;Holly Black;2020-07-16
+483;Jeaniene Frost;2020-07-16
+484;Sandra Brown;2020-07-16
+485;Debbie Macomber;2020-07-15
+486;Hillary Jordan;2020-07-15
+487;Clive Barker;2020-07-16
+488;"K.R. Dwyer; Dean Koontz";2020-07-15
+489;Karen   White;2020-07-16
+490;Danielle  Paige;2020-07-16
+491;Jean M. Auel;2020-07-15
+492;Sara Shepard;2020-07-16
+493;Libba Bray;2020-07-16
+494;Janet Evanovich;2020-07-16
+495;Laline Paull;2020-07-15
+496;William Faulkner;2020-07-15
+497;Richelle Mead;2020-07-16
+498;Joseph Conrad;2020-07-15
+499;Erica Jong;2020-07-16
+500;Robert Crais;2020-07-16
+501;Mary  Stewart;2020-07-15
+502;Joe Abercrombie;2020-07-16
+503;Tom Clancy;2020-07-16
+504;Chelsea Cain;2020-07-16
+505;Amanda Hocking;2020-07-15
+506;"Roald Dahl; Quentin Blake";2020-07-15
+507;Wilbur Smith;2020-07-16
+508;Kevin Henkes;2020-07-15
+509;Nora Roberts;2020-07-16
+510;David Baldacci;2020-07-16
+511;J.D. Robb;2020-07-15
+512;K.A. Tucker;2020-07-16
+513;Elizabeth Scott;2020-07-16
+514;Stephen King;2020-07-16
+515;Lauren Weisberger;2020-07-15
+516;Steve Alten;2020-07-15
+517;James Herbert;2020-07-16
+518;Marisa de los Santos;2020-07-15
+519;Anne McCaffrey;2020-07-16
+520;Jane Green;2020-07-16
+521;Kristan Higgins;2020-07-15
+522;J. Courtney Sullivan;2020-07-16
+523;Michael Connelly;2020-07-16
+524;Jane Green;2020-07-16
+525;Dan Simmons;2020-07-15
+526;David Wong;2020-07-15
+527;James Lee Burke;2020-07-16
+528;Richelle Mead;2020-07-15
+529;Alan Brennert;2020-07-16
+530;Sarah Dessen;2020-07-16
+531;Jonathan Kellerman;2020-07-15
+532;Kody Keplinger;2020-07-16
+533;Salman Rushdie;2020-07-16
+534;Marissa Meyer;2020-07-16
+535;Ilona Andrews;2020-07-15
+536;Rick Riordan;2020-07-15
+537;Tami Hoag;2020-07-16
+538;William Gibson;2020-07-15
+539;Kristin Hannah;2020-07-16
+540;Stephen King;2020-07-16
+541;Madeleine Roux;2020-07-15
+542;Leon Uris;2020-07-16
+543;David Baldacci;2020-07-16
+544;Tad Williams;2020-07-16
+545;L.J. Smith;2020-07-15
+546;Robert Jordan;2020-07-15
+547;Judy Blume;2020-07-16
+548;Curtis Sittenfeld;2020-07-15
+549;Peter H. Reynolds;2020-07-16
+550;Patricia Cornwell;2020-07-16
+551;Kate Atkinson;2020-07-15
+552;Rachel Caine;2020-07-16
+553;David McCullough;2020-07-16
+554;Louise Penny;2020-07-16
+555;Robert Ludlum;2020-07-15
+556;Poppy Z. Brite;2020-07-15
+557;Jodi Picoult;2020-07-16
+558;Gwyn Hyman Rubio;2020-07-15
+559;Tamora Pierce;2020-07-16
+560;John Verdon;2020-07-16
+561;Patti Smith;2020-07-15
+562;Richard Russo;2020-07-16
+563;Alan Paton;2020-07-16
+564;Clive Cussler;2020-07-16
+565;Ben Aaronovitch;2020-07-15
+566;Gena Showalter;2020-07-15
+567;David Benioff;2020-07-16
+568;Megan Whalen Turner;2020-07-15
+569;Ned Vizzini;2020-07-16
+570;Patricia Cornwell;2020-07-16
+571;Orson Scott Card;2020-07-15
+572;Zane;2020-07-16
+573;Kresley Cole;2020-07-16
+574;Sister Souljah;2020-07-16
+575;Sylvia Plath;2020-07-15
+576;Don DeLillo;2020-07-15
+577;Julie Garwood;2020-07-16
+578;Tamora Pierce;2020-07-15
+579;Tom Clancy;2020-07-16
+580;Cherie Priest;2020-07-16
+581;James Patterson;2020-07-15
+582;"James Patterson; Ned Rust";2020-07-16
+583;Stephen Hunter;2020-07-16
+584;Jeffrey Archer;2020-07-16
+585;Gigi Levangie Grazer;2020-07-15
+586;Rory Stewart;2020-07-15
+587;Jean Kwok;2020-07-16
+588;Christine Feehan;2020-07-15
+589;David Eddings;2020-07-16
+590;Iain M. Banks;2020-07-16
+591;Clive Cussler;2020-07-15
+592;Michael Connelly;2020-07-16
+593;Michael Connelly;2020-07-16
+594;Jessica Day George;2020-07-16
+595;Stephenie Meyer;2020-07-15
+596;Jennifer Estep;2020-07-15
+597;MaryJanice Davidson;2020-07-16
+598;J.L. Bourne;2020-07-15
+599;Frederik Pohl;2020-07-16
+600;David Eddings;2020-07-16
+601;Jenny Han;2020-07-15
+602;Marie Lu;2020-07-16
+603;"Grant Morrison; Frank Quitely";2020-07-16
+604;Monica Ali;2020-07-16
+605;Julia Quinn;2020-07-15
+606;"Amie Kaufman; Jay Kristoff";2020-07-15
+607;Jeff Kinney;2020-07-16
+608;"Anne Rampling; Anne Rice";2020-07-15
+609;Peter Clines;2020-07-16
+610;Karen Kingsbury;2020-07-16
+611;David Almond;2020-07-15
+612;Edward Gorey;2020-07-16
+613;Carl Hiaasen;2020-07-16
+614;Jaycee Dugard;2020-07-16
+615;Tony Parsons;2020-07-15
+616;Shel Silverstein;2020-07-15
+617;Kiera Cass;2020-07-16
+618;William Golding;2020-07-15
+619;M.O. Walsh;2020-07-16
+620;Terry Pratchett;2020-07-16
+621;Diana Wynne Jones;2020-07-15
+622;Elin Hilderbrand;2020-07-16
+623;Sophie Kinsella;2020-07-16
+624;Lauren DeStefano;2020-07-16
+625;Christopher Isherwood;2020-07-15
+626;Maggie Stiefvater;2020-07-15
+627;"Margaret Weis; Tracy Hickman";2020-07-16
+628;Kristin Hannah;2020-07-15
+629;John Sandford;2020-07-16
+630;Kate Mosse;2020-07-16
+631;Kristen Ashley;2020-07-15
+632;Agatha Christie;2020-07-16
+633;Maggie Stiefvater;2020-07-16
+634;Patricia Briggs;2020-07-16
+635;Jim Butcher;2020-07-15
+636;John Sandford;2020-07-15
+637;Jodi Picoult;2020-07-16
+638;Ann-Marie MacDonald;2020-07-15
+639;Jennifer Weiner;2020-07-16
+640;Eric Carle;2020-07-16
+641;Clive Barker;2020-07-15
+642;Amanda Hocking;2020-07-16
+643;Jessica Sorensen;2020-07-16
+644;Susan Vreeland;2020-07-16
+645;Miranda Kenneally;2020-07-15
+646;Ai Yazawa;2020-07-15
+647;Linda Howard;2020-07-16
+648;Frank Herbert;2020-07-15
+649;Richard Castle;2020-07-16
+650;Jennifer Weiner;2020-07-16
+651;Robert A. Heinlein;2020-07-15
+652;Jennifer L. Armentrout;2020-07-16
+653;James  Jones;2020-07-16
+654;Jill Mansell;2020-07-16
+655;V.C. Andrews;2020-07-15
+656;Richelle Mead;2020-07-15
+657;Thrity Umrigar;2020-07-16
+658;Charles Belfoure;2020-07-15
+659;Dave Eggers;2020-07-16
+660;Rachel Caine;2020-07-16
+661;Michael Morpurgo;2020-07-15
+662;J.R. Ward;2020-07-16
+663;John Sandford;2020-07-16
+664;George R.R. Martin;2020-07-16
+665;Terry Pratchett;2020-07-15
+666;Emma Donoghue;2020-07-15
+667;Rachel Hawkins;2020-07-16
+668;Susanna Kearsley;2020-07-15
+669;Karin Slaughter;2020-07-16
+670;P.D. Eastman;2020-07-16
+671;Louise Erdrich;2020-07-15
+672;Sherrilyn Kenyon;2020-07-16
+673;Gregory David Roberts;2020-07-16
+674;Lynn Flewelling;2020-07-16
+675;Frederick Forsyth;2020-07-15
+676;Harry Harrison;2020-07-15
+677;John Irving;2020-07-16
+678;Ruth Ware;2020-07-15
+679;Richard Russo;2020-07-16
+680;Francine Rivers;2020-07-16
+681;Betty  Smith;2020-07-15
+682;Nicole Krauss;2020-07-16
+683;Beverly Cleary;2020-07-16
+684;Christopher Moore;2020-07-16
+685;Anthony Horowitz;2020-07-15
+686;Angela Flournoy;2020-07-15
+687;D.J. MacHale;2020-07-16
+688;Mhairi McFarlane;2020-07-15
+689;Jim Butcher;2020-07-16
+690;Neal Stephenson;2020-07-16
+691;Sarah Dessen;2020-07-15
+692;Patricia Cornwell;2020-07-16
+693;D.J. MacHale;2020-07-16
+694;Rick Riordan;2020-07-16
+695;Art Spiegelman;2020-07-15
+696;Meg Cabot;2020-07-15
+697;Nora Roberts;2020-07-16
+698;Marian Keyes;2020-07-15
+699;John L. Parker Jr.;2020-07-16
+700;Beth Revis;2020-07-16
+701;Sarah Pinborough;2020-07-15
+702;Marjorie Kinnan Rawlings;2020-07-16
+703;Meg Cabot;2020-07-16
+704;Sherrilyn Kenyon;2020-07-16
+705;Donald McCaig;2020-07-15
+706;Anthony Horowitz;2020-07-15
+707;Sue Grafton;2020-07-16
+708;Alex   Sanchez;2020-07-15
+709;James Redfield;2020-07-16
+710;Scott Turow;2020-07-16
+711;Erik Larson;2020-07-15
+712;Adriana Trigiani;2020-07-16
+713;Hanya Yanagihara;2020-07-16
+714;Kelly Corrigan;2020-07-16
+715;John Sandford;2020-07-15
+716;Simone Elkeles;2020-07-15
+717;Lloyd Alexander;2020-07-16
+718;Lily Koppel;2020-07-15
+719;Janette Oke;2020-07-16
+720;David Farland;2020-07-16
+721;"Gregory Maguire; Douglas Smith";2020-07-15
+722;Sidney Sheldon;2020-07-16
+723;Don DeLillo;2020-07-16
+724;Victoria Schwab;2020-07-16
+725;Tad Williams;2020-07-15
+726;John Green;2020-07-15
+727;Colleen Houck;2020-07-16
+728;Iain Banks;2020-07-15
+729;David Baldacci;2020-07-16
+730;Karin Slaughter;2020-07-16
+731;Morgan Matson;2020-07-15
+732;Lois McMaster Bujold;2020-07-16
+733;Danielle Trussoni;2020-07-16
+734;Gail Carriger;2020-07-16
+735;Umberto Eco;2020-07-15
+736;Ian Fleming;2020-07-15
+737;Jeaniene Frost;2020-07-16
+738;Charles Stross;2020-07-15
+739;Terry McMillan;2020-07-16
+740;Stephen Crane;2020-07-16
+741;Patricia Briggs;2020-07-15
+742;David Baldacci;2020-07-16
+743;Marian Keyes;2020-07-16
+744;Paula Brackston;2020-07-16
+745;Ann Patchett;2020-07-15
+746;Janet Evanovich;2020-07-15
+747;Tom Wolfe;2020-07-16
+748;Roddy Doyle;2020-07-15
+749;Helen Fielding;2020-07-16
+750;Robin Oliveira;2020-07-16
+751;David Foster Wallace;2020-07-15
+752;John Scalzi;2020-07-16
+753;Robert Lynn Asprin;2020-07-16
+754;Virginia Woolf;2020-07-16
+755;Alexandra Adornetto;2020-07-15
+756;Jim Butcher;2020-07-15
+757;L.J. Smith;2020-07-16
+758;David Shannon;2020-07-15
+759;Christina Lauren;2020-07-16
+760;Charlaine Harris;2020-07-16
+761;Naomi Novik;2020-07-15
+762;Brunonia Barry;2020-07-16
+763;H.A. Rey;2020-07-16
+764;Nora Roberts;2020-07-16
+765;Jill Alexander Essbaum;2020-07-15
+766;Keri Hulme;2020-07-15
+767;William Faulkner;2020-07-16
+768;Carl Hiaasen;2020-07-15
+769;Arnold Lobel;2020-07-16
+770;Scott Westerfeld;2020-07-16
+771;Robin Hobb;2020-07-15
+772;Kim Harrison;2020-07-16
+773;Mary Doria Russell;2020-07-16
+774;David Baldacci;2020-07-16
+775;Chaim Potok;2020-07-15
+776;Larry McMurtry;2020-07-15
+777;Dietrich Bonhoeffer;2020-07-16
+778;Ami McKay;2020-07-15
+779;Ian Fleming;2020-07-16
+780;Gary D. Schmidt;2020-07-16
+781;Michael Ondaatje;2020-07-15
+782;James Patterson;2020-07-16
+783;Louise L. Hay;2020-07-16
+784;Tom Robbins;2020-07-16
+785;Lisa Tawn Bergren;2020-07-15
+786;Terry Brooks;2020-07-15
+787;Alyson Richman;2020-07-16
+788;Susan Cooper;2020-07-15
+789;Harlan Coben;2020-07-16
+790;Jennifer L. Armentrout;2020-07-16
+791;Jennifer Close;2020-07-15
+792;Pepper Winters;2020-07-16
+793;Nicholas Sparks;2020-07-16
+794;Dean Koontz;2020-07-16
+795;Barbara Kingsolver;2020-07-15
+796;Janell Cannon;2020-07-15
+797;Daniel Clowes;2020-07-16
+798;Sarah Dunant;2020-07-15
+799;Sherrilyn Kenyon;2020-07-16
+800;Nora Roberts;2020-07-16
+801;Annie Proulx;2020-07-15
+802;Patricia Cornwell;2020-07-16
+803;Jodi Picoult;2020-07-16
+804;Cynthia Hand;2020-07-16
+805;Anne Rice;2020-07-15
+806;Richard Dawkins;2020-07-15
+807;Michael Crichton;2020-07-16
+808;Alan Hollinghurst;2020-07-15
+809;Thomas Harris;2020-07-16
+810;James A. Michener;2020-07-16
+811;Robert Goolrick;2020-07-15
+812;Robert Ludlum;2020-07-16
+813;Peter F. Hamilton;2020-07-16
+814;Jim Butcher;2020-07-16
+815;John Steinbeck;2020-07-15
+816;Larry Niven;2020-07-15
+817;J.R.R. Tolkien;2020-07-16
+818;Meg Cabot;2020-07-15
+819;Erin Hunter;2020-07-16
+820;Cora Carmack;2020-07-16
+821;Margaret Atwood;2020-07-15
+822;Tim Johnston;2020-07-16
+823;Michael Pollan;2020-07-16
+824;Raymond E. Feist;2020-07-16
+825;Larissa Ione;2020-07-15
+826;John Marsden;2020-07-15
+827;Libba Bray;2020-07-16
+828;Jacqueline Susann;2020-07-15
+829;Tamora Pierce;2020-07-16
+830;Octavia E. Butler;2020-07-16
+831;Meg Cabot;2020-07-15
+832;Georgette Heyer;2020-07-16
+833;Derek Landy;2020-07-16
+834;Stephen King;2020-07-16
+835;Linda Sue Park;2020-07-15
+836;David Weber;2020-07-15
+837;Michael J. Sullivan;2020-07-16
+838;Maeve Binchy;2020-07-15
+839;Isaac Asimov;2020-07-16
+840;Elin Hilderbrand;2020-07-16
+841;Dorothy L. Sayers;2020-07-15
+842;Harlan Coben;2020-07-16
+843;Karin Slaughter;2020-07-16
+844;Ilona Andrews;2020-07-16
+845;Gary Paulsen;2020-07-15
+846;Charlaine Harris;2020-07-15
+847;Elizabeth Wein;2020-07-16
+848;Myra McEntire;2020-07-15
+849;Michael J. Sullivan;2020-07-16
+850;Megan Abbott;2020-07-16
+851;S.A. Bodeen;2020-07-15
+852;Peter Lerangis;2020-07-16
+853;Jon Klassen;2020-07-16
+854;Kate Morton;2020-07-16
+855;J.D. Salinger;2020-07-15
+856;Amy Poehler;2020-07-15
+857;Ann Patchett;2020-07-16
+858;Nicci French;2020-07-15
+859;Diana Wynne Jones;2020-07-16
+860;"Ozzy Osbourne; Chris Ayres";2020-07-16
+861;Kathy Reichs;2020-07-15
+862;Alfred Uhry;2020-07-16
+863;Dee Henderson;2020-07-16
+864;Nora Roberts;2020-07-16
+865;Tim O'Brien;2020-07-15
+866;Kevin Hearne;2020-07-15
+867;"Angie Sage; Mark Zug";2020-07-16
+868;Virginia Woolf;2020-07-15
+869;Vernor Vinge;2020-07-16
+870;Anita Diamant;2020-07-16
+871;Kathryn Stockett;2020-07-15
+872;Faith Hunter;2020-07-16
+873;Andrea Cremer;2020-07-16
+874;Alex Garland;2020-07-16
+875;Kate Brian;2020-07-15
+876;Julie Kibler;2020-07-15
+877;Holly Goldberg Sloan;2020-07-16
+878;Nicholas Sparks;2020-07-15
+879;John Steinbeck;2020-07-16
+880;Karen Marie Moning;2020-07-16
+881;Sarah Dessen;2020-07-15
+882;Marilynne Robinson;2020-07-16
+883;Robin Hobb;2020-07-16
+884;Elizabeth Gaskell;2020-07-16
+885;Kristen Britain;2020-07-15
+886;Ken Follett;2020-07-15
+887;Lauren Conrad;2020-07-16
+888;Philip Roth;2020-07-15
+889;Dean Koontz;2020-07-16
+890;Jacqueline Carey;2020-07-16
+891;Anthony Hope;2020-07-15
+892;Nora Roberts;2020-07-16
+893;Tamora Pierce;2020-07-16
+894;Thea Harrison;2020-07-16
+895;Enid Blyton;2020-07-15
+896;Steven Pinker;2020-07-15
+897;Lois Lowry;2020-07-16
+898;Vince Flynn;2020-07-15
+899;Philippa Gregory;2020-07-16
+900;Ilona Andrews;2020-07-16
+901;S.E. Hinton;2020-07-15
+902;Dietrich Bonhoeffer;2020-07-16
+903;Harlan Coben;2020-07-16
+904;Bret Lott;2020-07-16
+905;Philip Pullman;2020-07-15
+906;James Dickey;2020-07-15
+907;Elin Hilderbrand;2020-07-16
+908;Ami McKay;2020-07-15
+909;Dr. Seuss;2020-07-16
+910;Terry Pratchett;2020-07-16
+911;Brian  McClellan;2020-07-15
+912;Karen Marie Moning;2020-07-16
+913;Jodi Picoult;2020-07-16
+914;Salman Rushdie;2020-07-16
+915;Richard Bach;2020-07-15
+916;Heinrich Harrer;2020-07-15
+917;Sarah Jio;2020-07-16
+918;Dodie Smith;2020-07-15
+919;Richelle Mead;2020-07-16
+920;Robert Crais;2020-07-16
+921;Joshilyn Jackson;2020-07-15
+922;Peach-Pit;2020-07-16
+923;Octavia E. Butler;2020-07-16
+924;Anna Godbersen;2020-07-16
+925;J.R. Ward;2020-07-15
+926;Lauren Oliver;2020-07-15
+927;Agatha Christie;2020-07-16
+928;Charles Dickens;2020-07-15
+929;Nicholas Sparks;2020-07-16
+930;Mary Higgins Clark;2020-07-16
+931;"Douglas Preston; Lincoln Child";2020-07-15
+932;Maya Banks;2020-07-16
+933;Neil Simon;2020-07-16
+934;Harlan Coben;2020-07-16
+935;Anna Maxted;2020-07-15
+936;Iain M. Banks;2020-07-15
+937;Iain M. Banks;2020-07-16
+938;Iain M. Banks;2020-07-15
+939;Jill Bolte Taylor;2020-07-16
+940;Carol Lynch Williams;2020-07-16
+941;Daniel H. Wilson;2020-07-15
+942;H.G. Wells;2020-07-16
+943;"Roald Dahl; Quentin Blake";2020-07-16
+944;Carl Hiaasen;2020-07-16
+945;David Mitchell;2020-07-15
+946;Lisa Kleypas;2020-07-15
+947;Tom Robbins;2020-07-16
+948;Elin Hilderbrand;2020-07-15
+949;Paul Auster;2020-07-16
+950;Douglas Coupland;2020-07-16
+951;Kristin Hannah;2020-07-15
+952;Leon Uris;2020-07-16
+953;Kelly Creagh;2020-07-16
+954;Karin Slaughter;2020-07-16
+955;Daniel Silva;2020-07-15
+956;Nora Roberts;2020-07-15
+957;Sara Zarr;2020-07-16
+958;Richard Paul Evans;2020-07-15
+959;Jessica Knoll;2020-07-16
+960;Wallace Stegner;2020-07-16
+961;Robert A. Heinlein;2020-07-15
+962;Jacqueline Woodson;2020-07-16
+963;Antony Beevor;2020-07-16
+964;Katy Evans;2020-07-16
+965;Dean Koontz;2020-07-15
+966;Curtis Sittenfeld;2020-07-15
+967;Brandon Mull;2020-07-16
+968;Cory Doctorow;2020-07-15
+969;David Baldacci;2020-07-16
+970;James A. Michener;2020-07-16
+971;Tess Gerritsen;2020-07-15
+972;Jane Green;2020-07-16
+973;John Galsworthy;2020-07-16
+974;Clive Cussler;2020-07-16
+975;Rainbow Rowell;2020-07-15
+976;Lang Leav;2020-07-15
+977;Robert Graves;2020-07-16
+978;Caitlin Moran;2020-07-15
+979;Alan Dean Foster;2020-07-16
+980;John Grisham;2020-07-16
+981;Jennifer Estep;2020-07-15
+982;Nelson DeMille;2020-07-16
+983;Betty Crocker;2020-07-16
+984;Erin Watt;2020-07-16
+985;Tim O'Brien;2020-07-15
+986;Philip K. Dick;2020-07-15
+987;J.D. Robb;2020-07-16
+988;John Irving;2020-07-15
+989;"Karen Kingsbury; Gary Smalley";2020-07-16
+990;David Baldacci;2020-07-16
+991;Irvine Welsh;2020-07-15
+992;Janet Evanovich;2020-07-16
+993;Daniel Silva;2020-07-16
+994;Jamie McGuire;2020-07-16
+995;Janice Y.K. Lee;2020-07-15
+996;Kimberly Derting;2020-07-15
+997;John Grisham;2020-07-16
+998;Henry James;2020-07-15
+999;Laurell K. Hamilton;2020-07-16
+1000;Harlan Coben;2020-07-16
+1001;Brandon Sanderson;2020-07-15
+1002;Candace Bushnell;2020-07-16
+1003;P.G. Wodehouse;2020-07-16
+1004;David Eddings;2020-07-16
+1005;Rachel Ward;2020-07-15
+1006;Alison Croggon;2020-07-15
+1007;Dorothy L. Sayers;2020-07-16
+1008;Zadie Smith;2020-07-15
+1009;Anna Kendrick;2020-07-16
+1010;John Flanagan;2020-07-16
+1011;Patricia Cornwell;2020-07-15
+1012;David Wiesner;2020-07-16
+1013;Jonathan Stroud;2020-07-16
+1014;William Gibson;2020-07-16
+1015;Kim Harrison;2020-07-15
+1016;Susanna Kaysen;2020-07-15
+1017;Mario Puzo;2020-07-16
+1018;Neal Stephenson;2020-07-15
+1019;A.G. Howard;2020-07-16
+1020;Chris d'Lacey;2020-07-16
+1021;J.D. Robb;2020-07-15
+1022;Garth Risk Hallberg;2020-07-16
+1023;Jenny Nimmo;2020-07-16
+1024;Nora Roberts;2020-07-16
+1025;A.M. Homes;2020-07-15
+1026;Jennifer Echols;2020-07-15
+1027;Lee Strobel;2020-07-16
+1028;Agatha Christie;2020-07-15
+1029;Ira Wagler;2020-07-16
+1030;J.M. Coetzee;2020-07-16
+1031;Dean Koontz;2020-07-15
+1032;Stephanie Bond;2020-07-16
+1033;Richard Kadrey;2020-07-16
+1034;Erin Hunter;2020-07-16
+1035;John Buchan;2020-07-15
+1036;Gordon Korman;2020-07-15
+1037;Candace Bushnell;2020-07-16
+1038;Janet Evanovich;2020-07-15
+1039;Sherwood Smith;2020-07-16
+1040;Lorrie Moore;2020-07-16
+1041;Robert Crais;2020-07-15
+1042;Ted Dekker;2020-07-16
+1043;Mira Grant;2020-07-16
+1044;Richard Kadrey;2020-07-16
+1045;James Patterson;2020-07-15
+1046;Linda Castillo;2020-07-15
+1047;Erin Hunter;2020-07-16
+1048;Margaret Atwood;2020-07-15
+1049;Harper Lee;2020-07-16
+1050;Gwen Cooper;2020-07-16
+1051;Jean M. Auel;2020-07-15
+1052;John Marsden;2020-07-16
+1053;Lloyd Alexander;2020-07-16
+1054;Robert A. Caro;2020-07-16
+1055;Tom Clancy;2020-07-15
+1056;Paullina Simons;2020-07-15
+1057;Christopher Moore;2020-07-16
+1058;Raina Telgemeier;2020-07-15
+1059;Amanda Hocking;2020-07-16
+1060;Sebastian Barry;2020-07-16
+1061;Armistead Maupin;2020-07-15
+1062;Robert Crais;2020-07-16
+1063;Wendy Higgins;2020-07-16
+1064;C.S. Lewis;2020-07-16
+1065;Sue Grafton;2020-07-15
+1066;Charles Bukowski;2020-07-15
+1067;Tamora Pierce;2020-07-16
+1068;Len Deighton;2020-07-15
+1069;Caroline Kepnes;2020-07-16
+1070;Marilynne Robinson;2020-07-16
+1071;Laurie Halse Anderson;2020-07-15
+1072;Terry McMillan;2020-07-16
+1073;Dan Simmons;2020-07-16
+1074;Jules Verne;2020-07-16
+1075;Peter  Swanson;2020-07-15
+1076;Richard Paul Evans;2020-07-15
+1077;Ann Patchett;2020-07-16
+1078;Linwood Barclay;2020-07-15
+1079;Julie Gregory;2020-07-16
+1080;Gordon Korman;2020-07-16
+1081;David Eddings;2020-07-15
+1082;Jane Hamilton;2020-07-16
+1083;Herman Wouk;2020-07-16
+1084;Joe Abercrombie;2020-07-16
+1085;Terry Pratchett;2020-07-15
+1086;John Grisham;2020-07-15
+1087;Brad Thor;2020-07-16
+1088;Veronica Roth;2020-07-15
+1089;Ruth Ozeki;2020-07-16
+1090;Mary Kay Andrews;2020-07-16
+1091;Ann Leary;2020-07-15
+1092;Anne Rice;2020-07-16
+1093;Nick Cave;2020-07-16
+1094;Gayle Forman;2020-07-16
+1095;Jo Baker;2020-07-15
+1096;"Mem Fox; Jane Dyer";2020-07-15
+1097;Carl Hiaasen;2020-07-16
+1098;A.S. King;2020-07-15
+1099;David Baldacci;2020-07-16
+1100;Tim Winton;2020-07-16
+1101;Conn Iggulden;2020-07-15
+1102;Julie Kagawa;2020-07-16
+1103;Marissa Meyer;2020-07-16
+1104;David Foster Wallace;2020-07-16
+1105;Norman Mailer;2020-07-15
+1106;Rick Riordan;2020-07-15
+1107;Mary Karr;2020-07-16
+1108;Lisa Gardner;2020-07-15
+1109;Laurence Rees;2020-07-16
+1110;Gregory Maguire;2020-07-16
+1111;Anne Tyler;2020-07-15
+1112;"Owen  West; Dean Koontz";2020-07-16
+1113;Adam Gopnik;2020-07-16
+1114;Cormac McCarthy;2020-07-16
+1115;Catherine Fisher;2020-07-15
+1116;Dean Koontz;2020-07-15
+1117;Lisa Kleypas;2020-07-16
+1118;Sue Grafton;2020-07-15
+1119;Herman Koch;2020-07-16
+1120;Diane Setterfield;2020-07-16
+1121;Antonia Fraser;2020-07-15
+1122;Robert Louis Stevenson;2020-07-16
+1123;Robert Jordan;2020-07-16
+1124;Louise Penny;2020-07-16
+1125;Nick Hornby;2020-07-15
+1126;Jane Green;2020-07-15
+1127;Madeleine Wickham;2020-07-16
+1128;Agatha Christie;2020-07-15
+1129;Sherrilyn Kenyon;2020-07-16
+1130;Margaret Atwood;2020-07-16
+1131;Anne Tyler;2020-07-15
+1132;J.A. Redmerski;2020-07-16
+1133;Chris d'Lacey;2020-07-16
+1134;Dr. Seuss;2020-07-16
+1135;Maya Angelou;2020-07-15
+1136;Lori Lansens;2020-07-15
+1137;Alison Goodman;2020-07-16
+1138;Diana Gabaldon;2020-07-15
+1139;John Steakley;2020-07-16
+1140;Philippa Gregory;2020-07-16
+1141;Harlan Coben;2020-07-15
+1142;Raymond Khoury;2020-07-16
+1143;Jeanette Winterson;2020-07-16
+1144;James Patterson;2020-07-16
+1145;Robin Norwood;2020-07-15
+1146;C.J. Sansom;2020-07-15
+1147;Orson Scott Card;2020-07-16
+1148;Tad Williams;2020-07-15
+1149;Ernest Hemingway;2020-07-16
+1150;Ken Follett;2020-07-16
+1151;Janet Evanovich;2020-07-15
+1152;Maria V. Snyder;2020-07-16
+1153;Robin Cook;2020-07-16
+1154;Virginia Woolf;2020-07-16
+1155;Enid Bagnold;2020-07-15
+1156;George Saunders;2020-07-15
+1157;Pittacus Lore;2020-07-16
+1158;Richard Paul Evans;2020-07-15
+1159;Anthony Horowitz;2020-07-16
+1160;Sarah Dessen;2020-07-16
+1161;John Grisham;2020-07-15
+1162;Kate Atkinson;2020-07-16
+1163;Glennon Doyle Melton;2020-07-16
+1164;"Slash; Anthony Bozza";2020-07-16
+1165;Lois Lowry;2020-07-15
+1166;Roddy Doyle;2020-07-15
+1167;John Jakes;2020-07-16
+1168;H.A. Rey;2020-07-15
+1169;Dr. Seuss;2020-07-16
+1170;Alice Hoffman;2020-07-16
+1171;Julie Garwood;2020-07-15
+1172;Curtis Sittenfeld;2020-07-16
+1173;Dave Eggers;2020-07-16
+1174;Marisha Pessl;2020-07-16
+1175;Sandra Boynton;2020-07-15
+1176;Vince Flynn;2020-07-15
+1177;James Patterson;2020-07-16
+1178;Katherine Addison;2020-07-15
+1179;David Foster Wallace;2020-07-16
+1180;Terry Pratchett;2020-07-16
+1181;Lee Child;2020-07-15
+1182;Agatha Christie;2020-07-16
+1183;Louise L. Hay;2020-07-16
+1184;Carrie Fisher;2020-07-16
+1185;Sarah Winman;2020-07-15
+1186;Ronald H. Balson;2020-07-15
+1187;Stephanie Garber;2020-07-16
+1188;J.D. Robb;2020-07-15
+1189;David Baldacci;2020-07-16
+1190;Richelle Mead;2020-07-16
+1191;"Lee Child; Dick Hill";2020-07-15
+1192;Sue Monk Kidd;2020-07-16
+1193;Johanna Lindsey;2020-07-16
+1194;Caleb Carr;2020-07-16
+1195;Kathy Reichs;2020-07-15
+1196;Octavia E. Butler;2020-07-15
+1197;Lisa Lutz;2020-07-16
+1198;Philippa Gregory;2020-07-15
+1199;Judy Blume;2020-07-16
+1200;John Grisham;2020-07-16
+1201;Cammie McGovern;2020-07-15
+1202;Leif Enger;2020-07-16
+1203;Rachel Gibson;2020-07-16
+1204;Jennifer Crusie;2020-07-16
+1205;Philippa Gregory;2020-07-15
+1206;Shannon Hale;2020-07-15
+1207;Jaci Burton;2020-07-16
+1208;Jane Green;2020-07-15
+1209;Ed Young;2020-07-16
+1210;David Ebershoff;2020-07-16
+1211;Tom Wolfe;2020-07-15
+1212;Jim Butcher;2020-07-16
+1213;Sarah Waters;2020-07-16
+1214;Maggie Stiefvater;2020-07-16
+1215;Greg Bear;2020-07-15
+1216;James Clavell;2020-07-15
+1217;Evelyn Waugh;2020-07-16
+1218;Kasie West;2020-07-15
+1219;Charles Bukowski;2020-07-16
+1220;Bill Bryson;2020-07-16
+1221;Richelle Mead;2020-07-15
+1222;Rachel Hawkins;2020-07-16
+1223;Amanda Hocking;2020-07-16
+1224;Emma Donoghue;2020-07-16
+1225;Max Barry;2020-07-15
+1226;Veronica Roth;2020-07-15
+1227;Brandon Sanderson;2020-07-16
+1228;"Kingsley Amis; David Lodge";2020-07-15
+1229;David Baldacci;2020-07-16
+1230;Michael  Grant;2020-07-16
+1231;Connor Franta;2020-07-15
+1232;Jennifer Brown;2020-07-16
+1233;Libba Bray;2020-07-16
+1234;Leigh Bardugo;2020-07-16
+1235;Cormac McCarthy;2020-07-15
+1236;Isaac Asimov;2020-07-15
+1237;Margaret Mitchell;2020-07-16
+1238;Jack Ketchum;2020-07-15
+1239;Clive Cussler;2020-07-16
+1240;Laurie Fabiano;2020-07-16
+1241;Dan Simmons;2020-07-15
+1242;Naomi Novik;2020-07-16
+1243;Donna Tartt;2020-07-16
+1244;Jenny Han;2020-07-16
+1245;Erich Maria Remarque;2020-07-15
+1246;Kim Harrison;2020-07-15
+1247;Judith McNaught;2020-07-16
+1248;Stephen King;2020-07-15
+1249;Colleen McCullough;2020-07-16
+1250;Chevy Stevens;2020-07-16
+1251;Richard K. Morgan;2020-07-15
+1252;David Baldacci;2020-07-16
+1253;C.S. Lewis;2020-07-16
+1254;"Albert Camus; Stuart Gilbert";2020-07-16
+1255;L.J. Smith;2020-07-15
+1256;Dan Brown;2020-07-15
+1257;Meg Cabot;2020-07-16
+1258;Anna Godbersen;2020-07-15
+1259;Paul Murray;2020-07-16
+1260;Eoin Colfer;2020-07-16
+1261;Elin Hilderbrand;2020-07-15
+1262;"Jane Yolen; John Schoenherr";2020-07-16
+1263;William Landay;2020-07-16
+1264;Janet Evanovich;2020-07-16
+1265;Jon Ronson;2020-07-15
+1266;Tami Hoag;2020-07-15
+1267;Ben Aaronovitch;2020-07-16
+1268;Lisa Kleypas;2020-07-15
+1269;David McCullough;2020-07-16
+1270;Alastair Reynolds;2020-07-16
+1271;Stephen E. Ambrose;2020-07-15
+1272;Nicole Krauss;2020-07-16
+1273;Curtis Sittenfeld;2020-07-16
+1274;Karen Marie Moning;2020-07-16
+1275;Charles M. Sheldon;2020-07-15
+1276;Catherine Bybee;2020-07-15
+1277;Miranda July;2020-07-16
+1278;J.R. Ward;2020-07-15
+1279;J.R. Ward;2020-07-16
+1280;Phil Klay;2020-07-16
+1281;Herman Wouk;2020-07-15
+1282;Nora Roberts;2020-07-16
+1283;Suzanne Rindell;2020-07-16
+1284;Patti Smith;2020-07-16
+1285;Carolyn  Parkhurst;2020-07-15
+1286;Mary Karr;2020-07-15
+1287;Agatha Christie;2020-07-16
+1288;T.C. Boyle;2020-07-15
+1289;Cecily von Ziegesar;2020-07-16
+1290;John Flanagan;2020-07-16
+1291;Daniel Silva;2020-07-15
+1292;Steve Berry;2020-07-16
+1293;Amy Tintera;2020-07-16
+1294;Marian Keyes;2020-07-16
+1295;Rebecca Wells;2020-07-15
+1296;Anita Shreve;2020-07-15
+1297;Judy Blume;2020-07-16
+1298;John Scalzi;2020-07-15
+1299;Marisa de los Santos;2020-07-16
+1300;Sylvia Day;2020-07-16
+1301;William Kent Krueger;2020-07-15
+1302;Natalie Babbitt;2020-07-16
+1303;Julie Garwood;2020-07-16
+1304;Karen Chance;2020-07-16
+1305;Conn Iggulden;2020-07-15
+1306;Maggie Shipstead;2020-07-15
+1307;Linda Sue Park;2020-07-16
+1308;Sue Grafton;2020-07-15
+1309;Alexander Gordon Smith;2020-07-16
+1310;Thomas Pynchon;2020-07-16
+1311;Steve Berry;2020-07-15
+1312;Terry Pratchett;2020-07-16
+1313;John Katzenbach;2020-07-16
+1314;Nicholas Sparks;2020-07-16
+1315;David Guterson;2020-07-15
+1316;Charles Portis;2020-07-15
+1317;Guy Delisle;2020-07-16
+1318;Robin Hobb;2020-07-15
+1319;Bill Bryson;2020-07-16
+1320;Ann Aguirre;2020-07-16
+1321;Anthony Horowitz;2020-07-15
+1322;Stephen King;2020-07-16
+1323;Michael  Grant;2020-07-16
+1324;Nora Roberts;2020-07-16
+1325;Lisa McMann;2020-07-15
+1326;Jennifer Weiner;2020-07-15
+1327;Judith McNaught;2020-07-16
+1328;Lisa Gardner;2020-07-15
+1329;Diablo Cody;2020-07-16
+1330;John Sandford;2020-07-16
+1331;Brandon Sanderson;2020-07-15
+1332;Dean Koontz;2020-07-16
+1333;Jim Butcher;2020-07-16
+1334;Melina Marchetta;2020-07-16
+1335;Sandra Brown;2020-07-15
+1336;Karen Chance;2020-07-15
+1337;Ron Chernow;2020-07-16
+1338;Julie Kagawa;2020-07-15
+1339;T.S. Eliot;2020-07-16
+1340;Robert Jordan;2020-07-16
+1341;John Irving;2020-07-15
+1342;Meg Cabot;2020-07-16
+1343;Edgar Rice Burroughs;2020-07-16
+1344;Robert Jordan;2020-07-16
+1345;Michel Faber;2020-07-15
+1346;Sarah Waters;2020-07-15
+1347;Maria Dahvana Headley;2020-07-16
+1348;Vince Flynn;2020-07-15
+1349;Dee Henderson;2020-07-16
+1350;Meg Cabot;2020-07-16
+1351;Jeffery Deaver;2020-07-15
+1352;John Grisham;2020-07-16
+1353;R.A. Salvatore;2020-07-16
+1354;Kelley Armstrong;2020-07-16
+1355;A.C. Gaughen;2020-07-15
+1356;Clare Mackintosh;2020-07-15
+1357;Nick Hornby;2020-07-16
+1358;J.D. Robb;2020-07-15
+1359;Cupcake Brown;2020-07-16
+1360;Kresley Cole;2020-07-16
+1361;Meg Cabot;2020-07-15
+1362;Stephen King;2020-07-16
+1363;Kurt Vonnegut Jr.;2020-07-16
+1364;Elle Kennedy;2020-07-16
+1365;Richelle Mead;2020-07-15
+1366;Josh Bazell;2020-07-15
+1367;Harlan Coben;2020-07-16
+1368;David Mazzucchelli;2020-07-15
+1369;Stephen Coonts;2020-07-16
+1370;David Weber;2020-07-16
+1371;Jeffery Deaver;2020-07-15
+1372;Susane Colasanti;2020-07-16
+1373;Nick Hornby;2020-07-16
+1374;James Patterson;2020-07-16
+1375;Belva Plain;2020-07-15
+1376;Stephanie Danler;2020-07-15
+1377;Sherrilyn Kenyon;2020-07-16
+1378;Marian Keyes;2020-07-15
+1379;L.J. Smith;2020-07-16
+1380;Nelson DeMille;2020-07-16
+1381;Joel Fuhrman;2020-07-15
+1382;Richelle Mead;2020-07-16
+1383;Terry Goodkind;2020-07-16
+1384;J. Sheridan Le Fanu;2020-07-16
+1385;S.J. Watson;2020-07-15
+1386;David Gemmell;2020-07-15
+1387;Veronica Rossi;2020-07-16
+1388;Gena Showalter;2020-07-15
+1389;Richard Brautigan;2020-07-16
+1390;Jack London;2020-07-16
+1391;"Saul Bellow; Philip Roth";2020-07-15
+1392;Jeanette Winterson;2020-07-16
+1393;Eric S. Nylund;2020-07-16
+1394;Richelle Mead;2020-07-16
+1395;Carrie Jones;2020-07-15
+1396;Daniel Silva;2020-07-15
+1397;Jessica Park;2020-07-16
+1398;Meg Cabot;2020-07-15
+1399;Rachel Vincent;2020-07-16
+1400;Ernest Hemingway;2020-07-16
+1401;Jennifer Estep;2020-07-15
+1402;Gene Wolfe;2020-07-16
+1403;Chimamanda Ngozi Adichie;2020-07-16
+1404;Ken Follett;2020-07-16
+1405;Jim Butcher;2020-07-15
+1406;Eoin Colfer;2020-07-15
+1407;David Eddings;2020-07-16
+1408;Eldridge Cleaver;2020-07-15
+1409;"Anne Rice; Anne Rampling";2020-07-16
+1410;Jeffrey Archer;2020-07-16
+1411;Stephen R. Donaldson;2020-07-15
+1412;Anna Dewdney;2020-07-16
+1413;Beth Harbison;2020-07-16
+1414;Seanan McGuire;2020-07-16
+1415;Kristin Hannah;2020-07-15
+1416;Dave Cullen;2020-07-15
+1417;Terry Pratchett;2020-07-16
+1418;Jeff Kinney;2020-07-15
+1419;William Goldman;2020-07-16
+1420;Rene Denfeld;2020-07-16
+1421;Michael Crichton;2020-07-15
+1422;Kelley Armstrong;2020-07-16
+1423;Richelle Mead;2020-07-16
+1424;Melina Marchetta;2020-07-16
+1425;Elin Hilderbrand;2020-07-15
+1426;Kate Morton;2020-07-15
+1427;Raymond E. Feist;2020-07-16
+1428;Stephen King;2020-07-15
+1429;Dr. Seuss;2020-07-16
+1430;Robert McCloskey;2020-07-16
+1431;Steven Erikson;2020-07-15
+1432;Alexandra Bracken;2020-07-16
+1433;Marie Rutkoski;2020-07-16
+1434;Terry Brooks;2020-07-16
+1435;Jeffrey Brown;2020-07-15
+1436;William Gibson;2020-07-15
+1437;L.J. Smith;2020-07-16
+1438;Paul Beatty;2020-07-15
+1439;John Fowles;2020-07-16
+1440;Matthew  Thomas;2020-07-16
+1441;Lisa Scottoline;2020-07-15
+1442;Meg Cabot;2020-07-16
+1443;Terry Pratchett;2020-07-16
+1444;Paul O. Zelinsky;2020-07-16
+1445;Dean Koontz;2020-07-15
+1446;Sherrilyn Kenyon;2020-07-15
+1447;Louisa May Alcott;2020-07-16
+1448;Jacqueline Sheehan;2020-07-15
+1449;Agatha Christie;2020-07-16
+1450;Liz Moore;2020-07-16
+1451;Carrie Jones;2020-07-15
+1452;John Grisham;2020-07-16
+1453;Dean Koontz;2020-07-16
+1454;Stephen Clarke;2020-07-16
+1455;Robert   Harris;2020-07-15
+1456;George Carlin;2020-07-15
+1457;Ellis Avery;2020-07-16
+1458;Dean Koontz;2020-07-15
+1459;Gary D. Schmidt;2020-07-16
+1460;Lauren Oliver;2020-07-16
+1461;Melissa de la Cruz;2020-07-15
+1462;Raymond Chandler;2020-07-16
+1463;Alastair Reynolds;2020-07-16
+1464;Simone Elkeles;2020-07-16
+1465;Dr. Seuss;2020-07-15
+1466;J.M. Darhower;2020-07-15
+1467;Gloria Steinem;2020-07-16
+1468;Patrick Carman;2020-07-15
+1469;Maggie Nelson;2020-07-16
+1470;Ildefonso Falcones;2020-07-16
+1471;John Flanagan;2020-07-15
+1472;Jojo Moyes;2020-07-16
+1473;James Herbert;2020-07-16
+1474;Kiera Cass;2020-07-16
+1475;Amy Plum;2020-07-15
+1476;J.D. Robb;2020-07-15
+1477;Amitav Ghosh;2020-07-16
+1478;Daniel Glattauer;2020-07-15
+1479;John Irving;2020-07-16
+1480;Scott B. Smith;2020-07-16
+1481;Catherine Bybee;2020-07-15
+1482;Jill Shalvis;2020-07-16
+1483;Jay Asher;2020-07-16
+1484;John Grisham;2020-07-16
+1485;Neil Gaiman;2020-07-15
+1486;Lee Child;2020-07-15
+1487;Nicholas Evans;2020-07-16
+1488;Sophie Jordan;2020-07-15
+1489;Maeve Binchy;2020-07-16
+1490;Lara Adrian;2020-07-16
+1491;Herman Wouk;2020-07-15
+1492;L.M. Montgomery;2020-07-16
+1493;Enid Blyton;2020-07-16
+1494;Lisa Kleypas;2020-07-16
+1495;Thomas Pynchon;2020-07-15
+1496;Charlie Higson;2020-07-15
+1497;Julian Barnes;2020-07-16
+1498;Tess Gerritsen;2020-07-15
+1499;Gordon Korman;2020-07-16
+1500;Karin Slaughter;2020-07-16
+1501;David Levithan;2020-07-15
+1502;Katherine Allred;2020-07-16
+1503;George Orwell;2020-07-16
+1504;Brad Thor;2020-07-16
+1505;Janet Evanovich;2020-07-15
+1506;Iris Johansen;2020-07-15
+1507;N.H. Kleinbaum;2020-07-16
+1508;Edward Rutherfurd;2020-07-15
+1509;Meg Cabot;2020-07-16
+1510;James Rollins;2020-07-16
+1511;Elizabeth Eulberg;2020-07-15
+1512;Wilbur Smith;2020-07-16
+1513;Augusten Burroughs;2020-07-16
+1514;Amelia Atwater-Rhodes;2020-07-16
+1515;Shel Silverstein;2020-07-15
+1516;David Byrne;2020-07-15
+1517;Emmy Laybourne;2020-07-16
+1518;Kresley Cole;2020-07-15
+1519;Ruth Ozeki;2020-07-16
+1520;Rainbow Rowell;2020-07-16
+1521;James S.A. Corey;2020-07-15
+1522;Justin Halpern;2020-07-16
+1523;Toni Morrison;2020-07-16
+1524;Jim Butcher;2020-07-16
+1525;Michelle Moran;2020-07-15
+1526;Rachel Vincent;2020-07-15
+1527;"Cory Doctorow; Jen Wang";2020-07-16
+1528;Lara Adrian;2020-07-15
+1529;"Richard Bachman; Stephen King";2020-07-16
+1530;Pierce Brown;2020-07-16
+1531;M.J. Arlidge;2020-07-15
+1532;Leo Lionni;2020-07-16
+1533;Laurie Halse Anderson;2020-07-16
+1534;Arnold Lobel;2020-07-16
+1535;Derf Backderf;2020-07-15
+1536;Trudi Canavan;2020-07-15
+1537;Susane Colasanti;2020-07-16
+1538;Jamie McGuire;2020-07-15
+1539;Robin Hobb;2020-07-16
+1540;Geraldine Brooks;2020-07-16
+1541;Jim Butcher;2020-07-15
+1542;Dr. Seuss;2020-07-16
+1543;Dr. Seuss;2020-07-16
+1544;Corrie ten Boom;2020-07-16
+1545;Dr. Seuss;2020-07-15
+1546;Ian Fleming;2020-07-15
+1547;Sara Donati;2020-07-16
+1548;"Holly Black; Eliza Wheeler";2020-07-15
+1549;Irving Shulman;2020-07-16
+1550;Alastair Reynolds;2020-07-16
+1551;George W. Bush;2020-07-15
+1552;Lauren DeStefano;2020-07-16
+1553;Amor Towles;2020-07-16
+1554;Neal Shusterman;2020-07-16
+1555;Lorraine Hansberry;2020-07-15
+1556;Lynsay Sands;2020-07-15
+1557;Steve Toltz;2020-07-16
+1558;Michael Connelly;2020-07-15
+1559;Victoria Aveyard;2020-07-16
+1560;C.J. Box;2020-07-16
+1561;Anita Shreve;2020-07-15
+1562;Chevy Stevens;2020-07-16
+1563;"Angie Sage; Mark Zug";2020-07-16
+1564;J.D. Salinger;2020-07-16
+1565;Robin McKinley;2020-07-15
+1566;J. Kenner;2020-07-15
+1567;Joe McGinniss;2020-07-16
+1568;Jennifer Niven;2020-07-15
+1569;S.K. Tremayne;2020-07-16
+1570;Maggie Stiefvater;2020-07-16
+1571;David Baldacci;2020-07-15
+1572;Jeff Lindsay;2020-07-16
+1573;Peter Carey;2020-07-16
+1574;Nora Roberts;2020-07-16
+1575;Ken Follett;2020-07-15
+1576;Siri Hustvedt;2020-07-15
+1577;Frances Mayes;2020-07-16
+1578;Joseph Wambaugh;2020-07-15
+1579;Rachel Vincent;2020-07-16
+1580;Rachel Caine;2020-07-16
+1581;Mira Grant;2020-07-15
+1582;Beth Revis;2020-07-16
+1583;Lisa Gardner;2020-07-16
+1584;Blake Crouch;2020-07-16
+1585;Amy Tan;2020-07-15
+1586;Vikram Seth;2020-07-15
+1587;Nora Roberts;2020-07-16
+1588;Agatha Christie;2020-07-15
+1589;Sandra Brown;2020-07-16
+1590;Patrick Ness;2020-07-16
+1591;Robert   Harris;2020-07-15
+1592;Brandon Sanderson;2020-07-16
+1593;Kelley Armstrong;2020-07-16
+1594;Anthony Horowitz;2020-07-16
+1595;J.P. Delaney;2020-07-15
+1596;Pat Frank;2020-07-15
+1597;J.D. Robb;2020-07-16
+1598;Toni Morrison;2020-07-15
+1599;Terry Pratchett;2020-07-16
+1600;J.D. Robb;2020-07-16
+1601;Jennifer McMahon;2020-07-15
+1602;James Ellroy;2020-07-16
+1603;Michael Ondaatje;2020-07-16
+1604;Suzanne Collins;2020-07-16
+1605;Martin Amis;2020-07-15
+1606;Lara Adrian;2020-07-15
+1607;Elizabeth Strout;2020-07-16
+1608;Andrew  Smith;2020-07-15
+1609;Alice Clayton;2020-07-16
+1610;George R.R. Martin;2020-07-16
+1611;Lisa Genova;2020-07-15
+1612;Caleb Carr;2020-07-16
+1613;John Sandford;2020-07-16
+1614;Connie Willis;2020-07-16
+1615;Alice Hoffman;2020-07-15
+1616;Liane Moriarty;2020-07-15
+1617;Naomi Novik;2020-07-16
+1618;James Dashner;2020-07-15
+1619;Francine Rivers;2020-07-16
+1620;Michael Cunningham;2020-07-16
+1621;Deborah Ellis;2020-07-15
+1622;Sara Shepard;2020-07-16
+1623;Nora Roberts;2020-07-16
+1624;Jeffrey Archer;2020-07-16
+1625;Peter Clines;2020-07-15
+1626;Philippa Gregory;2020-07-15
+1627;Josh McDowell;2020-07-16
+1628;Dalton Trumbo;2020-07-15
+1629;Norman Mailer;2020-07-16
+1630;Shilpi Somaya Gowda;2020-07-16
+1631;Bert Dodson;2020-07-15
+1632;Lisa See;2020-07-16
+1633;Jenny Offill;2020-07-16
+1634;"P.C. Cast; Kristin Cast";2020-07-16
+1635;Robin McKinley;2020-07-15
+1636;Philip Roth;2020-07-15
+1637;Chelsea Fine;2020-07-16
+1638;Jacqueline Carey;2020-07-15
+1639;Terry Pratchett;2020-07-16
+1640;Matt Haig;2020-07-16
+1641;Richelle Mead;2020-07-15
+1642;Richard Dawkins;2020-07-16
+1643;Jim Butcher;2020-07-16
+1644;David Mitchell;2020-07-16
+1645;Meg Cabot;2020-07-15
+1646;Ellen Stoll Walsh;2020-07-15
+1647;Agatha Christie;2020-07-16
+1648;Katie Ashley;2020-07-15
+1649;Howard Jacobson;2020-07-16
+1650;Julia Quinn;2020-07-16
+1651;Nora Roberts;2020-07-15
+1652;Ted Dekker;2020-07-16
+1653;Brad Thor;2020-07-16
+1654;Glen Cook;2020-07-16
+1655;James Joyce;2020-07-15
+1656;Nick Bruel;2020-07-15
+1657;David Brin;2020-07-16
+1658;Ann Patchett;2020-07-15
+1659;Eoin Colfer;2020-07-16
+1660;George Carlin;2020-07-16
+1661;Aimee Carter;2020-07-15
+1662;Lauren Oliver;2020-07-16
+1663;Susan Coolidge;2020-07-16
+1664;Brian Jacques;2020-07-16
+1665;Chloe Neill;2020-07-15
+1666;Eoin Colfer;2020-07-15
+1667;Rosamunde Pilcher;2020-07-16
+1668;Cecelia Ahern;2020-07-15
+1669;Ingrid Law;2020-07-16
+1670;Raymond E. Feist;2020-07-16
+1671;John Flanagan;2020-07-15
+1672;Karen Chance;2020-07-16
+1673;Roland Smith;2020-07-16
+1674;Dennis Lehane;2020-07-16
+1675;Ann Leckie;2020-07-15
+1676;Nancy Horan;2020-07-15
+1677;John Grisham;2020-07-16
+1678;Kim Harrison;2020-07-15
+1679;Jane Green;2020-07-16
+1680;H.M. Ward;2020-07-16
+1681;John Updike;2020-07-15
+1682;Karen Cushman;2020-07-16
+1683;Heather Gudenkauf;2020-07-16
+1684;Anne McCaffrey;2020-07-16
+1685;Vince Flynn;2020-07-15
+1686;Ben H. Winters;2020-07-15
+1687;David Baldacci;2020-07-16
+1688;Gail Carson Levine;2020-07-15
+1689;Lisa Scottoline;2020-07-16
+1690;E.L. James;2020-07-16
+1691;J.D. Robb;2020-07-15
+1692;Natasha Friend;2020-07-16
+1693;Tamora Pierce;2020-07-16
+1694;Ernest Hemingway;2020-07-16
+1695;Dean Koontz;2020-07-15
+1696;Shayla Black;2020-07-15
+1697;Jonathan Stroud;2020-07-16
+1698;Ellen DeGeneres;2020-07-15
+1699;Katie McGarry;2020-07-16
+1700;Jon Krakauer;2020-07-16
+1701;Karen Russell;2020-07-15
+1702;Jamie McGuire;2020-07-16
+1703;Erika Swyler;2020-07-16
+1704;Tana French;2020-07-16
+1705;Sylvia Day;2020-07-15
+1706;Tahereh Mafi;2020-07-15
+1707;James Dashner;2020-07-16
+1708;Vince Flynn;2020-07-15
+1709;Heather Dixon;2020-07-16
+1710;Marian Keyes;2020-07-16
+1711;Pittacus Lore;2020-07-15
+1712;Meg Cabot;2020-07-16
+1713;Donna Leon;2020-07-16
+1714;Tom Clancy;2020-07-16
+1715;Matthew Reilly;2020-07-15
+1716;Terry Pratchett;2020-07-15
+1717;Ian McEwan;2020-07-16
+1718;Billie Letts;2020-07-15
+1719;Stephen King;2020-07-16
+1720;Tracy Chevalier;2020-07-16
+1721;Patricia McCormick;2020-07-15
+1722;Anne Rice;2020-07-16
+1723;Dan Simmons;2020-07-16
+1724;Dorothy Allison;2020-07-16
+1725;Rob Bell;2020-07-15
+1726;Patrick Carman;2020-07-15
+1727;Chris Cleave;2020-07-16
+1728;Harlan Coben;2020-07-15
+1729;Garth Nix;2020-07-16
+1730;Daphne du Maurier;2020-07-16
+1731;Marguerite Henry;2020-07-15
+1732;Katie McGarry;2020-07-16
+1733;Linda Sue Park;2020-07-16
+1734;Sylvia Day;2020-07-16
+1735;Steve Berry;2020-07-15
+1736;Robin Hobb;2020-07-15
+1737;Huntley Fitzpatrick;2020-07-16
+1738;Nalini Singh;2020-07-15
+1739;Peter F. Hamilton;2020-07-16
+1740;Iain Banks;2020-07-16
+1741;Jack Kerouac;2020-07-15
+1742;Lisa See;2020-07-16
+1743;Iris Johansen;2020-07-16
+1744;Jack Higgins;2020-07-16
+1745;James A. Michener;2020-07-15
+1746;Ursula K. Le Guin;2020-07-15
+1747;Dennis Lehane;2020-07-16
+1748;Agatha Christie;2020-07-15
+1749;Terry Pratchett;2020-07-16
+1750;Amanda Hocking;2020-07-16
+1751;Carl Hiaasen;2020-07-15
+1752;Jeanne DuPrau;2020-07-16
+1753;Sarah J. Maas;2020-07-16
+1754;Marieke Nijkamp;2020-07-16
+1755;Judith McNaught;2020-07-15
+1756;Sara Donati;2020-07-15
+1757;Luke Rhinehart;2020-07-16
+1758;J.D. Robb;2020-07-15
+1759;"J.M. Barrie; Michael Hague";2020-07-16
+1760;Sylvia Day;2020-07-16
+1761;Harlan Coben;2020-07-15
+1762;Paul Theroux;2020-07-16
+1763;Dean Koontz;2020-07-16
+1764;Ray Bradbury;2020-07-16
+1765;Jennifer Crusie;2020-07-15
+1766;James Dashner;2020-07-15
+1767;Janet Fitch;2020-07-16
+1768;Derek Landy;2020-07-15
+1769;Carl Hiaasen;2020-07-16
+1770;Aprilynne Pike;2020-07-16
+1771;Agatha Christie;2020-07-15
+1772;Ted Dekker;2020-07-16
+1773;Guy Gavriel Kay;2020-07-16
+1774;"J.J. Abrams; Doug Dorst";2020-07-16
+1775;Julie Otsuka;2020-07-15
+1776;Steven Erikson;2020-07-15
+1777;John Saul;2020-07-16
+1778;Candace Bushnell;2020-07-15
+1779;Lauren Conrad;2020-07-16
+1780;Steve Martin;2020-07-16
+1781;S.C. Stephens;2020-07-15
+1782;Kalayna Price;2020-07-16
+1783;Ann Leckie;2020-07-16
+1784;Donna Tartt;2020-07-16
+1785;John Sandford;2020-07-15
+1786;Mary Kubica;2020-07-15
+1787;Piers Anthony;2020-07-16
+1788;Amy Tan;2020-07-15
+1789;Jean Ferris;2020-07-16
+1790;Christina Schwarz;2020-07-16
+1791;Ilona Andrews;2020-07-15
+1792;Ann Rule;2020-07-16
+1793;Charlaine Harris;2020-07-16
+1794;Ian Fleming;2020-07-16
+1795;Charles Frazier;2020-07-15
+1796;Gayle Forman;2020-07-15
+1797;Madeleine Wickham;2020-07-16
+1798;Toni Morrison;2020-07-15
+1799;Mitch Albom;2020-07-16
+1800;Alex Haley;2020-07-16
+1801;David Weber;2020-07-15
+1802;Terry Pratchett;2020-07-16
+1803;Robert   Harris;2020-07-16
+1804;Pat Barker;2020-07-16
+1805;Morris Gleitzman;2020-07-15
+1806;Sarah Waters;2020-07-15
+1807;Cornelia Funke;2020-07-16
+1808;Sara Paretsky;2020-07-15
+1809;Robert Jordan;2020-07-16
+1810;Lisa O'Donnell;2020-07-16
+1811;Leigh Bardugo;2020-07-15
+1812;Ian Fleming;2020-07-16
+1813;Aleatha Romig;2020-07-16
+1814;Kristin Hannah;2020-07-16
+1815;Tess Gerritsen;2020-07-15
+1816;Raymond E. Feist;2020-07-15
+1817;Robert McCloskey;2020-07-16
+1818;Lee Child;2020-07-15
+1819;Jojo Moyes;2020-07-16
+1820;Mercer Mayer;2020-07-16
+1821;Peter Straub;2020-07-15
+1822;Rick Bragg;2020-07-16
+1823;Sharon Creech;2020-07-16
+1824;Amy Ewing;2020-07-16
+1825;Elizabeth Kostova;2020-07-15
+1826;Carrie Ryan;2020-07-15
+1827;Anne Tyler;2020-07-16
+1828;V.C. Andrews;2020-07-15
+1829;Sara Gruen;2020-07-16
+1830;Tom Perrotta;2020-07-16
+1831;Chris Bohjalian;2020-07-15
+1832;Gena Showalter;2020-07-16
+1833;Stephen King;2020-07-16
+1834;Larry McMurtry;2020-07-16
+1835;David Mamet;2020-07-15
+1836;Daniel Silva;2020-07-15
+1837;James Patterson;2020-07-16
+1838;John Connolly;2020-07-15
+1839;Kaui Hart Hemmings;2020-07-16
+1840;Leo Lionni;2020-07-16
+1841;John Sandford;2020-07-15
+1842;Scott Lynch;2020-07-16
+1843;Kresley Cole;2020-07-16
+1844;Jerry Pinkney;2020-07-16
+1845;Jean Rhys;2020-07-15
+1846;P.D. James;2020-07-15
+1847;Marie Lu;2020-07-16
+1848;Enid Blyton;2020-07-15
+1849;C.S. Lewis;2020-07-16
+1850;Peter F. Hamilton;2020-07-16
+1851;Danielle Steel;2020-07-15
+1852;Douglas Coupland;2020-07-16
+1853;Stephenie Meyer;2020-07-16
+1854;"P.C. Cast; Kristin Cast";2020-07-16
+1855;Tess Gerritsen;2020-07-15
+1856;John Scalzi;2020-07-15
+1857;Julianne Donaldson;2020-07-16
+1858;Jeffrey Archer;2020-07-15
+1859;Dennis Lehane;2020-07-16
+1860;Jean M. Auel;2020-07-16
+1861;Vince Flynn;2020-07-15
+1862;Jacqueline Winspear;2020-07-16
+1863;Lisa Gardner;2020-07-16
+1864;Aprilynne Pike;2020-07-16
+1865;Michael Crichton;2020-07-15
+1866;Alexandra Bracken;2020-07-15
+1867;Sherrilyn Kenyon;2020-07-16
+1868;Rashmi Bansal;2020-07-15
+1869;Jane Green;2020-07-16
+1870;Stephenie Meyer;2020-07-16
+1871;Glen Duncan;2020-07-15
+1872;Anna Godbersen;2020-07-16
+1873;Jan Karon;2020-07-16
+1874;Julia Quinn;2020-07-16
+1875;Kevin Hearne;2020-07-15
+1876;Ellen Schreiber;2020-07-15
+1877;Alastair Reynolds;2020-07-16
+1878;David Baldacci;2020-07-15
+1879;Tami Hoag;2020-07-16
+1880;Meg Cabot;2020-07-16
+1881;Tracy Chevalier;2020-07-15
+1882;Gail Carriger;2020-07-16
+1883;Roger Zelazny;2020-07-16
+1884;Steven Erikson;2020-07-16
+1885;David  Brooks;2020-07-15
+1886;Laurell K. Hamilton;2020-07-15
+1887;Chinua Achebe;2020-07-16
+1888;Janet Evanovich;2020-07-15
+1889;Sarah Dessen;2020-07-16
+1890;Michael Connelly;2020-07-16
+1891;Laura Wiess;2020-07-15
+1892;J.D. Robb;2020-07-16
+1893;Jennifer Donnelly;2020-07-16
+1894;Bernard Cornwell;2020-07-16
+1895;Charlaine Harris;2020-07-15
+1896;Joe Abercrombie;2020-07-15
+1897;David Sedaris;2020-07-16
+1898;"Cece Bell; David Lasky";2020-07-15
+1899;Anne McCaffrey;2020-07-16
+1900;Spencer Quinn;2020-07-16
+1901;Heather Brewer;2020-07-15
+1902;Sharon Guskin;2020-07-16
+1903;C.S. Lewis;2020-07-16
+1904;Brian Jacques;2020-07-16
+1905;Helen Macdonald;2020-07-15
+1906;Iain M. Banks;2020-07-15
+1907;Meg Cabot;2020-07-16
+1908;Susane Colasanti;2020-07-15
+1909;Malcolm Lowry;2020-07-16
+1910;David Baldacci;2020-07-16
+1911;Kahlil Gibran;2020-07-15
+1912;Tatiana de Rosnay;2020-07-16
+1913;John Flanagan;2020-07-16
+1914;Joyce Carol Oates;2020-07-16
+1915;Wendy Mass;2020-07-15
+1916;Christine Feehan;2020-07-15
+1917;Sarah Dessen;2020-07-16
+1918;Simone Elkeles;2020-07-15
+1919;Robert Ludlum;2020-07-16
+1920;Melissa Nathan;2020-07-16
+1921;Cinda Williams Chima;2020-07-15
+1922;Anne Rice;2020-07-16
+1923;Charlaine Harris;2020-07-16
+1924;Rick Riordan;2020-07-16
+1925;Nora Roberts;2020-07-15
+1926;Lionel Shriver;2020-07-15
+1927;Leon Uris;2020-07-16
+1928;Becca Fitzpatrick;2020-07-15
+1929;Uwem Akpan;2020-07-16
+1930;Mary Doria Russell;2020-07-16
+1931;Bree Despain;2020-07-15
+1932;Penelope Ward;2020-07-16
+1933;Janet Evanovich;2020-07-16
+1934;Sandra Brown;2020-07-16
+1935;Eric Carle;2020-07-15
+1936;Amy Plum;2020-07-15
+1937;Terry Pratchett;2020-07-16
+1938;John Keegan;2020-07-15
+1939;Mary Kay Andrews;2020-07-16
+1940;David Shannon;2020-07-16
+1941;Diane Mott Davidson;2020-07-15
+1942;Robert Jackson Bennett;2020-07-16
+1943;Agatha Christie;2020-07-16
+1944;J.M. Coetzee;2020-07-16
+1945;L.J. Smith;2020-07-15
+1946;James Dashner;2020-07-15
+1947;Michael Connelly;2020-07-16
+1948;Jim Butcher;2020-07-15
+1949;Nora Roberts;2020-07-16
+1950;Jack London;2020-07-16
+1951;Kristin Hannah;2020-07-15
+1952;Ian McGuire;2020-07-16
+1953;Stephen King;2020-07-16
+1954;Terry Pratchett;2020-07-16
+1955;Graeme Simsion;2020-07-15
+1956;Julia Child;2020-07-15
+1957;M.M. Kaye;2020-07-16
+1958;Deanna Raybourn;2020-07-15
+1959;Louisa May Alcott;2020-07-16
+1960;Miriam Toews;2020-07-16
+1961;Ira Levin;2020-07-15
+1962;Val McDermid;2020-07-16
+1963;Sarah Waters;2020-07-16
+1964;Kathy Reichs;2020-07-16
+1965;Kurt Vonnegut Jr.;2020-07-15
+1966;Iris Johansen;2020-07-15
+1967;A.S. King;2020-07-16
+1968;Jean-Paul Sartre;2020-07-15
+1969;Patrick Rothfuss;2020-07-16
+1970;Bernard Cornwell;2020-07-16
+1971;Robison Wells;2020-07-15
+1972;C.S. Lewis;2020-07-16
+1973;Raymond Carver;2020-07-16
+1974;David Mitchell;2020-07-16
+1975;Janet Evanovich;2020-07-15
+1976;Margaret Atwood;2020-07-15
+1977;Sharon M. Draper;2020-07-16
+1978;Mary Higgins Clark;2020-07-15
+1979;Dean Koontz;2020-07-16
+1980;Dashiell Hammett;2020-07-16
+1981;Tracy Letts;2020-07-15
+1982;Julie James;2020-07-16
+1983;David Levithan;2020-07-16
+1984;E. Nesbit;2020-07-16
+1985;Gene Wolfe;2020-07-15
+1986;William Gibson;2020-07-15
+1987;Alice LaPlante;2020-07-16
+1988;Michael A. Singer;2020-07-15
+1989;Tom Clancy;2020-07-16
+1990;Chuck Palahniuk;2020-07-16
+1991;Vikas Swarup;2020-07-15
+1992;Toni Morrison;2020-07-16
+1993;Emily Giffin;2020-07-16
+1994;Terry Brooks;2020-07-16
+1995;Nora Roberts;2020-07-15
+1996;William Shakespeare;2020-07-15
+1997;Jennifer Weiner;2020-07-16
+1998;David Wiesner;2020-07-15
+1999;Sandra Boynton;2020-07-16
+2000;Richard   Preston;2020-07-16
+2001;Iain M. Banks;2020-07-15
+2002;Cynthia Hand;2020-07-16
+2003;Dr. Seuss;2020-07-16
+2004;Michael J. Fox;2020-07-16
+2005;Gena Showalter;2020-07-15
+2006;Terry Pratchett;2020-07-15
+2007;Naomi Klein;2020-07-16
+2008;Sandra Brown;2020-07-15
+2009;Armistead Maupin;2020-07-16
+2010;David Seltzer;2020-07-16
+2011;Sidney Sheldon;2020-07-15
+2012;"P.C. Cast; Kristin Cast";2020-07-16
+2013;Nora Roberts;2020-07-16
+2014;Isaac Asimov;2020-07-16
+2015;C.J. Sansom;2020-07-15
+2016;Karen Marie Moning;2020-07-15
+2017;Alyson Noel;2020-07-16
+2018;Thomas Pynchon;2020-07-15
+2019;David Eddings;2020-07-16
+2020;Dee Henderson;2020-07-16
+2021;J.D. Robb;2020-07-15
+2022;Lisa Gardner;2020-07-16
+2023;Wendy Mass;2020-07-16
+2024;Sarah Addison Allen;2020-07-16
+2025;Patricia Cornwell;2020-07-15
+2026;Jennifer Haigh;2020-07-15
+2027;Colum McCann;2020-07-16
+2028;David Baldacci;2020-07-15
+2029;C.S. Lewis;2020-07-16
+2030;Joan Bauer;2020-07-16
+2031;Kim Harrison;2020-07-15
+2032;Annie Proulx;2020-07-16
+2033;Beryl Markham;2020-07-16
+2034;Lian Hearn;2020-07-16
+2035;Brad Thor;2020-07-15
+2036;Thor Heyerdahl;2020-07-15
+2037;Hugh Laurie;2020-07-16
+2038;Ken Follett;2020-07-15
+2039;Ellen Hopkins;2020-07-16
+2040;Sara Shepard;2020-07-16
+2041;Diane Chamberlain;2020-07-15
+2042;Heather Gudenkauf;2020-07-16
+2043;"James Joyce; Jeri Johnson";2020-07-16
+2044;Christine Feehan;2020-07-16
+2045;Nevil Shute;2020-07-15
+2046;Jennifer A. Nielsen;2020-07-15
+2047;Sandra Brown;2020-07-16
+2048;Irvine Welsh;2020-07-15
+2049;Patricia Cornwell;2020-07-16
+2050;Stephen R. Donaldson;2020-07-16
+2051;Clive Cussler;2020-07-15
+2052;Sharon Kay Penman;2020-07-16
+2053;Derek Landy;2020-07-16
+2054;Michael Connelly;2020-07-16
+2055;Michael Connelly;2020-07-15
+2056;Kurt Vonnegut Jr.;2020-07-15
+2057;Olivia Cunning;2020-07-16
+2058;Tom Clancy;2020-07-15
+2059;Gennifer Albin;2020-07-16
+2060;Ben Okri;2020-07-16
+2061;Patricia Cornwell;2020-07-15
+2062;John Fowles;2020-07-16
+2063;Brent Weeks;2020-07-16
+2064;Robert Crais;2020-07-16
+2065;Jane Green;2020-07-15
+2066;Yotam Ottolenghi;2020-07-15
+2067;Nathan Filer;2020-07-16
+2068;Linda Howard;2020-07-15
+2069;Josephine Tey;2020-07-16
+2070;Terry Pratchett;2020-07-16
+2071;Jon Klassen;2020-07-15
+2072;Kristan Higgins;2020-07-16
+2073;Sarah Dessen;2020-07-16
+2074;Robert Jordan;2020-07-16
+2075;Harlan Coben;2020-07-15
+2076;Mark Helprin;2020-07-15
+2077;Edmund Morris;2020-07-16
+2078;Maria V. Snyder;2020-07-15
+2079;Jane Austen;2020-07-16
+2080;Kevin Kwan;2020-07-16
+2081;George R.R. Martin;2020-07-15
+2082;Ilona Andrews;2020-07-16
+2083;Lynsay Sands;2020-07-16
+2084;John Irving;2020-07-16
+2085;C.S. Lewis;2020-07-15
+2086;Jack Kerouac;2020-07-15
+2087;Robert Hicks;2020-07-16
+2088;Gordon Korman;2020-07-15
+2089;Joanna Trollope;2020-07-16
+2090;Michel Houellebecq;2020-07-16
+2091;Ann Voskamp;2020-07-15
+2092;P.D. Eastman;2020-07-16
+2093;Friedrich A. Hayek;2020-07-16
+2094;Carol Shields;2020-07-16
+2095;Paulo Coelho;2020-07-15
+2096;Patricia Cornwell;2020-07-15
+2097;Anne Tyler;2020-07-16
+2098;Mark  Lawrence;2020-07-15
+2099;James Luceno;2020-07-16
+2100;Edith Wharton;2020-07-16
+2101;Janet Evanovich;2020-07-15
+2102;Cassandra Clare;2020-07-16
+2103;Meredith Wild;2020-07-16
+2104;Daniel Silva;2020-07-16
+2105;Truman Capote;2020-07-15
+2106;Ally Carter;2020-07-15
+2107;Lisa Kleypas;2020-07-16
+2108;John Steinbeck;2020-07-15
+2109;Terry Brooks;2020-07-16
+2110;Rick Riordan;2020-07-16
+2111;Rick Riordan;2020-07-15
+2112;Wilbur Smith;2020-07-16
+2113;Marcus Sakey;2020-07-16
+2114;John Updike;2020-07-16
+2115;David Eddings;2020-07-15
+2116;Dennis Lehane;2020-07-15
+2117;John Green;2020-07-16
+2118;Kresley Cole;2020-07-15
+2119;Jack London;2020-07-16
+2120;Victoria Aveyard;2020-07-16
+2121;Sara Raasch;2020-07-15
+2122;Mario Puzo;2020-07-16
+2123;Beatriz Williams;2020-07-16
+2124;Jeffery Deaver;2020-07-16
+2125;N.K. Jemisin;2020-07-15
+2126;Kathleen Kent;2020-07-15
+2127;Umberto Eco;2020-07-16
+2128;Cathy Glass;2020-07-15
+2129;Dean Koontz;2020-07-16
+2130;Elin Hilderbrand;2020-07-16
+2131;Dan Chaon;2020-07-15
+2132;Sandra Dallas;2020-07-16
+2133;Django Wexler;2020-07-16
+2134;Rachel Vincent;2020-07-16
+2135;Julie Garwood;2020-07-15
+2136;Jude Deveraux;2020-07-15
+2137;Dennis Lehane;2020-07-16
+2138;Cecelia Ahern;2020-07-15
+2139;Anne Bishop;2020-07-16
+2140;Sherrilyn Kenyon;2020-07-16
+2141;Simone Elkeles;2020-07-15
+2142;Maria V. Snyder;2020-07-16
+2143;Lee Child;2020-07-16
+2144;Bernard Cornwell;2020-07-16
+2145;Sarah Waters;2020-07-15
+2146;Kate Atkinson;2020-07-15
+2147;Sue Monk Kidd;2020-07-16
+2148;Rosamund Lupton;2020-07-15
+2149;J.R. Ward;2020-07-16
+2150;Anita Diamant;2020-07-16
+2151;Lauren Groff;2020-07-15
+2152;Bret Easton Ellis;2020-07-16
+2153;C.J. Sansom;2020-07-16
+2154;Anita Diamant;2020-07-16
+2155;Anthony Horowitz;2020-07-15
+2156;Meg Cabot;2020-07-15
+2157;Frank Herbert;2020-07-16
+2158;Kate Hamer;2020-07-15
+2159;Sophie Kinsella;2020-07-16
+2160;Kristen Ashley;2020-07-16
+2161;Meg Cabot;2020-07-15
+2162;Jerry Spinelli;2020-07-16
+2163;C.J. Sansom;2020-07-16
+2164;Johanna Edwards;2020-07-16
+2165;James Surowiecki;2020-07-15
+2166;Ally Condie;2020-07-15
+2167;Mercer Mayer;2020-07-16
+2168;Peter Mayle;2020-07-15
+2169;Chris d'Lacey;2020-07-16
+2170;Shelly Crane;2020-07-16
+2171;Melina Marchetta;2020-07-15
+2172;R.L. Mathewson;2020-07-16
+2173;A.S. Byatt;2020-07-16
+2174;Stephen Fry;2020-07-16
+2175;Tess Gerritsen;2020-07-15
+2176;Richard Ford;2020-07-15
+2177;Jonathan Kellerman;2020-07-16
+2178;Kate Atkinson;2020-07-15
+2179;Jude Watson;2020-07-16
+2180;Greg Iles;2020-07-16
+2181;Terry Goodkind;2020-07-15
+2182;Robert Jordan;2020-07-16
+2183;Maeve Binchy;2020-07-16
+2184;Ben Aaronovitch;2020-07-16
+2185;Richard Castle;2020-07-15
+2186;Sandra Brown;2020-07-15
+2187;James Patterson;2020-07-16
+2188;Dan Simmons;2020-07-15
+2189;Rick Riordan;2020-07-16
+2190;Christos Tsiolkas;2020-07-16
+2191;R.A. Salvatore;2020-07-15
+2192;John Gardner;2020-07-16
+2193;Nelson DeMille;2020-07-16
+2194;Mercer Mayer;2020-07-16
+2195;James Patterson;2020-07-15
+2196;Sarah J. Maas;2020-07-15
+2197;Anita Shreve;2020-07-16
+2198;Eleanor Brown;2020-07-15
+2199;Joe Hill;2020-07-16
+2200;Tana French;2020-07-16
+2201;Anne Rice;2020-07-15
+2202;Charles Bukowski;2020-07-16
+2203;Amy Waldman;2020-07-16
+2204;D.J. MacHale;2020-07-16
+2205;Milan Kundera;2020-07-15
+2206;Meg Cabot;2020-07-15
+2207;Jacqueline Woodson;2020-07-16
+2208;Anna Godbersen;2020-07-15
+2209;Patricia Cornwell;2020-07-16
+2210;Alfred Bester;2020-07-16
+2211;P.D. James;2020-07-15
+2212;Terry Brooks;2020-07-16
+2213;Walter Mosley;2020-07-16
+2214;Julie James;2020-07-16
+2215;Salman Rushdie;2020-07-15
+2216;Tara Conklin;2020-07-15
+2217;Darynda Jones;2020-07-16
+2218;Richelle Mead;2020-07-15
+2219;Bill Bryson;2020-07-16
+2220;William Goldman;2020-07-16
+2221;Sara Gruen;2020-07-15
+2222;Guy Gavriel Kay;2020-07-16
+2223;James Redfield;2020-07-16
+2224;Christopher Pike;2020-07-16
+2225;Piers Anthony;2020-07-15
+2226;"Roald Dahl; Quentin Blake";2020-07-15
+2227;Agatha Christie;2020-07-16
+2228;Leigh Bardugo;2020-07-15
+2229;Paulo Coelho;2020-07-16
+2230;Mary Kay Andrews;2020-07-16
+2231;C.S. Lewis;2020-07-15
+2232;Aravind Adiga;2020-07-16
+2233;Frederick Forsyth;2020-07-16
+2234;Robert McCammon;2020-07-16
+2235;Tom Clancy;2020-07-15
+2236;Louise Penny;2020-07-15
+2237;Michael Connelly;2020-07-16
+2238;J.R. Ward;2020-07-15
+2239;Jim Butcher;2020-07-16
+2240;Elizabeth Flock;2020-07-16
+2241;Daniel Silva;2020-07-15
+2242;Charlie N. Holmberg;2020-07-16
+2243;David Gemmell;2020-07-16
+2244;Sophie Kinsella;2020-07-16
+2245;Sarah J. Maas;2020-07-15
+2246;Philip Pullman;2020-07-15
+2247;Cat Patrick;2020-07-16
+2248;Samantha Shannon;2020-07-15
+2249;John Marsden;2020-07-16
+2250;Don Winslow;2020-07-16
+2251;Ashwin Sanghi;2020-07-15
+2252;Scott Turow;2020-07-16
+2253;Jodi Picoult;2020-07-16
+2254;Ursula K. Le Guin;2020-07-16
+2255;Rachel Hauck;2020-07-15
+2256;Charles Bukowski;2020-07-15
+2257;Scott Westerfeld;2020-07-16
+2258;Tessa Dare;2020-07-15
+2259;Nora Roberts;2020-07-16
+2260;Mary Kubica;2020-07-16
+2261;Graham Greene;2020-07-15
+2262;Anna Quindlen;2020-07-16
+2263;Amy Bloom;2020-07-16
+2264;Terry Hayes;2020-07-16
+2265;Sue Grafton;2020-07-15
+2266;Julie James;2020-07-15
+2267;Diane Chamberlain;2020-07-16
+2268;Laurent Binet;2020-07-15
+2269;Mary E. Pearson;2020-07-16
+2270;Jack McCallum;2020-07-16
+2271;Richard Paul Evans;2020-07-15
+2272;Jennifer Crusie;2020-07-16
+2273;Kiera Cass;2020-07-16
+2274;Gail Carriger;2020-07-16
+2275;Michael Herr;2020-07-15
+2276;Laurell K. Hamilton;2020-07-15
+2277;Gena Showalter;2020-07-16
+2278;Eric Carle;2020-07-15
+2279;Paul Harding;2020-07-16
+2280;Olive Ann Burns;2020-07-16
+2281;Gayle Forman;2020-07-15
+2282;Guy Gavriel Kay;2020-07-16
+2283;Steven Erikson;2020-07-16
+2284;Martha Stout;2020-07-16
+2285;Daniel Silva;2020-07-15
+2286;Robin Hobb;2020-07-15
+2287;James Rollins;2020-07-16
+2288;David Baldacci;2020-07-15
+2289;James Ellroy;2020-07-16
+2290;Paulette Jiles;2020-07-16
+2291;Alyson Noel;2020-07-15
+2292;Beatrix Potter;2020-07-16
+2293;B.A. Paris;2020-07-16
+2294;Erin Hunter;2020-07-16
+2295;Nicholas Sparks;2020-07-15
+2296;Colleen Hoover;2020-07-15
+2297;Gabrielle Zevin;2020-07-16
+2298;Kristin Cashore;2020-07-15
+2299;Pramoedya Ananta Toer;2020-07-16
+2300;R.A. Salvatore;2020-07-16
+2301;Terry Pratchett;2020-07-15
+2302;Charlaine Harris;2020-07-16
+2303;Brent Weeks;2020-07-16
+2304;Clive Cussler;2020-07-16
+2305;Chris Bohjalian;2020-07-15
+2306;Katherine Dunn;2020-07-15
+2307;Roxane Gay;2020-07-16
+2308;Roger Zelazny;2020-07-15
+2309;Michael Crichton;2020-07-16
+2310;Sara Ryan;2020-07-16
+2311;James McBride;2020-07-15
+2312;Bernard Cornwell;2020-07-16
+2313;Carol Shields;2020-07-16
+2314;Evelyn Waugh;2020-07-16
+2315;Jussi Adler-Olsen;2020-07-15
+2316;Marilynne Robinson;2020-07-15
+2317;Richard K. Morgan;2020-07-16
+2318;Julie Kagawa;2020-07-15
+2319;Wally Lamb;2020-07-16
+2320;Mark  Lawrence;2020-07-16
+2321;James A. Michener;2020-07-15
+2322;Ernest Cline;2020-07-16
+2323;Janet Evanovich;2020-07-16
+2324;L. Frank Baum;2020-07-16
+2325;Jacqueline Winspear;2020-07-15
+2326;Suzanne Collins;2020-07-15
+2327;Sonya Sones;2020-07-16
+2328;Patrick O'Brian;2020-07-15
+2329;Cormac McCarthy;2020-07-16
+2330;James Grady;2020-07-16
+2331;Irvine Welsh;2020-07-15
+2332;Marie Lu;2020-07-16
+2333;Timothy Ferriss;2020-07-16
+2334;Mercedes Lackey;2020-07-16
+2335;Flora Rheta Schreiber;2020-07-15
+2336;Clive Cussler;2020-07-15
+2337;Jennifer Lynn Barnes;2020-07-16
+2338;Stephen King;2020-07-15
+2339;Louise Erdrich;2020-07-16
+2340;Emily Giffin;2020-07-16
+2341;Anne McCaffrey;2020-07-15
+2342;Patricia Highsmith;2020-07-16
+2343;Kurt Vonnegut Jr.;2020-07-16
+2344;Danielle Steel;2020-07-16
+2345;Dean Koontz;2020-07-15
+2346;Garth Nix;2020-07-15
+2347;Elizabeth Wein;2020-07-16
+2348;John Stuart Mill;2020-07-15
+2349;Nelson DeMille;2020-07-16
+2350;William R. Forstchen;2020-07-16
+2351;Samantha Young;2020-07-15
+2352;Jeff Kinney;2020-07-16
+2353;Pat Conroy;2020-07-16
+2354;Emily St. John Mandel;2020-07-16
+2355;Lauren DeStefano;2020-07-15
+2356;Jeffrey Archer;2020-07-15
+2357;Eric S. Nylund;2020-07-16
+2358;Kasie West;2020-07-15
+2359;F. Scott Fitzgerald;2020-07-16
+2360;Neil Gaiman;2020-07-16
+2361;Cinda Williams Chima;2020-07-15
+2362;Terry Brooks;2020-07-16
+2363;Darren Shan;2020-07-16
+2364;Danielle L. Jensen;2020-07-16
+2365;J.R. Ward;2020-07-15
+2366;Ben Aaronovitch;2020-07-15
+2367;Michelle Magorian;2020-07-16
+2368;Amy Tan;2020-07-15
+2369;Shannon Hale;2020-07-16
+2370;Adolf Hitler;2020-07-16
+2371;Patricia Cornwell;2020-07-15
+2372;David Eddings;2020-07-16
+2373;Dee Henderson;2020-07-16
+2374;Piers Anthony;2020-07-16
+2375;Sidney Sheldon;2020-07-15
+2376;V.C. Andrews;2020-07-15
+2377;Brandon Sanderson;2020-07-16
+2378;David Eddings;2020-07-15
+2379;Terry Pratchett;2020-07-16
+2380;Joe Abercrombie;2020-07-16
+2381;Don Richardson;2020-07-15
+2382;Chaim Potok;2020-07-16
+2383;Gena Showalter;2020-07-16
+2384;Roger Zelazny;2020-07-16
+2385;Richard Paul Evans;2020-07-15
+2386;Robin Hobb;2020-07-15
+2387;Michael Ende;2020-07-16
+2388;Robin McKinley;2020-07-15
+2389;Agatha Christie;2020-07-16
+2390;Michael Scott;2020-07-16
+2391;Karin Slaughter;2020-07-15
+2392;Miranda Kenneally;2020-07-16
+2393;Ron Chernow;2020-07-16
+2394;Eric Carle;2020-07-16
+2395;Chris Pavone;2020-07-15
+2396;Donna Woolfolk Cross;2020-07-15
+2397;William C. Dietz;2020-07-16
+2398;Edgar Allan Poe;2020-07-15
+2399;"Colin Meloy; Carson Ellis";2020-07-16
+2400;John Hodgman;2020-07-16
+2401;John Grisham;2020-07-15
+2402;Cormac McCarthy;2020-07-16
+2403;Georgette Heyer;2020-07-16
+2404;Timur Vermes;2020-07-16
+2405;Anne McCaffrey;2020-07-15
+2406;Frank De Felitta;2020-07-15
+2407;William Gibson;2020-07-16
+2408;Alan W. Watts;2020-07-15
+2409;Nicholas Sparks;2020-07-16
+2410;Cassandra Clare;2020-07-16
+2411;Madeleine L'Engle;2020-07-15
+2412;Sophie Kinsella;2020-07-16
+2413;Maeve Binchy;2020-07-16
+2414;Charlotte Rogan;2020-07-16
+2415;Edith Pattou;2020-07-15
+2416;Kathy Reichs;2020-07-15
+2417;Agatha Christie;2020-07-16
+2418;Janet Evanovich;2020-07-15
+2419;Nathan  Hill;2020-07-16
+2420;Anna Carey;2020-07-16
+2421;Lois McMaster Bujold;2020-07-15
+2422;Kim Harrison;2020-07-16
+2423;Olivia Goldsmith;2020-07-16
+2424;Melissa de la Cruz;2020-07-16
+2425;Ursula K. Le Guin;2020-07-15
+2426;Terry Pratchett;2020-07-15
+2427;Tess Gerritsen;2020-07-16
+2428;E.M. Forster;2020-07-15
+2429;Tony Hawks;2020-07-16
+2430;D.J. MacHale;2020-07-16
+2431;Anthony Horowitz;2020-07-15
+2432;Darynda Jones;2020-07-16
+2433;Rita Mae Brown;2020-07-16
+2434;Agatha Christie;2020-07-16
+2435;Homer Hickam;2020-07-15
+2436;Kurt Vonnegut Jr.;2020-07-15
+2437;Kiera Cass;2020-07-16
+2438;Elin Hilderbrand;2020-07-15
+2439;Jeffrey Archer;2020-07-16
+2440;John Flanagan;2020-07-16
+2441;Jodi Picoult;2020-07-15
+2442;Barbara Cooney;2020-07-16
+2443;Paulo Coelho;2020-07-16
+2444;Rachel Caine;2020-07-16
+2445;"Edward Bloor; Danny De Vito";2020-07-15
+2446;Julie James;2020-07-15
+2447;Laurell K. Hamilton;2020-07-16
+2448;Christopher Pike;2020-07-15
+2449;"Albert Camus; Justin O'Brien";2020-07-16
+2450;Brian Staveley;2020-07-16
+2451;Jeannette Walls;2020-07-15
+2452;Kate Chopin;2020-07-16
+2453;Janet Evanovich;2020-07-16
+2454;Carrie Ryan;2020-07-16
+2455;Nick Hornby;2020-07-15
+2456;Kate Jacobs;2020-07-15
+2457;Lois McMaster Bujold;2020-07-16
+2458;Robert A. Caro;2020-07-15
+2459;Kelley Armstrong;2020-07-16
+2460;A. Manette Ansay;2020-07-16
+2461;Chelsea M. Cameron;2020-07-15
+2462;Ken Follett;2020-07-16
+2463;Sarah Dessen;2020-07-16
+2464;Jenny  Lawson;2020-07-16
+2465;David Baldacci;2020-07-15
+2466;Peter Jenkins;2020-07-15
+2467;Raymond E. Feist;2020-07-16
+2468;Jeanne DuPrau;2020-07-15
+2469;Charlaine Harris;2020-07-16
+2470;Cinda Williams Chima;2020-07-16
+2471;David James Duncan;2020-07-15
+2472;Kevin Henkes;2020-07-16
+2473;Anna Carey;2020-07-16
+2474;Mark Kurlansky;2020-07-16
+2475;Dava Sobel;2020-07-15
+2476;Greg Iles;2020-07-15
+2477;Laurell K. Hamilton;2020-07-16
+2478;Wendelin Van Draanen;2020-07-15
+2479;Frank Herbert;2020-07-16
+2480;Kate Alcott;2020-07-16
+2481;Marian Keyes;2020-07-15
+2482;Sue Grafton;2020-07-16
+2483;Patricia Cornwell;2020-07-16
+2484;Cynthia J. McGean;2020-07-16
+2485;Marie Rutkoski;2020-07-15
+2486;Kelley Armstrong;2020-07-15
+2487;Fannie Flagg;2020-07-16
+2488;Emmuska Orczy;2020-07-15
+2489;Jo Walton;2020-07-16
+2490;Rhonda Byrne;2020-07-16
+2491;Meg Cabot;2020-07-15
+2492;Rachel Caine;2020-07-16
+2493;Jeff Lindsay;2020-07-16
+2494;W. Somerset Maugham;2020-07-16
+2495;Alison Goodman;2020-07-15
+2496;David Brin;2020-07-15
+2497;Sophie Kinsella;2020-07-16
+2498;Jim Butcher;2020-07-15
+2499;Edward Said;2020-07-16
+2500;Raymond Chandler;2020-07-16
+2501;"Jack Welch; Suzy Welch";2020-07-15
+2502;Shiv Khera;2020-07-16
+2503;Mircea Eliade;2020-07-16
+2504;Robert Ludlum;2020-07-16
+2505;Vince Flynn;2020-07-15
+2506;Keith Richards;2020-07-15
+2507;Chuck Palahniuk;2020-07-16
+2508;R.L. Stine;2020-07-15
+2509;Gary Shteyngart;2020-07-16
+2510;Sharon M. Draper;2020-07-16
+2511;Chris Bohjalian;2020-07-15
+2512;Agatha Christie;2020-07-16
+2513;Robin Hobb;2020-07-16
+2514;Alice Hoffman;2020-07-16
+2515;Nelson DeMille;2020-07-15
+2516;Ilona Andrews;2020-07-15
+2517;Lynsay Sands;2020-07-16
+2518;Sherrilyn Kenyon;2020-07-15
+2519;Agatha Christie;2020-07-16
+2520;Kylie Scott;2020-07-16
+2521;Anna Todd;2020-07-15
+2522;Steve Berry;2020-07-16
+2523;Linda Howard;2020-07-16
+2524;Robert Louis Stevenson;2020-07-16
+2525;Benedict Jacka;2020-07-15
+2526;Connie Willis;2020-07-15
+2527;Larry Correia;2020-07-16
+2528;Darynda Jones;2020-07-15
+2529;Nora Roberts;2020-07-16
+2530;Harlan Coben;2020-07-16
+2531;Kentaro Yabuki;2020-07-15
+2532;Nora Roberts;2020-07-16
+2533;Beverly Cleary;2020-07-16
+2534;Charles Stross;2020-07-16
+2535;Stephenie Meyer;2020-07-15
+2536;C.S. Lewis;2020-07-15
+2537;Ian Fleming;2020-07-16
+2538;Margaret Atwood;2020-07-15
+2539;Mark Haddon;2020-07-16
+2540;Bernard Cornwell;2020-07-16
+2541;Jennifer Echols;2020-07-15
+2542;Noah Gordon;2020-07-16
+2543;John Grisham;2020-07-16
+2544;Sara Zarr;2020-07-16
+2545;Jean M. Auel;2020-07-15
+2546;Michael Crichton;2020-07-15
+2547;Ilona Andrews;2020-07-16
+2548;Dennis Lehane;2020-07-15
+2549;Jane Shemilt;2020-07-16
+2550;Patricia Briggs;2020-07-16
+2551;Janet Evanovich;2020-07-15
+2552;Omar Tyree;2020-07-16
+2553;John Updike;2020-07-16
+2554;Max Frisch;2020-07-16
+2555;Gary Brandner;2020-07-15
+2556;Alexandra Adornetto;2020-07-15
+2557;James S.A. Corey;2020-07-16
+2558;James Patterson;2020-07-15
+2559;Isaac Asimov;2020-07-16
+2560;Rudyard Kipling;2020-07-16
+2561;Eric S. Nylund;2020-07-15
+2562;Christopher Moore;2020-07-16
+2563;Sarah Dessen;2020-07-16
+2564;Christopher Moore;2020-07-16
+2565;Nora Roberts;2020-07-15
+2566;Isaac Asimov;2020-07-15
+2567;Sarah Jio;2020-07-16
+2568;Charlaine Harris;2020-07-15
+2569;D.J. MacHale;2020-07-16
+2570;Jerry Spinelli;2020-07-16
+2571;Emma Healey;2020-07-15
+2572;John Flanagan;2020-07-16
+2573;Deeanne Gist;2020-07-16
+2574;Louise Doughty;2020-07-16
+2575;Gail Carriger;2020-07-15
+2576;Gena Showalter;2020-07-15
+2577;Jasper Fforde;2020-07-16
+2578;Gary Larson;2020-07-15
+2579;Alex Gino;2020-07-16
+2580;Ian McEwan;2020-07-16
+2581;Trudi Canavan;2020-07-15
+2582;Shelly Laurenston;2020-07-16
+2583;Robert Cormier;2020-07-16
+2584;Piers Anthony;2020-07-16
+2585;Isaac Asimov;2020-07-15
+2586;Kevin Hearne;2020-07-15
+2587;J.R. Ward;2020-07-16
+2588;Anita Shreve;2020-07-15
+2589;Cassandra Clare;2020-07-16
+2590;Jason Mott;2020-07-16
+2591;Kelley Armstrong;2020-07-15
+2592;Guy Gavriel Kay;2020-07-16
+2593;C.S. Lewis;2020-07-16
+2594;Richard Condon;2020-07-16
+2595;John Steinbeck;2020-07-15
+2596;Lisa Genova;2020-07-15
+2597;Jess Walter;2020-07-16
+2598;Louise Penny;2020-07-15
+2599;W. Somerset Maugham;2020-07-16
+2600;Brent Weeks;2020-07-16
+2601;Cheryl McIntyre;2020-07-15
+2602;Carl Hiaasen;2020-07-16
+2603;William Gibson;2020-07-16
+2604;Iain M. Banks;2020-07-16
+2605;John Darnielle;2020-07-15
+2606;Agatha Christie;2020-07-15
+2607;Jennifer Echols;2020-07-16
+2608;Amitav Ghosh;2020-07-15
+2609;Garth Nix;2020-07-16
+2610;Dean Koontz;2020-07-16
+2611;Elmore Leonard;2020-07-15
+2612;Ann Cleeves;2020-07-16
+2613;Amy Tan;2020-07-16
+2614;Anna Quindlen;2020-07-16
+2615;Jeff Lindsay;2020-07-15
+2616;Carlos Fuentes;2020-07-15
+2617;Ann Aguirre;2020-07-16
+2618;Judith McNaught;2020-07-15
+2619;Laini Taylor;2020-07-16
+2620;Michael Crichton;2020-07-16
+2621;Clive Cussler;2020-07-15
+2622;Terry Pratchett;2020-07-16
+2623;Patricia Briggs;2020-07-16
+2624;Fred Gipson;2020-07-16
+2625;John Connolly;2020-07-15
+2626;Louise Erdrich;2020-07-15
+2627;Diana Wynne Jones;2020-07-16
+2628;Francine Rivers;2020-07-15
+2629;Lois Lowry;2020-07-16
+2630;Tami Hoag;2020-07-16
+2631;B.A. Shapiro;2020-07-15
+2632;C.S. Lewis;2020-07-16
+2633;John Sandford;2020-07-16
+2634;Elin Hilderbrand;2020-07-16
+2635;Dan Brown;2020-07-15
+2636;Jodi Picoult;2020-07-15
+2637;Julia Heaberlin;2020-07-16
+2638;Garth Nix;2020-07-15
+2639;Victoria Aveyard;2020-07-16
+2640;Chuck Palahniuk;2020-07-16
+2641;Alexandra Bracken;2020-07-15
+2642;Vera B. Williams;2020-07-16
+2643;Karin Slaughter;2020-07-16
+2644;Lori Nelson Spielman;2020-07-16
+2645;Lauren Oliver;2020-07-15
+2646;Chuck Palahniuk;2020-07-15
+2647;Khushwant Singh;2020-07-16
+2648;Karen Marie Moning;2020-07-15
+2649;Paul Auster;2020-07-16
+2650;Russell Brand;2020-07-16
+2651;Lindsey Kelk;2020-07-15
+2652;Ilana Tan;2020-07-16
+2653;Bret Easton Ellis;2020-07-16
+2654;Susan Ee;2020-07-16
+2655;V.C. Andrews;2020-07-15
+2656;Laura Whitcomb;2020-07-15
+2657;Kenneth Oppel;2020-07-16
+2658;Kazu Kibuishi;2020-07-15
+2659;Lois Lowry;2020-07-16
+2660;James Rollins;2020-07-16
+2661;Thomas Pynchon;2020-07-15
+2662;Jessi Klein;2020-07-16
+2663;Ian McEwan;2020-07-16
+2664;Lisa Kleypas;2020-07-16
+2665;Stephen King;2020-07-15
+2666;John Grisham;2020-07-15
+2667;Barbara Delinsky;2020-07-16
+2668;L.M. Montgomery;2020-07-15
+2669;Sinclair Lewis;2020-07-16
+2670;Robin Hobb;2020-07-16
+2671;Joanne Harris;2020-07-15
+2672;Catherine Fisher;2020-07-16
+2673;Susanna Kearsley;2020-07-16
+2674;Lisa Jewell;2020-07-16
+2675;Ray Bradbury;2020-07-15
+2676;Ursula K. Le Guin;2020-07-15
+2677;Anne Rice;2020-07-16
+2678;Tawni O'Dell;2020-07-15
+2679;Paul Auster;2020-07-16
+2680;Richelle Mead;2020-07-16
+2681;Grant Naylor;2020-07-15
+2682;Jean M. Auel;2020-07-16
+2683;Brandon Sanderson;2020-07-16
+2684;Olivia Cunning;2020-07-16
+2685;Sue Monk Kidd;2020-07-15
+2686;Dorothy L. Sayers;2020-07-15
+2687;David Nicholls;2020-07-16
+2688;Christopher Paolini;2020-07-15
+2689;Brad Thor;2020-07-16
+2690;Patricia Cornwell;2020-07-16
+2691;John Irving;2020-07-15
+2692;Jodi Lynn Anderson;2020-07-16
+2693;Philip Roth;2020-07-16
+2694;Pat Conroy;2020-07-16
+2695;Colleen Hoover;2020-07-15
+2696;Sophie Kinsella;2020-07-15
+2697;Glen Cook;2020-07-16
+2698;Renee Ahdieh;2020-07-15
+2699;R.A. Salvatore;2020-07-16
+2700;Marilynne Robinson;2020-07-16
+2701;Christine Feehan;2020-07-15
+2702;Tom Rath;2020-07-16
+2703;Ulrich Bischoff;2020-07-16
+2704;Alice Walker;2020-07-16
+2705;Julia Glass;2020-07-15
+2706;Matthew Reilly;2020-07-15
+2707;Deborah Rodriguez;2020-07-16
+2708;Susan Beth Pfeffer;2020-07-15
+2709;Stephen King;2020-07-16
+2710;Victoria Aveyard;2020-07-16
+2711;Miriam Toews;2020-07-15
+2712;Robert Bloch;2020-07-16
+2713;Maeve Binchy;2020-07-16
+2714;Charles Bukowski;2020-07-16
+2715;Sabaa Tahir;2020-07-15
+2716;Lisa Gardner;2020-07-15
+2717;Linwood Barclay;2020-07-16
+2718;Anne Bishop;2020-07-15
+2719;Janet Evanovich;2020-07-16
+2720;Arthur Conan Doyle;2020-07-16
+2721;Terry Pratchett;2020-07-15
+2722;Frederick Forsyth;2020-07-16
+2723;Paul Torday;2020-07-16
+2724;Melvin Burgess;2020-07-16
+2725;Nora Roberts;2020-07-15
+2726;Karin Slaughter;2020-07-15
+2727;Ransom Riggs;2020-07-16
+2728;Lee Child;2020-07-15
+2729;Peter Heller;2020-07-16
+2730;Katie Ashley;2020-07-16
+2731;Henry Hazlitt;2020-07-15
+2732;"Dava Sobel; Neil Armstrong";2020-07-16
+2733;Craig Thompson;2020-07-16
+2734;Daniel Silva;2020-07-16
+2735;Laura Lippman;2020-07-15
+2736;Frank E. Peretti;2020-07-15
+2737;Philip K. Dick;2020-07-16
+2738;Brent Weeks;2020-07-15
+2739;Laura Moriarty;2020-07-16
+2740;Faith Hunter;2020-07-16
+2741;Jim Butcher;2020-07-15
+2742;Clive Barker;2020-07-16
+2743;Emily Murdoch;2020-07-16
+2744;Barbara Delinsky;2020-07-16
+2745;Nora Roberts;2020-07-15
+2746;Mark  Lawrence;2020-07-15
+2747;J. Courtney Sullivan;2020-07-16
+2748;Nelson DeMille;2020-07-15
+2749;Frank E. Peretti;2020-07-16
+2750;Terry Brooks;2020-07-16
+2751;Nicholas Evans;2020-07-15
+2752;Philip Reeve;2020-07-16
+2753;Pat Conroy;2020-07-16
+2754;Michael Morpurgo;2020-07-16
+2755;Alice Hoffman;2020-07-15
+2756;Alex Kava;2020-07-15
+2757;Tamora Pierce;2020-07-16
+2758;Judy Blume;2020-07-15
+2759;Rudolfo Anaya;2020-07-16
+2760;Leon Uris;2020-07-16
+2761;Jennifer Probst;2020-07-15
+2762;Jamie McGuire;2020-07-16
+2763;Lauren Beukes;2020-07-16
+2764;Christine Feehan;2020-07-16
+2765;Julia Quinn;2020-07-15
+2766;"T.C. Boyle; Richard Poe";2020-07-15
+2767;Claudia Gray;2020-07-16
+2768;David Eddings;2020-07-15
+2769;John Grisham;2020-07-16
+2770;Rosamunde Pilcher;2020-07-16
+2771;Dean Koontz;2020-07-15
+2772;Garth Nix;2020-07-16
+2773;Judith McNaught;2020-07-16
+2774;Maeve Binchy;2020-07-16
+2775;Melissa de la Cruz;2020-07-15
+2776;Anne Rice;2020-07-15
+2777;Dave Barry;2020-07-16
+2778;David Small;2020-07-15
+2779;Elisabeth Egan;2020-07-16
+2780;Meg Cabot;2020-07-16
+2781;Moira Young;2020-07-15
+2782;Robert Frost;2020-07-16
+2783;John Scalzi;2020-07-16
+2784;Amor Towles;2020-07-16
+2785;Nora Roberts;2020-07-15
+2786;Peter V. Brett;2020-07-15
+2787;Jamie Ford;2020-07-16
+2788;Bree Despain;2020-07-15
+2789;Dan Wells;2020-07-16
+2790;Dennis Lehane;2020-07-16
+2791;Patricia Briggs;2020-07-15
+2792;Amy Harmon;2020-07-16
+2793;Meg Cabot;2020-07-16
+2794;Nalini Singh;2020-07-16
+2795;Renee Ahdieh;2020-07-15
+2796;Jonathan Stroud;2020-07-15
+2797;Orson Scott Card;2020-07-16
+2798;Dee Lestari;2020-07-15
+2799;Orson Scott Card;2020-07-16
+2800;Cormac McCarthy;2020-07-16
+2801;Douglas Preston;2020-07-15
+2802;P.B. Kerr;2020-07-16
+2803;Garth Nix;2020-07-16
+2804;Melissa Marr;2020-07-16
+2805;Cath Crowley;2020-07-15
+2806;Angie Sage;2020-07-15
+2807;Margaret Atwood;2020-07-16
+2808;Jan Karon;2020-07-15
+2809;Hillary Rodham Clinton;2020-07-16
+2810;Arthur Conan Doyle;2020-07-16
+2811;Frank E. Peretti;2020-07-15
+2812;Lara Adrian;2020-07-16
+2813;Tana French;2020-07-16
+2814;E.L. Doctorow;2020-07-16
+2815;Morgan Matson;2020-07-15
+2816;Cormac McCarthy;2020-07-15
+2817;Marissa Meyer;2020-07-16
+2818;Esi Edugyan;2020-07-15
+2819;Tad Williams;2020-07-16
+2820;Kerstin Gier;2020-07-16
+2821;Dan Brown;2020-07-15
+2822;Robin Cook;2020-07-16
+2823;Catherine Marshall;2020-07-16
+2824;Cynthia D'Aprix Sweeney;2020-07-16
+2825;Ann Patchett;2020-07-15
+2826;Doug Lloyd;2020-07-15
+2827;Melina Marchetta;2020-07-16
+2828;Loretta Chase;2020-07-15
+2829;Alwyn Hamilton;2020-07-16
+2830;Tom Robbins;2020-07-16
+2831;Sue Grafton;2020-07-15
+2832;Rae Carson;2020-07-16
+2833;Tana French;2020-07-16
+2834;Terry Goodkind;2020-07-16
+2835;Sarah J. Maas;2020-07-15
+2836;Sophie Jordan;2020-07-15
+2837;Louise Penny;2020-07-16
+2838;Beverly Cleary;2020-07-15
+2839;John Scalzi;2020-07-16
+2840;Sandra Boynton;2020-07-16
+2841;Christine Feehan;2020-07-15
+2842;Michelle Moran;2020-07-16
+2843;Dean Koontz;2020-07-16
+2844;J.R. Ward;2020-07-16
+2845;Jhumpa Lahiri;2020-07-15
+2846;Jacqueline Winspear;2020-07-15
+2847;Jenny Han;2020-07-16
+2848;John Grisham;2020-07-15
+2849;L.E. Modesitt Jr.;2020-07-16
+2850;Michelle Richmond;2020-07-16
+2851;Nalini Singh;2020-07-15
+2852;Charlie Higson;2020-07-16
+2853;Kresley Cole;2020-07-16
+2854;Richard Adams;2020-07-16
+2855;Ellen Hopkins;2020-07-15
+2856;Stephen R. Donaldson;2020-07-15
+2857;L.M. Montgomery;2020-07-16
+2858;Eoin Colfer;2020-07-15
+2859;Nora Roberts;2020-07-16
+2860;Steven  Rowley;2020-07-16
+2861;Irwin Shaw;2020-07-15
+2862;Roger Zelazny;2020-07-16
+2863;Lisa Gardner;2020-07-16
+2864;Jeff VanderMeer;2020-07-16
+2865;Nora Roberts;2020-07-15
+2866;Teju Cole;2020-07-15
+2867;Leila Meacham;2020-07-16
+2868;William Shakespeare;2020-07-15
+2869;Jeffrey Archer;2020-07-16
+2870;Brad Thor;2020-07-16
+2871;Lev Grossman;2020-07-15
+2872;Monica  Murphy;2020-07-16
+2873;Kiera Cass;2020-07-16
+2874;Rae Carson;2020-07-16
+2875;Alice Sebold;2020-07-15
+2876;Jackie Collins;2020-07-15
+2877;Colleen Houck;2020-07-16
+2878;David Baldacci;2020-07-15
+2879;Sarah MacLean;2020-07-16
+2880;Stephen King;2020-07-16
+2881;"Milan Kundera; Linda Asher";2020-07-15
+2882;Stephen King;2020-07-16
+2883;N.K. Jemisin;2020-07-16
+2884;Frank McCourt;2020-07-16
+2885;Nelson DeMille;2020-07-15
+2886;Patricia Cornwell;2020-07-15
+2887;Sue Grafton;2020-07-16
+2888;Nora Roberts;2020-07-15
+2889;Nora Roberts;2020-07-16
+2890;Alex Berenson;2020-07-16
+2891;Cynthia Lord;2020-07-15
+2892;Robert C. O'Brien;2020-07-16
+2893;Michael Connelly;2020-07-16
+2894;Richard Castle;2020-07-16
+2895;Rachel Kushner;2020-07-15
+2896;Arthur Hailey;2020-07-15
+2897;Natasha Solomons;2020-07-16
+2898;E.M. Forster;2020-07-15
+2899;Tobias Wolff;2020-07-16
+2900;Julie   Murphy;2020-07-16
+2901;Harlan Coben;2020-07-15
+2902;Matthew Reilly;2020-07-16
+2903;Janet Evanovich;2020-07-16
+2904;Stephen King;2020-07-16
+2905;Harlan Coben;2020-07-15
+2906;Karin Slaughter;2020-07-15
+2907;David Baldacci;2020-07-16
+2908;Lisa Lutz;2020-07-15
+2909;Dorothy L. Sayers;2020-07-16
+2910;Justin Cronin;2020-07-16
+2911;Cinda Williams Chima;2020-07-15
+2912;Cynthia Swanson;2020-07-16
+2913;Chad Harbach;2020-07-16
+2914;Jean de Brunhoff;2020-07-16
+2915;Nora Roberts;2020-07-15
+2916;Robert A. Caro;2020-07-15
+2917;P.D. James;2020-07-16
+2918;Robyn Carr;2020-07-15
+2919;Jeff Shaara;2020-07-16
+2920;Sherrilyn Kenyon;2020-07-16
+2921;James Rollins;2020-07-15
+2922;Rick Yancey;2020-07-16
+2923;Ted Dekker;2020-07-16
+2924;James Patterson;2020-07-16
+2925;Sheri Reynolds;2020-07-15
+2926;John Grisham;2020-07-15
+2927;Scott Westerfeld;2020-07-16
+2928;Diana Gabaldon;2020-07-15
+2929;Lorenzo Carcaterra;2020-07-16
+2930;Joelle Charbonneau;2020-07-16
+2931;P.D. James;2020-07-15
+2932;Brandon Mull;2020-07-16
+2933;Eckhart Tolle;2020-07-16
+2934;Wendy Mass;2020-07-16
+2935;Julia Quinn;2020-07-15
+2936;L.A. Weatherly;2020-07-15
+2937;Cristin Terrill;2020-07-16
+2938;Margaret Atwood;2020-07-15
+2939;Bruce Springsteen;2020-07-16
+2940;Thomas Wolfe;2020-07-16
+2941;Chelsea Cain;2020-07-15
+2942;Bill Clinton;2020-07-16
+2943;Myla Goldberg;2020-07-16
+2944;Evan Wright;2020-07-16
+2945;Dean Koontz;2020-07-15
+2946;Sarah Addison Allen;2020-07-15
+2947;Sophie Kinsella;2020-07-16
+2948;Ben H. Winters;2020-07-15
+2949;T.H. White;2020-07-16
+2950;Thomas Harris;2020-07-16
+2951;Liza Klaussmann;2020-07-15
+2952;Sandra Brown;2020-07-16
+2953;Ruth Reichl;2020-07-16
+2954;Jasper Fforde;2020-07-16
+2955;Ilona Andrews;2020-07-15
+2956;Mary Higgins Clark;2020-07-15
+2957;Timothy Zahn;2020-07-16
+2958;Kresley Cole;2020-07-15
+2959;David Sedaris;2020-07-16
+2960;Cecelia Ahern;2020-07-16
+2961;James Rollins;2020-07-15
+2962;Mo Hayder;2020-07-16
+2963;Ian McEwan;2020-07-16
+2964;Melissa de la Cruz;2020-07-16
+2965;David Brin;2020-07-15
+2966;Garth Nix;2020-07-15
+2967;Lionel Shriver;2020-07-16
+2968;David Eddings;2020-07-15
+2969;Jay McInerney;2020-07-16
+2970;Stephen King;2020-07-16
+2971;Brodi Ashton;2020-07-15
+2972;Amanda Brown;2020-07-16
+2973;Joseph Boyden;2020-07-16
+2974;Natasha Preston;2020-07-16
+2975;Diana Wynne Jones;2020-07-15
+2976;Sherman Alexie;2020-07-15
+2977;Brandon Sanderson;2020-07-16
+2978;Stephen King;2020-07-15
+2979;J.R. Ward;2020-07-16
+2980;Stephen King;2020-07-16
+2981;Rick Yancey;2020-07-15
+2982;Sophie Kinsella;2020-07-16
+2983;Wally Lamb;2020-07-16
+2984;James Patterson;2020-07-16
+2985;J.A. Redmerski;2020-07-15
+2986;Rachel Caine;2020-07-15
+2987;Sigmund Freud;2020-07-16
+2988;David Mitchell;2020-07-15
+2989;Alice Walker;2020-07-16
+2990;Chuck Wendig;2020-07-16
+2991;Lissa Price;2020-07-15
+2992;Robin Hobb;2020-07-16
+2993;Jeff VanderMeer;2020-07-16
+2994;Kim Stanley Robinson;2020-07-16
+2995;Cate Tiernan;2020-07-15
+2996;James Clavell;2020-07-15
+2997;S.A.R.K.;2020-07-16
+2998;Nickolas Butler;2020-07-15
+2999;Janet Evanovich;2020-07-16
+3000;John Sandford;2020-07-16
+3001;Marlo Morgan;2020-07-15
+3002;Karen Marie Moning;2020-07-16
+3003;Enid Blyton;2020-07-16
+3004;Amy Tan;2020-07-16
+3005;Robert Ludlum;2020-07-15
+3006;M.T. Anderson;2020-07-15
+3007;Stephen R. Donaldson;2020-07-16
+3008;Pittacus Lore;2020-07-15
+3009;Barbara Delinsky;2020-07-16
+3010;Erich Segal;2020-07-16
+3011;Lauren Oliver;2020-07-15
+3012;Anita Shreve;2020-07-16
+3013;Brad Thor;2020-07-16
+3014;Sara Zarr;2020-07-16
+3015;Tamora Pierce;2020-07-15
+3016;J.D. Salinger;2020-07-15
+3017;Rosamunde Pilcher;2020-07-16
+3018;Lloyd Jones;2020-07-15
+3019;"CLAMP; William Flanagan";2020-07-16
+3020;Mercedes Lackey;2020-07-16
+3021;Hunter S. Thompson;2020-07-15
+3022;Terry Brooks;2020-07-16
+3023;Kristin Levine;2020-07-16
+3024;Dan Abnett;2020-07-16
+3025;Oliver Sacks;2020-07-15
+3026;Lloyd Alexander;2020-07-15
+3027;Josephine Angelini;2020-07-16
+3028;Deborah Harkness;2020-07-15
+3029;Lauren Barnholdt;2020-07-16
+3030;Donna Tartt;2020-07-16
+3031;Rick Riordan;2020-07-15
+3032;Kate Grenville;2020-07-16
+3033;Alain de Botton;2020-07-16
+3034;Genevieve Cogman;2020-07-16
+3035;Tony Hillerman;2020-07-15
+3036;Nora Roberts;2020-07-15
+3037;Andrea Hirata;2020-07-16
+3038;Jennifer Weiner;2020-07-15
+3039;Anthony  Ryan;2020-07-16
+3040;Jesmyn Ward;2020-07-16
+3041;Jennifer L. Armentrout;2020-07-15
+3042;Andrew Davidson;2020-07-16
+3043;Yuna Kagesaki;2020-07-16
+3044;John Irving;2020-07-16
+3045;Clive Barker;2020-07-15
+3046;Orson Scott Card;2020-07-15
+3047;"Paulo Coelho; Montserrat Mira";2020-07-16
+3048;Trudi Canavan;2020-07-15
+3049;Sara Shepard;2020-07-16
+3050;Nick Hornby;2020-07-16
+3051;Brad Thor;2020-07-15
+3052;Anthony Burgess;2020-07-16
+3053;Graham Swift;2020-07-16
+3054;Karina Halle;2020-07-16
+3055;Cinda Williams Chima;2020-07-15
+3056;Jodi Picoult;2020-07-15
+3057;Kevin Hearne;2020-07-16
+3058;Steve Martin;2020-07-15
+3059;Ilona Andrews;2020-07-16
+3060;Lois McMaster Bujold;2020-07-16
+3061;Craig Johnson;2020-07-15
+3062;Alyson Noel;2020-07-16
+3063;James Rollins;2020-07-16
+3064;Stephen King;2020-07-16
+3065;Victoria Hislop;2020-07-15
+3066;Rosalind Miles;2020-07-15
+3067;Maggie Shipstead;2020-07-16
+3068;David Shannon;2020-07-15
+3069;John Marsden;2020-07-16
+3070;Brian Jacques;2020-07-16
+3071;Kate Beaton;2020-07-15
+3072;Rebecca Stead;2020-07-16
+3073;Kurt Vonnegut Jr.;2020-07-16
+3074;Scott Westerfeld;2020-07-16
+3075;Becca Fitzpatrick;2020-07-15
+3076;Philippa Gregory;2020-07-15
+3077;Joe Hill;2020-07-16
+3078;Orson Scott Card;2020-07-15
+3079;Lisa Scottoline;2020-07-16
+3080;Ann Brashares;2020-07-16
+3081;Paul Auster;2020-07-15
+3082;Terry Pratchett;2020-07-16
+3083;Susan Ee;2020-07-16
+3084;Jack Finney;2020-07-16
+3085;Emily Giffin;2020-07-15
+3086;Claire LaZebnik;2020-07-15
+3087;Kelley Armstrong;2020-07-16
+3088;Gena Showalter;2020-07-15
+3089;Helen Keller;2020-07-16
+3090;Tom Rachman;2020-07-16
+3091;Karen Marie Moning;2020-07-15
+3092;Adriana Trigiani;2020-07-16
+3093;Mindy Kaling;2020-07-16
+3094;Madeleine L'Engle;2020-07-16
+3095;Michael Punke;2020-07-15
+3096;Patricia Highsmith;2020-07-15
+3097;Alice Hoffman;2020-07-16
+3098;Jennifer Crusie;2020-07-15
+3099;Jeanne DuPrau;2020-07-16
+3100;Michael Pollan;2020-07-16
+3101;J.D. Robb;2020-07-15
+3102;Jeffrey Archer;2020-07-16
+3103;Kresley Cole;2020-07-16
+3104;Hilary Mantel;2020-07-16
+3105;Katy Evans;2020-07-15
+3106;Lily King;2020-07-15
+3107;Karin Slaughter;2020-07-16
+3108;Yoshihiro Togashi;2020-07-15
+3109;Karen Marie Moning;2020-07-16
+3110;Guy Gavriel Kay;2020-07-16
+3111;Bernard Cornwell;2020-07-15
+3112;Maria V. Snyder;2020-07-16
+3113;James Dashner;2020-07-16
+3114;"Karen Kingsbury; Gary Smalley";2020-07-16
+3115;Jenny Downham;2020-07-15
+3116;Julie Kagawa;2020-07-15
+3117;Sue Grafton;2020-07-16
+3118;Gillian Flynn;2020-07-15
+3119;Dean Koontz;2020-07-16
+3120;Rachel Caine;2020-07-16
+3121;J.D. Robb;2020-07-15
+3122;Malinda Lo;2020-07-16
+3123;Erin Hunter;2020-07-16
+3124;Michael Connelly;2020-07-16
+3125;John Irving;2020-07-15
+3126;Sylvain Reynard;2020-07-15
+3127;Caragh M. O'Brien;2020-07-16
+3128;John Sandford;2020-07-15
+3129;Anne Rice;2020-07-16
+3130;Francine Rivers;2020-07-16
+3131;Janet Evanovich;2020-07-15
+3132;Dave Eggers;2020-07-16
+3133;Alan Weisman;2020-07-16
+3134;Janet Evanovich;2020-07-16
+3135;David Weber;2020-07-15
+3136;Daniel Goleman;2020-07-15
+3137;Daniel Silva;2020-07-16
+3138;Scott  Meyer;2020-07-15
+3139;Steven Hall;2020-07-16
+3140;Rick Riordan;2020-07-16
+3141;Raymond Briggs;2020-07-15
+3142;Jhumpa Lahiri;2020-07-16
+3143;Lincoln Child;2020-07-16
+3144;Susan Cooper;2020-07-16
+3145;Lara Adrian;2020-07-15
+3146;John Hart;2020-07-15
+3147;Julianne Donaldson;2020-07-16
+3148;Kalayna Price;2020-07-15
+3149;Gail Tsukiyama;2020-07-16
+3150;Francine Rivers;2020-07-16
+3151;Cornelius Ryan;2020-07-15
+3152;Lee Child;2020-07-16
+3153;Mira Grant;2020-07-16
+3154;Aldous Huxley;2020-07-16
+3155;Arthur C. Clarke;2020-07-15
+3156;Alice Clayton;2020-07-15
+3157;Philip Yancey;2020-07-16
+3158;Greg Iles;2020-07-15
+3159;Larry McMurtry;2020-07-16
+3160;Stephen King;2020-07-16
+3161;Tracy Chevalier;2020-07-15
+3162;Syd Hoff;2020-07-16
+3163;Janet Fitch;2020-07-16
+3164;Isabel Allende;2020-07-16
+3165;Laura Hillenbrand;2020-07-15
+3166;"Roald Dahl; Quentin Blake";2020-07-15
+3167;Chuck Klosterman;2020-07-16
+3168;Ian Fleming;2020-07-15
+3169;"P.C. Cast; Kristin Cast";2020-07-16
+3170;Ian McEwan;2020-07-16
+3171;Terry Pratchett;2020-07-15
+3172;David Sedaris;2020-07-16
+3173;Theodore Sturgeon;2020-07-16
+3174;Tad Williams;2020-07-16
+3175;Graeme Simsion;2020-07-15
+3176;Neal Stephenson;2020-07-15
+3177;Anne Rice;2020-07-16
+3178;Ralph Ellison;2020-07-15
+3179;"Lee Child; Dick Hill";2020-07-16
+3180;Patrick O'Brian;2020-07-16
+3181;Lalita Tademy;2020-07-15
+3182;Augusten Burroughs;2020-07-16
+3183;Enid Blyton;2020-07-16
+3184;Edward Abbey;2020-07-16
+3185;Cora Carmack;2020-07-15
+3186;David Levithan;2020-07-15
+3187;Lauren Oliver;2020-07-16
+3188;Claire Messud;2020-07-15
+3189;Sherrilyn Kenyon;2020-07-16
+3190;Piers Anthony;2020-07-16
+3191;Terry Goodkind;2020-07-15
+3192;Aimee Carter;2020-07-16
+3193;Derek Landy;2020-07-16
+3194;Ally Carter;2020-07-16
+3195;Richard Wright;2020-07-15
+3196;Matthew      Lewis;2020-07-15
+3197;Agatha Christie;2020-07-16
+3198;Sudhir Venkatesh;2020-07-15
+3199;John Grisham;2020-07-16
+3200;Ellen Hopkins;2020-07-16
+3201;Sidney Sheldon;2020-07-15
+3202;Douglas Adams;2020-07-16
+3203;Sylvain Reynard;2020-07-16
+3204;Isaac Asimov;2020-07-16
+3205;George Bernard Shaw;2020-07-15
+3206;Susan Vreeland;2020-07-15
+3207;Emma Cline;2020-07-16
+3208;Ursula K. Le Guin;2020-07-15
+3209;Chris Cleave;2020-07-16
+3210;Marie Rutkoski;2020-07-16
+3211;Peggy Rathmann;2020-07-15
+3212;Elly Griffiths;2020-07-16
+3213;Anne Rice;2020-07-16
+3214;Walt Whitman;2020-07-16
+3215;Tammara Webber;2020-07-15
+3216;Sidney Sheldon;2020-07-15
+3217;Lisa Gardner;2020-07-16
+3218;Mike Lupica;2020-07-15
+3219;Kelley Armstrong;2020-07-16
+3220;Anne Rice;2020-07-16
+3221;Jennifer Egan;2020-07-15
+3222;Bob Dylan;2020-07-16
+3223;Victoria Jamieson;2020-07-16
+3224;Frank Herbert;2020-07-16
+3225;Christopher Hitchens;2020-07-15
+3226;Nicholas Sparks;2020-07-15
+3227;James S.A. Corey;2020-07-16
+3228;C.C. Hunter;2020-07-15
+3229;Jeff Lindsay;2020-07-16
+3230;Julie James;2020-07-16
+3231;Jean-Paul Sartre;2020-07-15
+3232;Ruta Sepetys;2020-07-16
+3233;Plum Sykes;2020-07-16
+3234;Joe Haldeman;2020-07-16
+3235;Juliet Marillier;2020-07-15
+3236;Caragh M. O'Brien;2020-07-15
+3237;Carl Hiaasen;2020-07-16
+3238;Neal Stephenson;2020-07-15
+3239;Charles Burns;2020-07-16
+3240;Harlan Coben;2020-07-16
+3241;Nick Hornby;2020-07-15
+3242;Cecelia Ahern;2020-07-16
+3243;Jerry Spinelli;2020-07-16
+3244;Ursula K. Le Guin;2020-07-16
+3245;Lois Lowry;2020-07-15
+3246;H.A. Rey;2020-07-15
+3247;Tracy Chevalier;2020-07-16
+3248;Kresley Cole;2020-07-15
+3249;Jojo Moyes;2020-07-16
+3250;Karen Kingsbury;2020-07-16
+3251;Mary Kubica;2020-07-15
+3252;Terry Goodkind;2020-07-16
+3253;Margaret Edson;2020-07-16
+3254;Julian Barnes;2020-07-16
+3255;Jasper Fforde;2020-07-15
+3256;Eric Hill;2020-07-15
+3257;David Baldacci;2020-07-16
+3258;Michael  Grant;2020-07-15
+3259;Alan Cumming;2020-07-16
+3260;Brad Meltzer;2020-07-16
+3261;Jan Brett;2020-07-15
+3262;Gillian Flynn;2020-07-16
+3263;Nelson DeMille;2020-07-16
+3264;Harlan Coben;2020-07-16
+3265;Shannon Hale;2020-07-15
+3266;Winston Groom;2020-07-15
+3267;Steven Erikson;2020-07-16
+3268;Will Durant;2020-07-15
+3269;Jerry A. Coyne;2020-07-16
+3270;Karen Harper;2020-07-16
+3271;Enid Blyton;2020-07-15
+3272;Dan Simmons;2020-07-16
+3273;John Scalzi;2020-07-16
+3274;Karen Hesse;2020-07-16
+3275;Samantha Shannon;2020-07-15
+3276;David Eddings;2020-07-15
+3277;Augusten Burroughs;2020-07-16
+3278;Vera Brosgol;2020-07-15
+3279;Robin Hobb;2020-07-16
+3280;Brit Bennett;2020-07-16
+3281;Eric Jerome Dickey;2020-07-15
+3282;Louisa May Alcott;2020-07-16
+3283;Nicola Yoon;2020-07-16
+3284;Kurt Vonnegut Jr.;2020-07-16
+3285;Rachel Hawkins;2020-07-15
+3286;Naomi Novik;2020-07-15
+3287;R.A. Salvatore;2020-07-16
+3288;Scott Sigler;2020-07-15
+3289;Cecelia Ahern;2020-07-16
+3290;Richard Matheson;2020-07-16
+3291;Rachel Caine;2020-07-15
+3292;Brian Jacques;2020-07-16
+3293;Stephen King;2020-07-16
+3294;Rachel Gibson;2020-07-16
+3295;Kristin Hannah;2020-07-15
+3296;"Jim Kjelgaard; Carl Pfeuffer";2020-07-15
+3297;Ron Rash;2020-07-16
+3298;Carl Hiaasen;2020-07-15
+3299;Anne Michaels;2020-07-16
+3300;Anne Rice;2020-07-16
+3301;Emily Giffin;2020-07-15
+3302;Jenny O'Connell;2020-07-16
+3303;James Lee Burke;2020-07-16
+3304;Agatha Christie;2020-07-16
+3305;Rosamund Hodge;2020-07-15
+3306;Jocelyn Davies;2020-07-15
+3307;Susanna Kearsley;2020-07-16
+3308;Anne McCaffrey;2020-07-15
+3309;Pat Conroy;2020-07-16
+3310;Alexandra Bracken;2020-07-16
+3311;Maria V. Snyder;2020-07-15
+3312;Kiran Desai;2020-07-16
+3313;Dean Koontz;2020-07-16
+3314;Fannie Flagg;2020-07-16
+3315;Mark Z. Danielewski;2020-07-15
+3316;Sarah Vowell;2020-07-15
+3317;Sarah McCoy;2020-07-16
+3318;Sapphire;2020-07-15
+3319;Ernest Hemingway;2020-07-16
+3320;Cassandra Clare;2020-07-16
+3321;Scarlett Thomas;2020-07-15
+3322;Ally Condie;2020-07-16
+3323;Walter Dean Myers;2020-07-16
+3324;Robin Hobb;2020-07-16
+3325;Anthony Horowitz;2020-07-15
+3326;L.M. Montgomery;2020-07-15
+3327;Sara Shepard;2020-07-16
+3328;Lisa Genova;2020-07-15
+3329;Michael Thomas Ford;2020-07-16
+3330;Chris Van Allsburg;2020-07-16
+3331;Carol Ryrie Brink;2020-07-15
+3332;John Knowles;2020-07-16
+3333;Karin Slaughter;2020-07-16
+3334;Dan Wells;2020-07-16
+3335;Anthony Horowitz;2020-07-15
+3336;Angie Thomas;2020-07-15
+3337;Michael J. Sullivan;2020-07-16
+3338;Nora Roberts;2020-07-15
+3339;Mary Higgins Clark;2020-07-16
+3340;Janet Evanovich;2020-07-16
+3341;Sarah Vowell;2020-07-15
+3342;J.D. Robb;2020-07-16
+3343;Rachel Vincent;2020-07-16
+3344;Carl Hiaasen;2020-07-16
+3345;Patrick Ness;2020-07-15
+3346;Claudia Gray;2020-07-15
+3347;David Eddings;2020-07-16
+3348;Alex Flinn;2020-07-15
+3349;W.P. Kinsella;2020-07-16
+3350;Robert McCammon;2020-07-16
+3351;Michael Crichton;2020-07-15
+3352;Laurie Halse Anderson;2020-07-16
+3353;William Gibson;2020-07-16
+3354;Robert A. Heinlein;2020-07-16
+3355;"Morton Rhue; Todd Strasser";2020-07-15
+3356;Sidney Sheldon;2020-07-15
+3357;Richelle Mead;2020-07-16
+3358;Isaac Asimov;2020-07-15
+3359;John Patrick Shanley;2020-07-16
+3360;Meg Cabot;2020-07-16
+3361;Colum McCann;2020-07-15
+3362;Richard Russo;2020-07-16
+3363;Maggie Stiefvater;2020-07-16
+3364;James Rollins;2020-07-16
+3365;Justin Cronin;2020-07-15
+3366;Kim Harrison;2020-07-15
+3367;Nancy Thayer;2020-07-16
+3368;Brian Jacques;2020-07-15
+3369;Julie Anne Peters;2020-07-16
+3370;Agatha Christie;2020-07-16
+3371;C.S. Lewis;2020-07-15
+3372;Melissa Marr;2020-07-16
+3373;Isabel Wolff;2020-07-16
+3374;Suzanne Collins;2020-07-16
+3375;Michael Connelly;2020-07-15
+3376;Terry Goodkind;2020-07-15
+3377;Wally Lamb;2020-07-16
+3378;Jane Smiley;2020-07-15
+3379;Larissa Ione;2020-07-16
+3380;Jeff Kinney;2020-07-16
+3381;Melissa Marr;2020-07-15
+3382;"Kerstin Gier; Anthea Bell";2020-07-16
+3383;Karin Slaughter;2020-07-16
+3384;Michael Connelly;2020-07-16
+3385;Janet Evanovich;2020-07-15
+3386;Arundhati Roy;2020-07-15
+3387;Cassandra Clare;2020-07-16
+3388;Ellen Hopkins;2020-07-15
+3389;Mary Hoffman;2020-07-16
+3390;Kurt Cobain;2020-07-16
+3391;Abbi Glines;2020-07-15
+3392;Stephen King;2020-07-16
+3393;Keri Smith;2020-07-16
+3394;Salman Rushdie;2020-07-16
+3395;Debra Dean;2020-07-15
+3396;Pat Conroy;2020-07-15
+3397;Gregg Hurwitz;2020-07-16
+3398;Dean Koontz;2020-07-15
+3399;Charlaine Harris;2020-07-16
+3400;Robin Hobb;2020-07-16
+3401;Julie Kagawa;2020-07-15
+3402;Edward Rutherfurd;2020-07-16
+3403;Janet Evanovich;2020-07-16
+3404;Danielle Steel;2020-07-16
+3405;J.D. Robb;2020-07-15
+3406;Shirley Jackson;2020-07-15
+3407;C.S. Lewis;2020-07-16
+3408;Bernard Cornwell;2020-07-15
+3409;Elizabeth Little;2020-07-16
+3410;Jenna Black;2020-07-16
+3411;Anita Shreve;2020-07-15
+3412;Brenna Yovanoff;2020-07-16
+3413;Marissa Meyer;2020-07-16
+3414;Josephine Angelini;2020-07-16
+3415;Amitav Ghosh;2020-07-15
+3416;G.A. Aiken;2020-07-15
+3417;S.C. Stephens;2020-07-16
+3418;Nora Roberts;2020-07-15
+3419;Robert Crais;2020-07-16
+3420;Paula McLain;2020-07-16
+3421;Joe Abercrombie;2020-07-15
+3422;John Grisham;2020-07-16
+3423;Dan Simmons;2020-07-16
+3424;Robert Muchamore;2020-07-16
+3425;Kelley Armstrong;2020-07-15
+3426;Jhumpa Lahiri;2020-07-15
+3427;Jonathan Franzen;2020-07-16
+3428;David Eddings;2020-07-15
+3429;Cynthia Hand;2020-07-16
+3430;Sarah Weeks;2020-07-16
+3431;Terry Pratchett;2020-07-15
+3432;Ken Kesey;2020-07-16
+3433;Nora Roberts;2020-07-16
+3434;Iris Murdoch;2020-07-16
+3435;Lincoln Peirce;2020-07-15
+3436;Shel Silverstein;2020-07-15
+3437;Alice Sebold;2020-07-16
+3438;Douglas Coupland;2020-07-15
+3439;Ken Follett;2020-07-16
+3440;Susanna Kearsley;2020-07-16
+3441;Peter  May;2020-07-15
+3442;Charlaine Harris;2020-07-16
+3443;Ray Bradbury;2020-07-16
+3444;Daniel Silva;2020-07-16
+3445;Jonathan Safran Foer;2020-07-15
+3446;Sarah Waters;2020-07-15
+3447;Jim Butcher;2020-07-16
+3448;Michael  Grant;2020-07-15
+3449;Barry Lyga;2020-07-16
+3450;Erin Hunter;2020-07-16
+3451;Dennis Lehane;2020-07-15
+3452;Kristen Britain;2020-07-16
+3453;Francine Rivers;2020-07-16
+3454;L.M. Montgomery;2020-07-16
+3455;Alice Munro;2020-07-15
+3456;Nancy Garden;2020-07-15
+3457;Lisa Kleypas;2020-07-16
+3458;Charles Bukowski;2020-07-15
+3459;Stephen King;2020-07-16
+3460;Kristin Hannah;2020-07-16
+3461;Terry Pratchett;2020-07-15
+3462;Jodi Meadows;2020-07-16
+3463;Sidney Sheldon;2020-07-16
+3464;Joshilyn Jackson;2020-07-16
+3465;Johanna Lindsey;2020-07-15
+3466;Anna Quindlen;2020-07-15
+3467;Susan Mallery;2020-07-16
+3468;L.J. Smith;2020-07-15
+3469;Ted Dekker;2020-07-16
+3470;Bret Easton Ellis;2020-07-16
+3471;Tamora Pierce;2020-07-15
+3472;Anita Brookner;2020-07-16
+3473;Tabitha Suzuma;2020-07-16
+3474;Ottessa Moshfegh;2020-07-16
+3475;Judy Schachner;2020-07-15
+3476;Robin McKinley;2020-07-15
+3477;Hugh Howey;2020-07-16
+3478;Lisa Gardner;2020-07-15
+3479;William Shakespeare;2020-07-16
+3480;Barbara Kingsolver;2020-07-16
+3481;Dean Koontz;2020-07-15
+3482;Ira Levin;2020-07-16
+3483;Sara Shepard;2020-07-16
+3484;Beverly Cleary;2020-07-16
+3485;Kiera Cass;2020-07-15
+3486;Kathy Reichs;2020-07-15
+3487;Christina Lauren;2020-07-16
+3488;L.J. Smith;2020-07-15
+3489;Frank Herbert;2020-07-16
+3490;Ira Levin;2020-07-16
+3491;Brandon Sanderson;2020-07-15
+3492;Ally Carter;2020-07-16
+3493;John Scalzi;2020-07-16
+3494;Sarah Dessen;2020-07-16
+3495;Anne Enright;2020-07-15
+3496;John Green;2020-07-15
+3497;Juliet Marillier;2020-07-16
+3498;Walker Percy;2020-07-15
+3499;Tim O'Brien;2020-07-16
+3500;Gordon Korman;2020-07-16
+3501;Ken Grimwood;2020-07-15
+3502;Frank Beddor;2020-07-16
+3503;Toni Morrison;2020-07-16
+3504;Sarah Crossan;2020-07-16
+3505;Craig Thompson;2020-07-15
+3506;Graeme Base;2020-07-15
+3507;Joseph Boyden;2020-07-16
+3508;Nicholas Sparks;2020-07-15
+3509;John Hersey;2020-07-16
+3510;Ally Carter;2020-07-16
+3511;Kendare Blake;2020-07-15
+3512;Jennifer L. Armentrout;2020-07-16
+3513;Nora Roberts;2020-07-16
+3514;Amy  Stewart;2020-07-16
+3515;Eric Berne;2020-07-15
+3516;Heather Gudenkauf;2020-07-15
+3517;Lucie Whitehouse;2020-07-16
+3518;Orson Scott Card;2020-07-15
+3519;Michael Blake;2020-07-16
+3520;Jonathan Swift;2020-07-16
+3521;Charlaine Harris;2020-07-15
+3522;Ramit Sethi;2020-07-16
+3523;Cecelia Ahern;2020-07-16
+3524;Neal Stephenson;2020-07-16
+3525;Jeff Kinney;2020-07-15
+3526;Katie McGarry;2020-07-15
+3527;Eva Ibbotson;2020-07-16
+3528;Mary Higgins Clark;2020-07-15
+3529;Jenna Blum;2020-07-16
+3530;Jodi Picoult;2020-07-16
+3531;J.R. Ward;2020-07-15
+3532;Judy Blume;2020-07-16
+3533;Mario Benedetti;2020-07-16
+3534;Brent Weeks;2020-07-16
+3535;Bernard Cornwell;2020-07-15
+3536;Michael Crichton;2020-07-15
+3537;Elisabeth Naughton;2020-07-16
+3538;Brian  McClellan;2020-07-15
+3539;Harper Lee;2020-07-16
+3540;"Ram Dass; Richard Alpert";2020-07-16
+3541;Nelson DeMille;2020-07-15
+3542;William  Kennedy;2020-07-16
+3543;Joanne Harris;2020-07-16
+3544;Laura Lippman;2020-07-16
+3545;Pittacus Lore;2020-07-15
+3546;Anne Rice;2020-07-15
+3547;Tom Rob Smith;2020-07-16
+3548;Cassandra Clare;2020-07-15
+3549;Robert Hughes;2020-07-16
+3550;Gary Paulsen;2020-07-16
+3551;Robin Hobb;2020-07-15
+3552;Anita Shreve;2020-07-16
+3553;Stephen King;2020-07-16
+3554;Jeffrey Eugenides;2020-07-16
+3555;Brandon Sanderson;2020-07-15
+3556;Michael Connelly;2020-07-15
+3557;Margaret Peterson Haddix;2020-07-16
+3558;C.J. Redwine;2020-07-15
+3559;Kim Harrison;2020-07-16
+3560;Lauren Morrill;2020-07-16
+3561;Rainbow Rowell;2020-07-15
+3562;Wiley Cash;2020-07-16
+3563;Kim Stanley Robinson;2020-07-16
+3564;Ilona Andrews;2020-07-16
+3565;Edward Gorey;2020-07-15
+3566;Sylvia Plath;2020-07-15
+3567;Joan Didion;2020-07-16
+3568;Laini Taylor;2020-07-15
+3569;Nicholas Sparks;2020-07-16
+3570;Agatha Christie;2020-07-16
+3571;Miles  Cameron;2020-07-15
+3572;Lian Hearn;2020-07-16
+3573;Jacqueline Wilson;2020-07-16
+3574;R.C. Sproul;2020-07-16
+3575;Lynsay Sands;2020-07-15
+3576;April Henry;2020-07-15
+3577;Joshua Ferris;2020-07-16
+3578;Patricia McCormick;2020-07-15
+3579;Susannah Cahalan;2020-07-16
+3580;Jennifer L. Armentrout;2020-07-16
+3581;Rick Riordan;2020-07-15
+3582;Peter V. Brett;2020-07-16
+3583;Frederick Forsyth;2020-07-16
+3584;Patrick Ness;2020-07-16
+3585;Chuck Klosterman;2020-07-15
+3586;Liane Moriarty;2020-07-15
+3587;Stephen King;2020-07-16
+3588;Dorothea Benton Frank;2020-07-15
+3589;Adam Gidwitz;2020-07-16
+3590;Terry Brooks;2020-07-16
+3591;Alessandro Baricco;2020-07-15
+3592;Isaac Asimov;2020-07-16
+3593;Shannon Hale;2020-07-16
+3594;Margaret Atwood;2020-07-16
+3595;Elizabeth  George;2020-07-15
+3596;Leslie Feinberg;2020-07-15
+3597;Gerda Weissmann Klein;2020-07-16
+3598;George Saunders;2020-07-15
+3599;Tana French;2020-07-16
+3600;James     Baldwin;2020-07-16
+3601;Sara Shepard;2020-07-15
+3602;Daisy Goodwin;2020-07-16
+3603;Kevin Henkes;2020-07-16
+3604;Vernor Vinge;2020-07-16
+3605;Katharine Graham;2020-07-15
+3606;Sue Grafton;2020-07-15
+3607;Terry Pratchett;2020-07-16
+3608;Eoin Colfer;2020-07-15
+3609;Charles Dickens;2020-07-16
+3610;Henry Miller;2020-07-16
+3611;Kathleen Tessaro;2020-07-15
+3612;Bernard Cornwell;2020-07-16
+3613;Kazuo Ishiguro;2020-07-16
+3614;Erin Hunter;2020-07-16
+3615;Melissa Landers;2020-07-15
+3616;Michael A. Stackpole;2020-07-15
+3617;Richard Ford;2020-07-16
+3618;Claudia Gray;2020-07-15
+3619;Shannon Hale;2020-07-16
+3620;Peter  May;2020-07-16
+3621;Colleen Houck;2020-07-15
+3622;Kody Keplinger;2020-07-16
+3623;Judith Krantz;2020-07-16
+3624;Christopher Paolini;2020-07-16
+3625;Yann Martel;2020-07-15
+3626;Glenn Beck;2020-07-15
+3627;Rupi Kaur;2020-07-16
+3628;Patricia Briggs;2020-07-15
+3629;Paul Zindel;2020-07-16
+3630;Peter Mayle;2020-07-16
+3631;Hanif Kureishi;2020-07-15
+3632;Flannery O'Connor;2020-07-16
+3633;Isaac Asimov;2020-07-16
+3634;Gillian Flynn;2020-07-16
+3635;Erin Morgenstern;2020-07-15
+3636;Tammara Webber;2020-07-15
+3637;Katherine Paterson;2020-07-16
+3638;Anne Bishop;2020-07-15
+3639;Anna Todd;2020-07-16
+3640;Gretchen Rubin;2020-07-16
+3641;Annie Dillard;2020-07-15
+3642;Zadie Smith;2020-07-16
+3643;Aldous Huxley;2020-07-16
+3644;John Lanchester;2020-07-16
+3645;Thomas Keneally;2020-07-15
+3646;Robin Hobb;2020-07-15
+3647;Barbara Kingsolver;2020-07-16
+3648;Daphne du Maurier;2020-07-15
+3649;John Steinbeck;2020-07-16
+3650;Terry Pratchett;2020-07-16
+3651;Matt Haig;2020-07-15
+3652;Jennifer A. Nielsen;2020-07-16
+3653;Ellen Hopkins;2020-07-16
+3654;Frank Herbert;2020-07-16
+3655;Anne Tyler;2020-07-15
+3656;Dr. Seuss;2020-07-15
+3657;Rick Riordan;2020-07-16
+3658;Jessica Verday;2020-07-15
+3659;Olivia Cunning;2020-07-16
+3660;Doris Lessing;2020-07-16
+3661;Paulo Coelho;2020-07-15
+3662;Andrew Clements;2020-07-16
+3663;Maeve Binchy;2020-07-16
+3664;Isaac Asimov;2020-07-16
+3665;Gayle Forman;2020-07-15
+3666;Justina Chen;2020-07-15
+3667;Elin Hilderbrand;2020-07-16
+3668;Zadie Smith;2020-07-15
+3669;Sue Grafton;2020-07-16
+3670;Kristin Cashore;2020-07-16
+3671;Christopher Pike;2020-07-15
+3672;Tom Rob Smith;2020-07-16
+3673;Jeaniene Frost;2020-07-16
+3674;Meg Cabot;2020-07-16
+3675;Jonathan Maberry;2020-07-15
+3676;Jasper Fforde;2020-07-15
+3677;Ally Carter;2020-07-16
+3678;Melissa Marr;2020-07-15
+3679;Frank E. Peretti;2020-07-16
+3680;Christopher Moore;2020-07-16
+3681;Mark Bowden;2020-07-15
+3682;Meg Cabot;2020-07-16
+3683;Kelley Armstrong;2020-07-16
+3684;Elizabeth Wurtzel;2020-07-16
+3685;Alan Bradley;2020-07-15
+3686;Mercedes Lackey;2020-07-15
+3687;Lynsay Sands;2020-07-16
+3688;Lois Lowry;2020-07-15
+3689;Veronica Rossi;2020-07-16
+3690;Tami Hoag;2020-07-16
+3691;Libba Bray;2020-07-15
+3692;Lauren Weisberger;2020-07-16
+3693;A.S.A. Harrison;2020-07-16
+3694;Ally Carter;2020-07-16
+3695;Greg Iles;2020-07-15
+3696;Julie Kagawa;2020-07-15
+3697;Dean Koontz;2020-07-16
+3698;Jim Thompson;2020-07-15
+3699;Laurie Halse Anderson;2020-07-16
+3700;Gwen Hayes;2020-07-16
+3701;Denis Johnson;2020-07-15
+3702;Tom Clancy;2020-07-16
+3703;Markus Zusak;2020-07-16
+3704;Brandon Mull;2020-07-16
+3705;S.E. Hinton;2020-07-15
+3706;R.A. Salvatore;2020-07-15
+3707;L.J. Smith;2020-07-16
+3708;David Baldacci;2020-07-15
+3709;Dan Simmons;2020-07-16
+3710;Terry Pratchett;2020-07-16
+3711;Brian Selznick;2020-07-15
+3712;Justin Cronin;2020-07-16
+3713;Kiera Cass;2020-07-16
+3714;Victoria Schwab;2020-07-16
+3715;Lisa Gardner;2020-07-15
+3716;Agatha Christie;2020-07-15
+3717;Anna Dewdney;2020-07-16
+3718;Jeff Kinney;2020-07-15
+3719;Laurell K. Hamilton;2020-07-16
+3720;Libba Bray;2020-07-16
+3721;James Patterson;2020-07-15
+3722;Sarah Vowell;2020-07-16
+3723;David Eddings;2020-07-16
+3724;Jhumpa Lahiri;2020-07-16
+3725;John Irving;2020-07-15
+3726;Khaled Hosseini;2020-07-15
+3727;Chuck Palahniuk;2020-07-16
+3728;Jeff Kinney;2020-07-15
+3729;Patricia Cornwell;2020-07-16
+3730;Craig Johnson;2020-07-16
+3731;"P.C. Cast; Kristin Cast";2020-07-15
+3732;Nicholas Sparks;2020-07-16
+3733;Carl Hiaasen;2020-07-16
+3734;"Janne Teller; Martin Aitken";2020-07-16
+3735;Beth Moore;2020-07-15
+3736;Anthony Horowitz;2020-07-15
+3737;Max Barry;2020-07-16
+3738;Wallace Stegner;2020-07-15
+3739;Kim Harrison;2020-07-16
+3740;Jay Anson;2020-07-16
+3741;Anne Rice;2020-07-15
+3742;Anne Bishop;2020-07-16
+3743;John Shors;2020-07-16
+3744;Gary Larson;2020-07-16
+3745;Terry Pratchett;2020-07-15
+3746;"Richard Bachman; Stephen King";2020-07-15
+3747;Mark  Lawrence;2020-07-16
+3748;Jeffery Deaver;2020-07-15
+3749;Ted Dekker;2020-07-16
+3750;Nevada Barr;2020-07-16
+3751;Patrick Rothfuss;2020-07-15
+3752;Scott Westerfeld;2020-07-16
+3753;Laurell K. Hamilton;2020-07-16
+3754;Anita Shreve;2020-07-16
+3755;Terry Pratchett;2020-07-15
+3756;Stephen King;2020-07-15
+3757;Jonathan Franzen;2020-07-16
+3758;John Grisham;2020-07-15
+3759;L.M. Montgomery;2020-07-16
+3760;Dean Koontz;2020-07-16
+3761;Anita Shreve;2020-07-15
+3762;V.C. Andrews;2020-07-16
+3763;R.J. Palacio;2020-07-16
+3764;Dan Simmons;2020-07-16
+3765;Kevin Powers;2020-07-15
+3766;Austin Kleon;2020-07-15
+3767;David Baldacci;2020-07-16
+3768;Anthony Horowitz;2020-07-15
+3769;David Baldacci;2020-07-16
+3770;"Raina Telgemeier; Gurihiru";2020-07-16
+3771;Sylvia Day;2020-07-15
+3772;Peter F. Hamilton;2020-07-16
+3773;John Sandford;2020-07-16
+3774;Cormac McCarthy;2020-07-16
+3775;John Grisham;2020-07-15
+3776;Dale Brown;2020-07-15
+3777;Michael  Grant;2020-07-16
+3778;Gemma Malley;2020-07-15
+3779;Mark Haddon;2020-07-16
+3780;Dan Brown;2020-07-16
+3781;Robert A. Heinlein;2020-07-15
+3782;Harlan Coben;2020-07-16
+3783;Brad Thor;2020-07-16
+3784;Joe Hill;2020-07-16
+3785;Christopher Priest;2020-07-15
+3786;Lisa Lutz;2020-07-15
+3787;Diana Gabaldon;2020-07-16
+3788;Philippa Gregory;2020-07-15
+3789;John Grisham;2020-07-16
+3790;Ruta Sepetys;2020-07-16
+3791;J.D. Robb;2020-07-15
+3792;D.J. MacHale;2020-07-16
+3793;Sherrilyn Kenyon;2020-07-16
+3794;Anne Tyler;2020-07-16
+3795;Lee Child;2020-07-15
+3796;Greg Iles;2020-07-15
+3797;Terry Pratchett;2020-07-16
+3798;D.J. MacHale;2020-07-15
+3799;Jennifer Donnelly;2020-07-16
+3800;Kresley Cole;2020-07-16
+3801;Sidney Sheldon;2020-07-15
+3802;Carl Hiaasen;2020-07-16
+3803;Sarah Simblet;2020-07-16
+3804;Judy Blume;2020-07-16
+3805;Eoin Colfer;2020-07-15
+3806;Paulo Coelho;2020-07-15
+3807;Christopher Moore;2020-07-16
+3808;Emma Straub;2020-07-15
+3809;Nicholas Sparks;2020-07-16
+3810;Jeff Shaara;2020-07-16
+3811;James Clavell;2020-07-15
+3812;Jodi Picoult;2020-07-16
+3813;Michael Crichton;2020-07-16
+3814;H.G. Wells;2020-07-16
+3815;Maggie Stiefvater;2020-07-15
+3816;Don Winslow;2020-07-15
+3817;Jennifer Donnelly;2020-07-16
+3818;Thomas Paine;2020-07-15
+3819;Jennifer L. Armentrout;2020-07-16
+3820;Mary Kay Andrews;2020-07-16
+3821;Catherine Ryan Hyde;2020-07-15
+3822;Tess Gerritsen;2020-07-16
+3823;Sarah Addison Allen;2020-07-16
+3824;Holly Black;2020-07-16
+3825;V.C. Andrews;2020-07-15
+3826;Jane Green;2020-07-15
+3827;Dean Koontz;2020-07-16
+3828;James Ellroy;2020-07-15
+3829;Paul Bowles;2020-07-16
+3830;Amanda Grange;2020-07-16
+3831;Markus Zusak;2020-07-15
+3832;Tom Wolfe;2020-07-16
+3833;Peter Watts;2020-07-16
+3834;Tracy Kidder;2020-07-16
+3835;Dave Ramsey;2020-07-15
+3836;Lisa Scottoline;2020-07-15
+3837;Jodi Picoult;2020-07-16
+3838;"Roald Dahl; Quentin Blake";2020-07-15
+3839;Claudia Gray;2020-07-16
+3840;Lisa Jackson;2020-07-16
+3841;Orson Scott Card;2020-07-15
+3842;E.L. Konigsburg;2020-07-16
+3843;Judy Blume;2020-07-16
+3844;Bernard Cornwell;2020-07-16
+3845;Gail Carriger;2020-07-15
+3846;Jami Attenberg;2020-07-15
+3847;Judith McNaught;2020-07-16
+3848;S.J. Watson;2020-07-15
+3849;Sharon Creech;2020-07-16
+3850;Nora Roberts;2020-07-16
+3851;Catherine Gilbert Murdock;2020-07-15
+3852;Sara Shepard;2020-07-16
+3853;Anne McCaffrey;2020-07-16
+3854;Pat Barker;2020-07-16
+3855;Lee Child;2020-07-15
+3856;Meg Cabot;2020-07-15
+3857;Brandon Sanderson;2020-07-16
+3858;Sam Harris;2020-07-15
+3859;Corban Addison;2020-07-16
+3860;Cormac McCarthy;2020-07-16
+3861;Andrea Hirata;2020-07-15
+3862;Neal Stephenson;2020-07-16
+3863;Sherman Alexie;2020-07-16
+3864;Nora Roberts;2020-07-16
+3865;Alastair Reynolds;2020-07-15
+3866;James Rollins;2020-07-15
+3867;Agatha Christie;2020-07-16
+3868;Ken Follett;2020-07-15
+3869;"Lee Child; Dick Hill";2020-07-16
+3870;Tiffany Reisz;2020-07-16
+3871;Tom Perrotta;2020-07-15
+3872;Robert Greene;2020-07-16
+3873;Edward P. Jones;2020-07-16
+3874;Laurell K. Hamilton;2020-07-16
+3875;Sherrilyn Kenyon;2020-07-15
+3876;Paula Hawkins;2020-07-15
+3877;Karen Marie Moning;2020-07-16
+3878;J.R. Ward;2020-07-15
+3879;Agatha Christie;2020-07-16
+3880;Melissa de la Cruz;2020-07-16
+3881;David Sedaris;2020-07-15
+3882;Robert Lopshire;2020-07-16
+3883;Lucy Grealy;2020-07-16
+3884;Ben Aaronovitch;2020-07-16
+3885;Lloyd Alexander;2020-07-15
+3886;Andrea Cremer;2020-07-15
+3887;Carl Hiaasen;2020-07-16
+3888;Paolo Bacigalupi;2020-07-15
+3889;Maria V. Snyder;2020-07-16
+3890;William Shakespeare;2020-07-16
+3891;Nora Roberts;2020-07-15
+3892;Paul Auster;2020-07-16
+3893;Cornelius Ryan;2020-07-16
+3894;Chris Van Allsburg;2020-07-16
+3895;John Updike;2020-07-15
+3896;Bret Easton Ellis;2020-07-15
+3897;Alyson Noel;2020-07-16
+3898;Maya Banks;2020-07-15
+3899;Penelope Ward;2020-07-16
+3900;Carrie Fisher;2020-07-16
+3901;Dr. Seuss;2020-07-15
+3902;Kurt Vonnegut Jr.;2020-07-16
+3903;Philip K. Dick;2020-07-16
+3904;Phaidon Press;2020-07-16
+3905;Amy Harmon;2020-07-15
+3906;Noah Hawley;2020-07-15
+3907;Anne Rice;2020-07-16
+3908;Steven Erikson;2020-07-15
+3909;Charles Stross;2020-07-16
+3910;Robert Cormier;2020-07-16
+3911;Jasper Fforde;2020-07-15
+3912;Julia Hoban;2020-07-16
+3913;Dean Koontz;2020-07-16
+3914;Ramez Naam;2020-07-16
+3915;Sydney Taylor;2020-07-15
+3916;Joanna Wylde;2020-07-15
+3917;Ann Packer;2020-07-16
+3918;Brad Thor;2020-07-15
+3919;A.W. Tozer;2020-07-16
+3920;Jonah Lehrer;2020-07-16
+3921;Kathryn Erskine;2020-07-15
+3922;Jeff Wheeler;2020-07-16
+3923;Clive Cussler;2020-07-16
+3924;Ian McEwan;2020-07-16
+3925;Richelle Mead;2020-07-15
+3926;"Karen Kingsbury; Gary Smalley";2020-07-15
+3927;Charlie N. Holmberg;2020-07-16
+3928;Kathy Reichs;2020-07-15
+3929;Michael Connelly;2020-07-16
+3930;Nina LaCour;2020-07-16
+3931;Madeleine Wickham;2020-07-15
+3932;L.M. Montgomery;2020-07-16
+3933;Cornelia Funke;2020-07-16
+3934;Lee Child;2020-07-16
+3935;Nora Roberts;2020-07-15
+3936;Louise Fitzhugh;2020-07-15
+3937;Caroline Knapp;2020-07-16
+3938;Kiersten White;2020-07-15
+3939;Stephen King;2020-07-16
+3940;John Scalzi;2020-07-16
+3941;J.D. Robb;2020-07-15
+3942;Sebastian Faulks;2020-07-16
+3943;Matthew Reilly;2020-07-16
+3944;Hannah Harrington;2020-07-16
+3945;Joe Abercrombie;2020-07-15
+3946;Lara Adrian;2020-07-15
+3947;John Scalzi;2020-07-16
+3948;Paolo Bacigalupi;2020-07-15
+3949;Tom Clancy;2020-07-16
+3950;Matthew Reilly;2020-07-16
+3951;Geraldine Brooks;2020-07-15
+3952;Peter F. Hamilton;2020-07-16
+3953;Robert Ludlum;2020-07-16
+3954;Maya Banks;2020-07-16
+3955;Jenny Han;2020-07-15
+3956;Sara Donati;2020-07-15
+3957;James Patterson;2020-07-16
+3958;Gary Paulsen;2020-07-15
+3959;Madeleine Wickham;2020-07-16
+3960;Christina Baker Kline;2020-07-16
+3961;Stephen King;2020-07-15
+3962;Jeffrey Archer;2020-07-16
+3963;James M. Cain;2020-07-16
+3964;Alyson Noel;2020-07-16
+3965;"Tom Clancy; Mark Greaney";2020-07-15
+3966;Trudi Canavan;2020-07-15
+3967;Adriana Trigiani;2020-07-16
+3968;V.S. Naipaul;2020-07-15
+3969;Maeve Binchy;2020-07-16
+3970;Judith Guest;2020-07-16
+3971;Jasper Fforde;2020-07-15
+3972;Neal Stephenson;2020-07-16
+3973;Philip Pullman;2020-07-16
+3974;Jodi Picoult;2020-07-16
+3975;John Grisham;2020-07-15
+3976;Jim Gaffigan;2020-07-15
+3977;Jonathan Maberry;2020-07-16
+3978;Jonathan Tropper;2020-07-15
+3979;Dave Eggers;2020-07-16
+3980;Candace Bushnell;2020-07-16
+3981;Don Freeman;2020-07-15
+3982;William  Gibson;2020-07-16
+3983;Jeffrey Archer;2020-07-16
+3984;David Baldacci;2020-07-16
+3985;Jonathan Lethem;2020-07-15
+3986;"Vladimir Nabokov; David Lodge";2020-07-15
+3987;Laura  McBride;2020-07-16
+3988;Juliet Marillier;2020-07-15
+3989;Ellen Raskin;2020-07-16
+3990;Susan Cooper;2020-07-16
+3991;Louisa May Alcott;2020-07-15
+3992;Erin Hunter;2020-07-16
+3993;David Levithan;2020-07-16
+3994;Melanie Benjamin;2020-07-16
+3995;Stephen King;2020-07-15
+3996;John Howard Griffin;2020-07-15
+3997;Dean Koontz;2020-07-16
+3998;James Frey;2020-07-15
+3999;Sara Shepard;2020-07-16
+4000;Stephen King;2020-07-16
+4001;Sue Grafton;2020-07-15
+4002;Ken Follett;2020-07-16
+4003;Kristin Hannah;2020-07-16
+4004;Tess Gerritsen;2020-07-16
+4005;J.D. Robb;2020-07-15
+4006;Ayn Rand;2020-07-15
+4007;Kaye Gibbons;2020-07-16
+4008;Richard Peck;2020-07-15
+4009;Kelly Corrigan;2020-07-16
+4010;Ken Follett;2020-07-16
+4011;John Banville;2020-07-15
+4012;Clive Barker;2020-07-16
+4013;"Carolyn Jessop; Laura Palmer";2020-07-16
+4014;Kelley Armstrong;2020-07-16
+4015;Danielle Steel;2020-07-15
+4016;Geraldine Brooks;2020-07-15
+4017;Tom Perrotta;2020-07-16
+4018;Anne Rice;2020-07-15
+4019;Rhonda Byrne;2020-07-16
+4020;Tennessee Williams;2020-07-16
+4021;Edward Rutherfurd;2020-07-15
+4022;Thanhha Lai;2020-07-16
+4023;Jennifer McMahon;2020-07-16
+4024;Roland Merullo;2020-07-16
+4025;Chris Cleave;2020-07-15
+4026;Jeffrey Archer;2020-07-15
+4027;Charlaine Harris;2020-07-16
+4028;Shel Silverstein;2020-07-15
+4029;Kent Haruf;2020-07-16
+4030;Kristin Hannah;2020-07-16
+4031;Michael Scott;2020-07-15
+4032;Jennifer McMahon;2020-07-16
+4033;John Sandford;2020-07-16
+4034;Virginia Lee Burton;2020-07-16
+4035;Blake Crouch;2020-07-15
+4036;"Kathy Reichs; Brendan Reichs";2020-07-15
+4037;Richard Russo;2020-07-16
+4038;Patricia Cornwell;2020-07-15
+4039;Emily Giffin;2020-07-16
+4040;Nick Hornby;2020-07-16
+4041;Brian Jacques;2020-07-15
+4042;Frank McCourt;2020-07-16
+4043;Enid Blyton;2020-07-16
+4044;Michael Crichton;2020-07-16
+4045;Janet Evanovich;2020-07-15
+4046;Julie Garwood;2020-07-15
+4047;Lisa Gardner;2020-07-16
+4048;L.M. Montgomery;2020-07-15
+4049;John Steinbeck;2020-07-16
+4050;Susan Vreeland;2020-07-16
+4051;Kim Harrison;2020-07-15
+4052;Patricia Briggs;2020-07-16
+4053;Amanda Coplin;2020-07-16
+4054;Laurell K. Hamilton;2020-07-16
+4055;Clive Cussler;2020-07-15
+4056;Christina Lauren;2020-07-15
+4057;Michael Shaara;2020-07-16
+4058;Michael Connelly;2020-07-15
+4059;Alice McDermott;2020-07-16
+4060;Erich Segal;2020-07-16
+4061;Orson Scott Card;2020-07-15
+4062;Christopher Moore;2020-07-16
+4063;Taylor Caldwell;2020-07-16
+4064;Terry Brooks;2020-07-16
+4065;Sarah Addison Allen;2020-07-15
+4066;Beverly Cleary;2020-07-15
+4067;Richard K. Morgan;2020-07-16
+4068;Lee Child;2020-07-15
+4069;Neal Shusterman;2020-07-16
+4070;Lynne Truss;2020-07-16
+4071;Joseph Conrad;2020-07-15
+4072;Jeff Lindsay;2020-07-16
+4073;Neil Gaiman;2020-07-16
+4074;Cassandra Clare;2020-07-16
+4075;Janet Evanovich;2020-07-15
+4076;Louisa May Alcott;2020-07-15
+4077;Joe Haldeman;2020-07-16
+4078;"P.C. Cast; Kristin Cast";2020-07-15
+4079;"Henry Cloud; John Townsend";2020-07-16
+4080;Thomas Harris;2020-07-16
+4081;Jasper Fforde;2020-07-15
+4082;D.J. MacHale;2020-07-16
+4083;"Orhan Pamuk; Maureen Freely";2020-07-16
+4084;Tom Brokaw;2020-07-16
+4085;Charlaine Harris;2020-07-15
+4086;Rudyard Kipling;2020-07-15
+4087;Vernor Vinge;2020-07-16
+4088;Clive Barker;2020-07-15
+4089;Voltaire;2020-07-16
+4090;Kevin    Wilson;2020-07-16
+4091;Libba Bray;2020-07-15
+4092;Robert Jordan;2020-07-16
+4093;Siobhan Vivian;2020-07-16
+4094;Michael Connelly;2020-07-16
+4095;Garth Nix;2020-07-15
+4096;Helen Oyeyemi;2020-07-15
+4097;Patricia Briggs;2020-07-16
+4098;Chuck Palahniuk;2020-07-15
+4099;Elizabeth Kostova;2020-07-16
+4100;Maeve Binchy;2020-07-16
+4101;Anne Tyler;2020-07-15
+4102;Beverly  Lewis;2020-07-16
+4103;Neal Stephenson;2020-07-16
+4104;Andre Dubus III;2020-07-16
+4105;Steven Johnson;2020-07-15
+4106;Robert Jordan;2020-07-15
+4107;E. Nesbit;2020-07-16
+4108;Philippa Gregory;2020-07-15
+4109;Smith Henderson;2020-07-16
+4110;Karen Kingsbury;2020-07-16
+4111;Raymond E. Feist;2020-07-15
+4112;Jamie Oliver;2020-07-16
+4113;Flann O'Brien;2020-07-16
+4114;Orson Scott Card;2020-07-16
+4115;Eleanor H. Porter;2020-07-15
+4116;Rick Riordan;2020-07-15
+4117;Blake Crouch;2020-07-16
+4118;Miranda Beverly-Whittemore;2020-07-15
+4119;Robert Ludlum;2020-07-16
+4120;Ken Follett;2020-07-16
+4121;Patricia Briggs;2020-07-15
+4122;Susan Abulhawa;2020-07-16
+4123;"Louis Sachar; Louis Sachar";2020-07-16
+4124;Brandon Mull;2020-07-16
+4125;Dorothy Koomson;2020-07-15
+4126;L.M. Montgomery;2020-07-15
+4127;Dian Fossey;2020-07-16
+4128;Sue Grafton;2020-07-15
+4129;Nina LaCour;2020-07-16
+4130;Nick Cutter;2020-07-16
+4131;Sherrilyn Kenyon;2020-07-15
+4132;R.A. Salvatore;2020-07-16
+4133;Edmund Morris;2020-07-16
+4134;Charlaine Harris;2020-07-16
+4135;Nora Roberts;2020-07-15
+4136;Joelle Charbonneau;2020-07-15
+4137;Dean Koontz;2020-07-16
+4138;Carrie Vaughn;2020-07-15
+4139;Jim Butcher;2020-07-16
+4140;Mercedes Lackey;2020-07-16
+4141;P.D. James;2020-07-15
+4142;Lisa Genova;2020-07-16
+4143;Jeff VanderMeer;2020-07-16
+4144;Bob Spitz;2020-07-16
+4145;Hunter S. Thompson;2020-07-15
+4146;Claudia Gray;2020-07-15
+4147;"Leigh Nichols; Dean Koontz";2020-07-16
+4148;Wilson Rawls;2020-07-15
+4149;Sue Grafton;2020-07-16
+4150;Kazuo Ishiguro;2020-07-16
+4151;Richelle Mead;2020-07-15
+4152;Becca Fitzpatrick;2020-07-16
+4153;James S.A. Corey;2020-07-16
+4154;John Wyndham;2020-07-16
+4155;Theodore Taylor;2020-07-15
+4156;John Berendt;2020-07-15
+4157;Kazu Kibuishi;2020-07-16
+4158;Pierce Brown;2020-07-15
+4159;Ruta Sepetys;2020-07-16
+4160;Ursula K. Le Guin;2020-07-16
+4161;Abraham Verghese;2020-07-15
+4162;Zilpha Keatley Snyder;2020-07-16
+4163;B.J. Novak;2020-07-16
+4164;Dan Brown;2020-07-16
+4165;Eoin Colfer;2020-07-15
+4166;Vince Flynn;2020-07-15
+4167;Toni Morrison;2020-07-16
+4168;Hannah Kent;2020-07-15
+4169;Debbie Macomber;2020-07-16
+4170;Jan Karon;2020-07-16
+4171;David Brin;2020-07-15
+4172;M.R. Carey;2020-07-16
+4173;Kristin Hannah;2020-07-16
+4174;Elizabeth Scott;2020-07-16
+4175;J.D. Robb;2020-07-15
+4176;Irvine Welsh;2020-07-15
+4177;Isabel Allende;2020-07-16
+4178;Terry Pratchett;2020-07-15
+4179;Jack Higgins;2020-07-16
+4180;Bernard Cornwell;2020-07-16
+4181;Hester Browne;2020-07-15
+4182;John Flanagan;2020-07-16
+4183;Stephen King;2020-07-16
+4184;Jeffrey Archer;2020-07-16
+4185;Chetan Bhagat;2020-07-15
+4186;Lauren Kate;2020-07-15
+4187;Neil Gaiman;2020-07-16
+4188;Brigid Kemmerer;2020-07-15
+4189;Sarah Lotz;2020-07-16
+4190;Barbara Kingsolver;2020-07-16
+4191;Gene Luen Yang;2020-07-15
+4192;Michael Connelly;2020-07-16
+4193;David Weber;2020-07-16
+4194;Debbie Macomber;2020-07-16
+4195;Steven Erikson;2020-07-15
+4196;John Wyndham;2020-07-15
+4197;Kiersten White;2020-07-16
+4198;Napoleon Hill;2020-07-15
+4199;Greg Bear;2020-07-16
+4200;Chelsea Handler;2020-07-16
+4201;Brandon Sanderson;2020-07-15
+4202;C.C. Hunter;2020-07-16
+4203;Daniel O'Malley;2020-07-16
+4204;Garth Nix;2020-07-16
+4205;Joe Hill;2020-07-15
+4206;Sarah J. Maas;2020-07-15
+4207;Ilona Andrews;2020-07-16
+4208;Rebecca Wells;2020-07-15
+4209;"Arthur C. Clarke; Gentry Lee";2020-07-16
+4210;Jim Butcher;2020-07-16
+4211;Anne Bishop;2020-07-15
+4212;Patricia Briggs;2020-07-16
+4213;Enid Blyton;2020-07-16
+4214;J.R.R. Tolkien;2020-07-16
+4215;Angela Johnson;2020-07-15
+4216;David Baldacci;2020-07-15
+4217;John Sandford;2020-07-16
+4218;Lloyd Alexander;2020-07-15
+4219;Kiera Cass;2020-07-16
+4220;Darren Shan;2020-07-16
+4221;Gemma Burgess;2020-07-15
+4222;Raina Telgemeier;2020-07-16
+4223;Meg Cabot;2020-07-16
+4224;Jonathan Maberry;2020-07-16
+4225;Jussi Adler-Olsen;2020-07-15
+4226;Judy Blume;2020-07-15
+4227;Gena Showalter;2020-07-16
+4228;Kurt Vonnegut Jr.;2020-07-15
+4229;Anne McCaffrey;2020-07-16
+4230;Andrew  Smith;2020-07-16
+4231;Alan Bennett;2020-07-15
+4232;Sara Shepard;2020-07-16
+4233;Eric Carle;2020-07-16
+4234;Frank Beddor;2020-07-16
+4235;Dorothy L. Sayers;2020-07-15
+4236;Julia Quinn;2020-07-15
+4237;R.L. Stine;2020-07-16
+4238;Kim Gordon;2020-07-15
+4239;Jim Butcher;2020-07-16
+4240;Margaret Atwood;2020-07-16
+4241;Bret Easton Ellis;2020-07-15
+4242;Daniel Suarez;2020-07-16
+4243;Louise Erdrich;2020-07-16
+4244;Lisa Kleypas;2020-07-16
+4245;J.R. Ward;2020-07-15
+4246;Charles Duhigg;2020-07-15
+4247;Ellis Peters;2020-07-16
+4248;Steve Berry;2020-07-15
+4249;Joanne Harris;2020-07-16
+4250;John Irving;2020-07-16
+4251;Kristen Simmons;2020-07-15
+4252;Greg Iles;2020-07-16
+4253;Tess Gerritsen;2020-07-16
+4254;Harlan Coben;2020-07-16
+4255;"John  Williams; John McGahern";2020-07-15
+4256;Robin Hobb;2020-07-15
+4257;Karin Slaughter;2020-07-16
+4258;John Grisham;2020-07-15
+4259;Alexandra Adornetto;2020-07-16
+4260;Sandra Brown;2020-07-16
+4261;Barbara Kingsolver;2020-07-15
+4262;Suzanne Young;2020-07-16
+4263;E.M. Forster;2020-07-16
+4264;J.R.R. Tolkien;2020-07-16
+4265;Tara Sivec;2020-07-15
+4266;Brad Meltzer;2020-07-15
+4267;Tom Clancy;2020-07-16
+4268;"W.G. Sebald; Anthea Bell";2020-07-15
+4269;"Joe Sacco; Edward Said";2020-07-16
+4270;Chris Bohjalian;2020-07-16
+4271;Orson Scott Card;2020-07-15
+4272;Terry Goodkind;2020-07-16
+4273;P.G. Wodehouse;2020-07-16
+4274;Anna Lee Waldo;2020-07-16
+4275;N.K. Jemisin;2020-07-15
+4276;Paula McLain;2020-07-15
+4277;Deborah Harkness;2020-07-16
+4278;Frank McCourt;2020-07-15
+4279;John Piper;2020-07-16
+4280;Carl Sagan;2020-07-16
+4281;Thomas Harris;2020-07-15
+4282;Jim Butcher;2020-07-16
+4283;"Rudyard Kipling; Edward Said";2020-07-16
+4284;Nora Roberts;2020-07-16
+4285;Caragh M. O'Brien;2020-07-15
+4286;Anne Rice;2020-07-15
+4287;Keri Arthur;2020-07-16
+4288;Celeste Ng;2020-07-15
+4289;Frank E. Peretti;2020-07-16
+4290;Beth Revis;2020-07-16
+4291;Carl Hiaasen;2020-07-15
+4292;Lisa Kleypas;2020-07-16
+4293;Marissa Meyer;2020-07-16
+4294;Tucker Max;2020-07-16
+4295;Jennifer Weiner;2020-07-15
+4296;Rachel Caine;2020-07-15
+4297;Sharon M. Draper;2020-07-16
+4298;"Kay Thompson; Hilary Knight";2020-07-15
+4299;"Richard Bachman; Stephen King";2020-07-16
+4300;Ian McEwan;2020-07-16
+4301;E.H. Gombrich;2020-07-15
+4302;David Baldacci;2020-07-16
+4303;Ravinder Singh;2020-07-16
+4304;Vladimir Nabokov;2020-07-16
+4305;G.K. Chesterton;2020-07-15
+4306;R.L. Stine;2020-07-15
+4307;Anthony Horowitz;2020-07-16
+4308;Kevin Hearne;2020-07-15
+4309;Lara Adrian;2020-07-16
+4310;Jeffery Deaver;2020-07-16
+4311;Tim Tharp;2020-07-15
+4312;Sylvia Nasar;2020-07-16
+4313;Maurice Sendak;2020-07-16
+4314;Zadie Smith;2020-07-16
+4315;Jim Butcher;2020-07-15
+4316;Emma Donoghue;2020-07-15
+4317;Robin LaFevers;2020-07-16
+4318;R.L. Mathewson;2020-07-15
+4319;Christopher Paolini;2020-07-16
+4320;Alissa Nutting;2020-07-16
+4321;Anne Rice;2020-07-15
+4322;Lee Child;2020-07-16
+4323;Scott B. Smith;2020-07-16
+4324;Michael Chabon;2020-07-16
+4325;Ayaan Hirsi Ali;2020-07-15
+4326;Sandra Dallas;2020-07-15
+4327;Lynsay Sands;2020-07-16
+4328;Shannon Hale;2020-07-15
+4329;Meg Cabot;2020-07-16
+4330;Sherrilyn Kenyon;2020-07-16
+4331;Ken Follett;2020-07-15
+4332;Brigid Kemmerer;2020-07-16
+4333;L.M. Montgomery;2020-07-16
+4334;David Weber;2020-07-16
+4335;Gayle Forman;2020-07-15
+4336;Clive Cussler;2020-07-15
+4337;Nick Hornby;2020-07-16
+4338;Sylvia Day;2020-07-15
+4339;James Patterson;2020-07-16
+4340;Jane Green;2020-07-16
+4341;G. Willow Wilson;2020-07-15
+4342;John Sandford;2020-07-16
+4343;Lisa Gardner;2020-07-16
+4344;Tatiana de Rosnay;2020-07-16
+4345;Sidney Sheldon;2020-07-15
+4346;John Grisham;2020-07-15
+4347;Jonathan Kellerman;2020-07-16
+4348;Steven Erikson;2020-07-15
+4349;Jeffery Deaver;2020-07-16
+4350;Chris Bohjalian;2020-07-16
+4351;Sarah Rees Brennan;2020-07-15
+4352;Liane Moriarty;2020-07-16
+4353;Nalini Singh;2020-07-16
+4354;Maureen Johnson;2020-07-16
+4355;Laura Lippman;2020-07-15
+4356;Stephen King;2020-07-15
+4357;Diana Gabaldon;2020-07-16
+4358;Erin Watt;2020-07-15
+4359;Anna Quindlen;2020-07-16
+4360;John Saul;2020-07-16
+4361;Trudi Canavan;2020-07-15
+4362;William  Boyd;2020-07-16
+4363;Bret Easton Ellis;2020-07-16
+4364;Dean Koontz;2020-07-16
+4365;Kathy Reichs;2020-07-15
+4366;Tamora Pierce;2020-07-15
+4367;Anita Diamant;2020-07-16
+4368;Michelle Moran;2020-07-15
+4369;James Patterson;2020-07-16
+4370;Richelle Mead;2020-07-16
+4371;Sophie Jordan;2020-07-15
+4372;Richard Wurmbrand;2020-07-16
+4373;Sarah Dessen;2020-07-16
+4374;William Styron;2020-07-16
+4375;Paul Tremblay;2020-07-15
+4376;Kimberly Derting;2020-07-15
+4377;Jacquelyn Frank;2020-07-16
+4378;Arthur Ransome;2020-07-15
+4379;Stephen King;2020-07-16
+4380;Tamara Ireland Stone;2020-07-16
+4381;Robert Jordan;2020-07-15
+4382;Terry Brooks;2020-07-16
+4383;"Sam Smith; Doug Grud";2020-07-16
+4384;Jenny Han;2020-07-16
+4385;Sebastian Junger;2020-07-15
+4386;V.S. Naipaul;2020-07-15
+4387;Diane Chamberlain;2020-07-16
+4388;Mo Willems;2020-07-15
+4389;Katherine Neville;2020-07-16
+4390;Frederick Forsyth;2020-07-16
+4391;Flannery O'Connor;2020-07-15
+4392;Maeve Binchy;2020-07-16
+4393;Larissa Ione;2020-07-16
+4394;Nicholas Sparks;2020-07-16
+4395;Anna Sewell;2020-07-15
+4396;Vince Flynn;2020-07-15
+4397;Jamie McGuire;2020-07-16
+4398;Sidney Sheldon;2020-07-15
+4399;Cassandra Clare;2020-07-16
+4400;Jaclyn Moriarty;2020-07-16
+4401;Stephen King;2020-07-15
+4402;Terry Pratchett;2020-07-16
+4403;Brian  McClellan;2020-07-16
+4404;J.D. Robb;2020-07-16
+4405;Chloe Neill;2020-07-15
+4406;William Faulkner;2020-07-15
+4407;J.D. Robb;2020-07-16
+4408;Piers Anthony;2020-07-15
+4409;Stephen King;2020-07-16
+4410;Anchee Min;2020-07-16
+4411;Roxane Gay;2020-07-15
+4412;Clive Cussler;2020-07-16
+4413;Rohinton Mistry;2020-07-16
+4414;Thomas Hardy;2020-07-16
+4415;Cornelia Funke;2020-07-15
+4416;Tess Gerritsen;2020-07-15
+4417;Patricia Cornwell;2020-07-16
+4418;Ursula K. Le Guin;2020-07-15
+4419;Becca Fitzpatrick;2020-07-16
+4420;John Scalzi;2020-07-16
+4421;Justin Torres;2020-07-15
+4422;Julie Garwood;2020-07-16
+4423;Arthur Miller;2020-07-16
+4424;Douglas Coupland;2020-07-16
+4425;Alyson Noel;2020-07-15
+4426;Louise Penny;2020-07-15
+4427;Louise Penny;2020-07-16
+4428;Dylan Thomas;2020-07-15
+4429;Don DeLillo;2020-07-16
+4430;Ian McEwan;2020-07-16
+4431;Harlan Coben;2020-07-15
+4432;Heather Brewer;2020-07-16
+4433;Patricia Cornwell;2020-07-16
+4434;Kresley Cole;2020-07-16
+4435;Lisa Scottoline;2020-07-15
+4436;Jeaniene Frost;2020-07-15
+4437;Heather Gudenkauf;2020-07-16
+4438;Jennifer L. Armentrout;2020-07-15
+4439;Laurie Halse Anderson;2020-07-16
+4440;Bill Buford;2020-07-16
+4441;Kathy Reichs;2020-07-15
+4442;Nora Ephron;2020-07-16
+4443;Dean Koontz;2020-07-16
+4444;Ann M. Martin;2020-07-16
+4445;John Irving;2020-07-15
+4446;Maeve Binchy;2020-07-15
+4447;Lara Adrian;2020-07-16
+4448;Rebecca Donovan;2020-07-15
+4449;Faith Hunter;2020-07-16
+4450;Christopher Paolini;2020-07-16
+4451;Agatha Christie;2020-07-15
+4452;Neal Shusterman;2020-07-16
+4453;James Rollins;2020-07-16
+4454;E.L. James;2020-07-16
+4455;Ava Dellaira;2020-07-15
+4456;Bernard Cornwell;2020-07-15
+4457;Kelley Armstrong;2020-07-16
+4458;Karen Chance;2020-07-15
+4459;Elizabeth Norris;2020-07-16
+4460;E.L. James;2020-07-16
+4461;Neil Gaiman;2020-07-15
+4462;Ellen Hopkins;2020-07-16
+4463;Lisa See;2020-07-16
+4464;Kathy Reichs;2020-07-16
+4465;Chloe Neill;2020-07-15
+4466;Orson Scott Card;2020-07-15
+4467;"Kurt Busiek; Alex Ross";2020-07-16
+4468;Robert Charles Wilson;2020-07-15
+4469;Tracey Garvis-Graves;2020-07-16
+4470;Kate Morton;2020-07-16
+4471;Meg Cabot;2020-07-15
+4472;J. Courtney Sullivan;2020-07-16
+4473;James Patterson;2020-07-16
+4474;Brent Weeks;2020-07-16
+4475;Agatha Christie;2020-07-15
+4476;Lisa Gardner;2020-07-15
+4477;Jane Smiley;2020-07-16
+4478;Michael Crichton;2020-07-15
+4479;James Joyce;2020-07-16
+4480;Michael Crichton;2020-07-16
+4481;Meg Wolitzer;2020-07-15
+4482;Maria V. Snyder;2020-07-16
+4483;Raymond Chandler;2020-07-16
+4484;Mary Kay Andrews;2020-07-16
+4485;Jojo Moyes;2020-07-15
+4486;David Auburn;2020-07-15
+4487;Dashiell Hammett;2020-07-16
+4488;Randall Wallace;2020-07-15
+4489;Chuck Palahniuk;2020-07-16
+4490;Michael Ondaatje;2020-07-16
+4491;Tere Liye;2020-07-15
+4492;Christina Lauren;2020-07-16
+4493;NoViolet Bulawayo;2020-07-16
+4494;John Grisham;2020-07-16
+4495;Isaac Asimov;2020-07-15
+4496;Melina Marchetta;2020-07-15
+4497;Martha Hall Kelly;2020-07-16
+4498;Jennifer McMahon;2020-07-15
+4499;Robert Muchamore;2020-07-16
+4500;Ilona Andrews;2020-07-16
+4501;Sharon Creech;2020-07-15
+4502;Sophie Kinsella;2020-07-16
+4503;Diana Gabaldon;2020-07-16
+4504;Jim Gaffigan;2020-07-16
+4505;Julie Garwood;2020-07-15
+4506;Steve Berry;2020-07-15
+4507;Steve Martini;2020-07-16
+4508;Jude Deveraux;2020-07-15
+4509;Alice Munro;2020-07-16
+4510;Stephen Davis;2020-07-16
+4511;Simon Schama;2020-07-15
+4512;John Irving;2020-07-16
+4513;Laurelin Paige;2020-07-16
+4514;James Rollins;2020-07-16
+4515;Rachel Caine;2020-07-15
+4516;Ian McEwan;2020-07-15
+4517;Jennifer L. Armentrout;2020-07-16
+4518;Beverly  Lewis;2020-07-15
+4519;Sidney Sheldon;2020-07-16
+4520;Veronica Rossi;2020-07-16
+4521;Joseph O'Neill;2020-07-15
+4522;Tom Clancy;2020-07-16
+4523;Alistair MacLean;2020-07-16
+4524;Daniel Silva;2020-07-16
+4525;Iain M. Banks;2020-07-15
+4526;Maya Banks;2020-07-15
+4527;Jacqueline Davies;2020-07-16
+4528;Hannu Rajaniemi;2020-07-15
+4529;Lisa McMann;2020-07-16
+4530;Kristin Hannah;2020-07-16
+4531;R.L. Stine;2020-07-15
+4532;Jacqueline Carey;2020-07-16
+4533;"Jane Austen; Fiona Stafford";2020-07-16
+4534;Lucinda Riley;2020-07-16
+4535;Louis Sachar;2020-07-15
+4536;R.J. Palacio;2020-07-15
+4537;D.H. Lawrence;2020-07-16
+4538;George R.R. Martin;2020-07-15
+4539;Joseph Kesselring;2020-07-16
+4540;Neal Shusterman;2020-07-16
+4541;"Anne Rice; Tim Curry";2020-07-15
+4542;Elin Hilderbrand;2020-07-16
+4543;Hillary Jordan;2020-07-16
+4544;Diane Duane;2020-07-16
+4545;Matthew Pearl;2020-07-15
+4546;James Frey;2020-07-15
+4547;Ilona Andrews;2020-07-16
+4548;Stephen King;2020-07-15
+4549;Joseph Conrad;2020-07-16
+4550;Ken Follett;2020-07-16
+4551;Elizabeth  George;2020-07-15
+4552;"P.C. Cast; Kristin Cast";2020-07-16
+4553;Dashiell Hammett;2020-07-16
+4554;Kevin Kwan;2020-07-16
+4555;Eric Wilson;2020-07-15
+4556;Pat Conroy;2020-07-15
+4557;Sherrilyn Kenyon;2020-07-16
+4558;Sarah Dessen;2020-07-15
+4559;Adriana Trigiani;2020-07-16
+4560;Chris d'Lacey;2020-07-16
+4561;Ivan Doig;2020-07-15
+4562;Anna Todd;2020-07-16
+4563;Jeanette Winterson;2020-07-16
+4564;Jacqueline Winspear;2020-07-16
+4565;Nicholas Sparks;2020-07-15
+4566;Rae Carson;2020-07-15
+4567;Michael Connelly;2020-07-16
+4568;Amy Gentry;2020-07-15
+4569;Jasper Fforde;2020-07-16
+4570;Frank E. Peretti;2020-07-16
+4571;John Steinbeck;2020-07-15
+4572;Daniel Silva;2020-07-16
+4573;Daniel Abraham;2020-07-16
+4574;Lee Child;2020-07-16
+4575;John Brunner;2020-07-15
+4576;John Berger;2020-07-15
+4577;Alex Marwood;2020-07-16
+4578;Matthew Reilly;2020-07-15
+4579;Alastair Reynolds;2020-07-16
+4580;John Sandford;2020-07-16
+4581;John Grisham;2020-07-15
+4582;Dean Koontz;2020-07-16
+4583;Ken Follett;2020-07-16
+4584;James S.A. Corey;2020-07-16
+4585;Fiona Barton;2020-07-15
+4586;Meg Cabot;2020-07-15
+4587;Michael Crichton;2020-07-16
+4588;James Rollins;2020-07-15
+4589;Lauren Kate;2020-07-16
+4590;Roger Zelazny;2020-07-16
+4591;Carl Hiaasen;2020-07-15
+4592;Iris Johansen;2020-07-16
+4593;Jack Finney;2020-07-16
+4594;Robert Greene;2020-07-16
+4595;Robert Ludlum;2020-07-15
+4596;Martin Cruz Smith;2020-07-15
+4597;Don DeLillo;2020-07-16
+4598;Judith McNaught;2020-07-15
+4599;Harlan Coben;2020-07-16
+4600;Anne Rice;2020-07-16
+4601;Ludwig Bemelmans;2020-07-15
+4602;Jonathan Franzen;2020-07-16
+4603;Tamora Pierce;2020-07-16
+4604;Erin Hunter;2020-07-16
+4605;Dean Koontz;2020-07-15
+4606;Kwame Alexander;2020-07-15
+4607;Eowyn Ivey;2020-07-16
+4608;Julia Scheeres;2020-07-15
+4609;Robin Cook;2020-07-16
+4610;John O'Hara;2020-07-16
+4611;Hope Jahren;2020-07-15
+4612;Robert Ludlum;2020-07-16
+4613;Kylie Scott;2020-07-16
+4614;Vince Flynn;2020-07-16
+4615;Toni Morrison;2020-07-15
+4616;Andrew Clements;2020-07-15
+4617;Allen Say;2020-07-16
+4618;Hilary Mantel;2020-07-15
+4619;Jeff Kinney;2020-07-16
+4620;Patricia Cornwell;2020-07-16
+4621;Nicholas Sparks;2020-07-15
+4622;Amy A. Bartol;2020-07-16
+4623;Jessica Verday;2020-07-16
+4624;Wally Lamb;2020-07-16
+4625;J.M. Coetzee;2020-07-15
+4626;Amy Efaw;2020-07-15
+4627;Anne McCaffrey;2020-07-16
+4628;Veronica Roth;2020-07-15
+4629;Nora Roberts;2020-07-16
+4630;David Levithan;2020-07-16
+4631;Megan Abbott;2020-07-15
+4632;Shari Lapena;2020-07-16
+4633;Jennifer L. Armentrout;2020-07-16
+4634;Andrea Levy;2020-07-16
+4635;Kate DiCamillo;2020-07-15
+4636;Michael Connelly;2020-07-15
+4637;Philip Pullman;2020-07-16
+4638;Bruce Degen;2020-07-15
+4639;Dan Brown;2020-07-16
+4640;Walter Scott;2020-07-16
+4641;Simone Elkeles;2020-07-15
+4642;John Sandford;2020-07-16
+4643;Dean Koontz;2020-07-16
+4644;Ellen Marie Wiseman;2020-07-16
+4645;Joyce Maynard;2020-07-15
+4646;Erin Hunter;2020-07-15
+4647;Maggie Stiefvater;2020-07-16
+4648;Donna VanLiere;2020-07-15
+4649;Phyllis Reynolds Naylor;2020-07-16
+4650;C.J. Sansom;2020-07-16
+4651;John Green;2020-07-15
+4652;Norman Bridwell;2020-07-16
+4653;Jim Butcher;2020-07-16
+4654;Kylie Scott;2020-07-16
+4655;Lisa Kleypas;2020-07-15
+4656;Anne Morrow Lindbergh;2020-07-15
+4657;Bill Bryson;2020-07-16
+4658;Eoin Colfer;2020-07-15
+4659;Larissa Ione;2020-07-16
+4660;Ann M. Martin;2020-07-16
+4661;Leigh Bardugo;2020-07-15
+4662;J. Kenner;2020-07-16
+4663;Philippa Gregory;2020-07-16
+4664;Nicholas Sparks;2020-07-16
+4665;Patricia Cornwell;2020-07-15
+4666;Connie Willis;2020-07-15
+4667;James Hilton;2020-07-16
+4668;Josephine Angelini;2020-07-15
+4669;Louise Penny;2020-07-16
+4670;Stacy Schiff;2020-07-16
+4671;Ann Leckie;2020-07-15
+4672;Susane Colasanti;2020-07-16
+4673;Peter Matthiessen;2020-07-16
+4674;Laurell K. Hamilton;2020-07-16
+4675;Stephen King;2020-07-15
+4676;Mike Lupica;2020-07-15
+4677;Robert Graysmith;2020-07-16
+4678;Richard Siken;2020-07-15
+4679;D.J. MacHale;2020-07-16
+4680;Chuck Palahniuk;2020-07-16
+4681;Lee Child;2020-07-15
+4682;Michael Connelly;2020-07-16
+4683;Tom Clancy;2020-07-16
+4684;Sylvain Neuvel;2020-07-16
+4685;Rohinton Mistry;2020-07-15
+4686;Gail Tsukiyama;2020-07-15
+4687;"Herman Koch; Sam Garrett";2020-07-16
+4688;Louise Penny;2020-07-15
+4689;Rachel Caine;2020-07-16
+4690;Winston Graham;2020-07-16
+4691;James A. Michener;2020-07-15
+4692;James Alexander Thom;2020-07-16
+4693;Sarah J. Maas;2020-07-16
+4694;Nora Roberts;2020-07-16
+4695;R.A. Salvatore;2020-07-15
+4696;Theodore Dreiser;2020-07-15
+4697;"Zoe Sugg; Siobhan Curham";2020-07-16
+4698;Pierce Brown;2020-07-15
+4699;Breena Clarke;2020-07-16
+4700;Katie Cotugno;2020-07-16
+4701;William Gibson;2020-07-15
+4702;Scott Lynch;2020-07-16
+4703;Adam Hochschild;2020-07-16
+4704;Colleen Houck;2020-07-16
+4705;William  Boyd;2020-07-15
+4706;Willa Cather;2020-07-15
+4707;Jojo Moyes;2020-07-16
+4708;"Brian Azzarello; Lee Bermejo";2020-07-15
+4709;L.J. Smith;2020-07-16
+4710;Jennifer L. Armentrout;2020-07-16
+4711;Jason  Matthews;2020-07-15
+4712;Stephen King;2020-07-16
+4713;Carlos Castaneda;2020-07-16
+4714;J.I. Packer;2020-07-16
+4715;Patricia Cornwell;2020-07-15
+4716;Yaa Gyasi;2020-07-15
+4717;Kimberly Derting;2020-07-16
+4718;A.G. Howard;2020-07-15
+4719;Susan Elizabeth Phillips;2020-07-16
+4720;Jeffrey Archer;2020-07-16
+4721;Sara Gruen;2020-07-15
+4722;Michael Frayn;2020-07-16
+4723;George R.R. Martin;2020-07-16
+4724;Ernest Hemingway;2020-07-16
+4725;Brad Thor;2020-07-15
+4726;Susan Sontag;2020-07-15
+4727;Patricia Briggs;2020-07-16
+4728;Dee Lestari;2020-07-15
+4729;Elizabeth Berg;2020-07-16
+4730;Debbie Macomber;2020-07-16
+4731;Beverly Cleary;2020-07-15
+4732;Jane Yolen;2020-07-16
+4733;James Patterson;2020-07-16
+4734;Ann Aguirre;2020-07-16
+4735;V.C. Andrews;2020-07-15
+4736;S.M. Stirling;2020-07-15
+4737;Kathleen Winsor;2020-07-16
+4738;Stephen King;2020-07-15
+4739;Anne Tyler;2020-07-16
+4740;Nora Roberts;2020-07-16
+4741;Sharon G. Flake;2020-07-15
+4742;Melinda Haynes;2020-07-16
+4743;Helene Wecker;2020-07-16
+4744;Harlan Coben;2020-07-16
+4745;P.D. Eastman;2020-07-15
+4746;Nora Roberts;2020-07-15
+4747;Jodi Picoult;2020-07-16
+4748;Thomas A. Harris;2020-07-15
+4749;Trish Doller;2020-07-16
+4750;Louise Penny;2020-07-16
+4751;Marian Keyes;2020-07-15
+4752;Sidney Sheldon;2020-07-16
+4753;Kass Morgan;2020-07-16
+4754;Tess Gerritsen;2020-07-16
+4755;Alan Lightman;2020-07-15
+4756;Lee Child;2020-07-15
+4757;Judith McNaught;2020-07-16
+4758;Kathleen Grissom;2020-07-15
+4759;Bernard Cornwell;2020-07-16
+4760;John Sandford;2020-07-16
+4761;L.A. Weatherly;2020-07-15
+4762;"Owen  West; Dean Koontz";2020-07-16
+4763;Kent Haruf;2020-07-16
+4764;R.A. Salvatore;2020-07-16
+4765;Richard   Phillips;2020-07-15
+4766;Rebecca Stead;2020-07-15
+4767;Robert McCloskey;2020-07-16
+4768;Philipp Meyer;2020-07-15
+4769;Philip Roth;2020-07-16
+4770;Banksy;2020-07-16
+4771;"Knut Hamsun; George Egerton";2020-07-15
+4772;Tom Stoppard;2020-07-16
+4773;Blake Crouch;2020-07-16
+4774;Scott Lynch;2020-07-16
+4775;Arnold Lobel;2020-07-15
+4776;David McCullough;2020-07-15
+4777;Erich Maria Remarque;2020-07-16
+4778;Kevin Hearne;2020-07-15
+4779;Julie Kagawa;2020-07-16
+4780;Elaine Pagels;2020-07-16
+4781;Stephen King;2020-07-15
+4782;Sue Grafton;2020-07-16
+4783;Joe Abercrombie;2020-07-16
+4784;Nora Roberts;2020-07-16
+4785;Lauren Groff;2020-07-15
+4786;David Shannon;2020-07-15
+4787;Alain de Botton;2020-07-16
+4788;Anita Amirrezvani;2020-07-15
+4789;Cornelia Funke;2020-07-16
+4790;Nicholas Sparks;2020-07-16
+4791;John Flanagan;2020-07-15
+4792;"Angie Sage; Mark Zug";2020-07-16
+4793;Cara Lockwood;2020-07-16
+4794;Charles Frazier;2020-07-16
+4795;Jeffery Deaver;2020-07-15
+4796;R.L. Stine;2020-07-15
+4797;Sidney Sheldon;2020-07-16
+4798;Elin Hilderbrand;2020-07-15
+4799;Ally Condie;2020-07-16
+4800;Herman Melville;2020-07-16
+4801;Kelley Armstrong;2020-07-15
+4802;Anne McCaffrey;2020-07-16
+4803;J.D. Robb;2020-07-16
+4804;Bernard Cornwell;2020-07-16
+4805;Perry Moore;2020-07-15
+4806;Jeaniene Frost;2020-07-15
+4807;Darynda Jones;2020-07-16
+4808;Julie Garwood;2020-07-15
+4809;Nancy Reagin;2020-07-16
+4810;K.A. Tucker;2020-07-16
+4811;James Patterson;2020-07-15
+4812;C.S. Pacat;2020-07-16
+4813;Jeffery Deaver;2020-07-16
+4814;Maya Banks;2020-07-16
+4815;John Sandford;2020-07-15
+4816;Josh Malerman;2020-07-15
+4817;John Jakes;2020-07-16
+4818;Shaun Tan;2020-07-15
+4819;Greg Iles;2020-07-16
+4820;"P.C. Cast; Kristin Cast";2020-07-16
+4821;Dennis Lehane;2020-07-15
+4822;Sherrilyn Kenyon;2020-07-16
+4823;Brian Jacques;2020-07-16
+4824;Kate Chopin;2020-07-16
+4825;Sherrilyn Kenyon;2020-07-15
+4826;Elizabeth Strout;2020-07-15
+4827;Lauren Groff;2020-07-16
+4828;Ashwin Sanghi;2020-07-15
+4829;Bill Bryson;2020-07-16
+4830;Marissa Meyer;2020-07-16
+4831;Anne Tyler;2020-07-15
+4832;Scott Turow;2020-07-16
+4833;John Marsden;2020-07-16
+4834;Mo Willems;2020-07-16
+4835;Stephanie Kallos;2020-07-15
+4836;Sara Shepard;2020-07-15
+4837;Kent Haruf;2020-07-16
+4838;Cecelia Ahern;2020-07-15
+4839;Jeffrey Archer;2020-07-16
+4840;Claire Messud;2020-07-16
+4841;Viet Thanh Nguyen;2020-07-15
+4842;Mike Mignola;2020-07-16
+4843;Jeffrey Archer;2020-07-16
+4844;Nicholas Sparks;2020-07-16
+4845;Anita Shreve;2020-07-15
+4846;Tess Gerritsen;2020-07-15
+4847;Jennifer L. Armentrout;2020-07-16
+4848;Lloyd C. Douglas;2020-07-15
+4849;Jennifer Lynn Barnes;2020-07-16
+4850;Tad Williams;2020-07-16
+4851;Paul  Hoffman;2020-07-15
+4852;Anne Rivers Siddons;2020-07-16
+4853;Rosamunde Pilcher;2020-07-16
+4854;Danielle  Paige;2020-07-16
+4855;Ian Falconer;2020-07-15
+4856;Jonathan Stroud;2020-07-15
+4857;Stephen King;2020-07-16
+4858;Joe Abercrombie;2020-07-15
+4859;Rachel Joyce;2020-07-16
+4860;Aldo Leopold;2020-07-16
+4861;Maya Angelou;2020-07-15
+4862;Ernest Hemingway;2020-07-16
+4863;Lynsay Sands;2020-07-16
+4864;Jennifer Weiner;2020-07-16
+4865;Iain M. Banks;2020-07-15
+4866;Veronica Roth;2020-07-15
+4867;Paul Auster;2020-07-16
+4868;Jennifer Weiner;2020-07-15
+4869;Clifford D. Simak;2020-07-16
+4870;Patrick O'Brian;2020-07-16
+4871;Joseph Boyden;2020-07-15
+4872;Karen Kingsbury;2020-07-16
+4873;Jasper Fforde;2020-07-16
+4874;Meg Cabot;2020-07-16
+4875;David McCullough;2020-07-15
+4876;Peter F. Hamilton;2020-07-15
+4877;David Mitchell;2020-07-16
+4878;John Sandford;2020-07-15
+4879;Paul Auster;2020-07-16
+4880;Elizabeth Strout;2020-07-16
+4881;Cathy Marie Buchanan;2020-07-15
+4882;Isaac Asimov;2020-07-16
+4883;"Jack Kerouac; Aram Saroyan";2020-07-16
+4884;Isaac Asimov;2020-07-16
+4885;Ruth Ware;2020-07-15
+4886;Robert A. Heinlein;2020-07-15
+4887;Jason F. Wright;2020-07-16
+4888;Candace Bushnell;2020-07-15
+4889;Rick Riordan;2020-07-16
+4890;Anne Rice;2020-07-16
+4891;Richard Price;2020-07-15
+4892;Anne Bishop;2020-07-16
+4893;Chuck Palahniuk;2020-07-16
+4894;Lauren Oliver;2020-07-16
+4895;Scott Westerfeld;2020-07-15
+4896;Julianna Baggott;2020-07-15
+4897;C.S. Lewis;2020-07-16
+4898;Bernard Cornwell;2020-07-15
+4899;Dorothy L. Sayers;2020-07-16
+4900;James Patterson;2020-07-16
+4901;Jenny Downham;2020-07-15
+4902;Conn Iggulden;2020-07-16
+4903;Megan Abbott;2020-07-16
+4904;Robertson Davies;2020-07-16
+4905;John Rawls;2020-07-15
+4906;Iris Rainer Dart;2020-07-15
+4907;Ken Follett;2020-07-16
+4908;J.D. Robb;2020-07-15
+4909;Michael Connelly;2020-07-16
+4910;Lee Child;2020-07-16
+4911;Margaret Peterson Haddix;2020-07-15
+4912;Gail Carson Levine;2020-07-16
+4913;Courtney Allison Moulton;2020-07-16
+4914;Angie Sage;2020-07-16
+4915;James A. Michener;2020-07-15
+4916;Brad Thor;2020-07-15
+4917;Ken Follett;2020-07-16
+4918;A.S. Byatt;2020-07-15
+4919;Kevin Hearne;2020-07-16
+4920;Raymond Chandler;2020-07-16
+4921;Lee Child;2020-07-15
+4922;Ernest J. Gaines;2020-07-16
+4923;Neal Shusterman;2020-07-16
+4924;Bernard Cornwell;2020-07-16
+4925;C.J. Sansom;2020-07-15
+4926;John Flanagan;2020-07-15
+4927;Eleanor Catton;2020-07-16
+4928;Steve Berry;2020-07-15
+4929;"P.C. Cast; Kristin Cast";2020-07-16
+4930;Jodi Picoult;2020-07-16
+4931;Dean Koontz;2020-07-15
+4932;Alessandro Baricco;2020-07-16
+4933;Mitchell Zuckoff;2020-07-16
+4934;Edgar Rice Burroughs;2020-07-16
+4935;Sinclair Lewis;2020-07-15
+4936;Jerry Spinelli;2020-07-15
+4937;Eric Clapton;2020-07-16
+4938;Mary Lawson;2020-07-15
+4939;Trudi Canavan;2020-07-16
+4940;Jeffrey Eugenides;2020-07-16
+4941;Tonya Hurley;2020-07-15
+4942;Oscar Wilde;2020-07-16
+4943;Peter S. Beagle;2020-07-16
+4944;Anne Fortier;2020-07-16
+4945;Robyn Carr;2020-07-15
+4946;Anna Banks;2020-07-15
+4947;Pearl S. Buck;2020-07-16
+4948;Aprilynne Pike;2020-07-15
+4949;Christopher Moore;2020-07-16
+4950;Sue Grafton;2020-07-16
+4951;Charles Martin;2020-07-15
+4952;Yangsze Choo;2020-07-16
+4953;Orson Scott Card;2020-07-16
+4954;Thomas Rockwell;2020-07-16
+4955;James Rollins;2020-07-15
+4956;Peter V. Brett;2020-07-15
+4957;Kazuo Ishiguro;2020-07-16
+4958;Cheryl Rainfield;2020-07-15
+4959;Alan Brennert;2020-07-16
+4960;Jon Ronson;2020-07-16
+4961;Linda Fairstein;2020-07-15
+4962;Lisa McMann;2020-07-16
+4963;Jane Green;2020-07-16
+4964;Hillary Rodham Clinton;2020-07-16
+4965;David Baldacci;2020-07-15
+4966;Jeff Kinney;2020-07-15
+4967;Raymond Chandler;2020-07-16
+4968;J.G. Ballard;2020-07-15
+4969;David Baldacci;2020-07-16
+4970;Graham Greene;2020-07-16
+4971;Eric Carle;2020-07-15
+4972;J.K. Rowling;2020-07-16
+4973;Brodi Ashton;2020-07-16
+4974;Tomie dePaola;2020-07-16
+4975;Piers Anthony;2020-07-15
+4976;Peter Benchley;2020-07-15
+4977;Lurlene McDaniel;2020-07-16
+4978;Terry Brooks;2020-07-15
+4979;Ursula Hegi;2020-07-16
+4980;Jim Bouton;2020-07-16
+4981;John Marsden;2020-07-15
+4982;Sherrilyn Kenyon;2020-07-16
+4983;William Peter Blatty;2020-07-16
+4984;Rosamund Lupton;2020-07-16
+4985;Machado de Assis;2020-07-15
+4986;Elyn R. Saks;2020-07-15
+4987;Alison Weir;2020-07-16
+4988;Sara Shepard;2020-07-15
+4989;Maeve Binchy;2020-07-16
+4990;D.B.C. Pierre;2020-07-16
+4991;Sophie Kinsella;2020-07-15
+4992;C.S. Friedman;2020-07-16
+4993;John Sandford;2020-07-16
+4994;Anne Rice;2020-07-16
+4995;Karen Kingsbury;2020-07-15
+4996;Lisa See;2020-07-15
+4997;David Nicholls;2020-07-16
+4998;Clive Barker;2020-07-15
+4999;L.M. Montgomery;2020-07-16

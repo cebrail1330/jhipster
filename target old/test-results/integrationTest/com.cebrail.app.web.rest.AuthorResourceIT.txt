@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cebrail.app.web.rest.AuthorResourceIT
+-------------------------------------------------------------------------------
+Tests run: 24, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.97 s - in com.cebrail.app.web.rest.AuthorResourceIT

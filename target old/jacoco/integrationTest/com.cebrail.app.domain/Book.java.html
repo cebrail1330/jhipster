@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Book.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Cebrailapp</a> &gt; <a href="index.source.html" class="el_package">com.cebrail.app.domain</a> &gt; <span class="el_source">Book.java</span></div><h1>Book.java</h1><pre class="source lang-java linenums">package com.cebrail.app.domain;
+
+import org.hibernate.annotations.Cache;
+import org.hibernate.annotations.CacheConcurrencyStrategy;
+
+import javax.persistence.*;
+
+import java.io.Serializable;
+import java.math.BigDecimal;
+import java.time.LocalDate;
+import java.util.HashSet;
+import java.util.Set;
+
+/**
+ * A Book.
+ */
+@Entity
+@Table(name = &quot;book&quot;)
+@Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
+<span class="fc" id="L20">public class Book implements Serializable {</span>
+
+    private static final long serialVersionUID = 1L;
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = &quot;sequenceGenerator&quot;)
+    @SequenceGenerator(name = &quot;sequenceGenerator&quot;)
+    private Long id;
+
+    @Column(name = &quot;title&quot;)
+    private String title;
+
+    @Column(name = &quot;description&quot;)
+    private String description;
+
+    @Column(name = &quot;publication_date&quot;)
+    private LocalDate publicationDate;
+
+    @Column(name = &quot;price&quot;, precision = 21, scale = 2)
+    private BigDecimal price;
+
+<span class="fc" id="L41">    @ManyToMany</span>
+    @Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
+    @JoinTable(name = &quot;book_author&quot;,
+               joinColumns = @JoinColumn(name = &quot;book_id&quot;, referencedColumnName = &quot;id&quot;),
+               inverseJoinColumns = @JoinColumn(name = &quot;author_id&quot;, referencedColumnName = &quot;id&quot;))
+    private Set&lt;Author&gt; authors = new HashSet&lt;&gt;();
+
+    // jhipster-needle-entity-add-field - JHipster will add fields here
+    public Long getId() {
+<span class="fc" id="L50">        return id;</span>
+    }
+
+    public void setId(Long id) {
+<span class="fc" id="L54">        this.id = id;</span>
+<span class="fc" id="L55">    }</span>
+
+    public String getTitle() {
+<span class="fc" id="L58">        return title;</span>
+    }
+
+    public Book title(String title) {
+<span class="fc" id="L62">        this.title = title;</span>
+<span class="fc" id="L63">        return this;</span>
+    }
+
+    public void setTitle(String title) {
+<span class="fc" id="L67">        this.title = title;</span>
+<span class="fc" id="L68">    }</span>
+
+    public String getDescription() {
+<span class="fc" id="L71">        return description;</span>
+    }
+
+    public Book description(String description) {
+<span class="fc" id="L75">        this.description = description;</span>
+<span class="fc" id="L76">        return this;</span>
+    }
+
+    public void setDescription(String description) {
+<span class="fc" id="L80">        this.description = description;</span>
+<span class="fc" id="L81">    }</span>
+
+    public LocalDate getPublicationDate() {
+<span class="fc" id="L84">        return publicationDate;</span>
+    }
+
+    public Book publicationDate(LocalDate publicationDate) {
+<span class="fc" id="L88">        this.publicationDate = publicationDate;</span>
+<span class="fc" id="L89">        return this;</span>
+    }
+
+    public void setPublicationDate(LocalDate publicationDate) {
+<span class="fc" id="L93">        this.publicationDate = publicationDate;</span>
+<span class="fc" id="L94">    }</span>
+
+    public BigDecimal getPrice() {
+<span class="fc" id="L97">        return price;</span>
+    }
+
+    public Book price(BigDecimal price) {
+<span class="fc" id="L101">        this.price = price;</span>
+<span class="fc" id="L102">        return this;</span>
+    }
+
+    public void setPrice(BigDecimal price) {
+<span class="fc" id="L106">        this.price = price;</span>
+<span class="fc" id="L107">    }</span>
+
+    public Set&lt;Author&gt; getAuthors() {
+<span class="fc" id="L110">        return authors;</span>
+    }
+
+    public Book authors(Set&lt;Author&gt; authors) {
+<span class="nc" id="L114">        this.authors = authors;</span>
+<span class="nc" id="L115">        return this;</span>
+    }
+
+    public Book addAuthor(Author author) {
+<span class="fc" id="L119">        this.authors.add(author);</span>
+<span class="fc" id="L120">        author.getBooks().add(this);</span>
+<span class="fc" id="L121">        return this;</span>
+    }
+
+    public Book removeAuthor(Author author) {
+<span class="nc" id="L125">        this.authors.remove(author);</span>
+<span class="nc" id="L126">        author.getBooks().remove(this);</span>
+<span class="nc" id="L127">        return this;</span>
+    }
+
+    public void setAuthors(Set&lt;Author&gt; authors) {
+<span class="nc" id="L131">        this.authors = authors;</span>
+<span class="nc" id="L132">    }</span>
+    // jhipster-needle-entity-add-getters-setters - JHipster will add getters and setters here
+
+    @Override
+    public boolean equals(Object o) {
+<span class="nc bnc" id="L137" title="All 2 branches missed.">        if (this == o) {</span>
+<span class="nc" id="L138">            return true;</span>
+        }
+<span class="nc bnc" id="L140" title="All 2 branches missed.">        if (!(o instanceof Book)) {</span>
+<span class="nc" id="L141">            return false;</span>
+        }
+<span class="nc bnc" id="L143" title="All 4 branches missed.">        return id != null &amp;&amp; id.equals(((Book) o).id);</span>
+    }
+
+    @Override
+    public int hashCode() {
+<span class="fc" id="L148">        return 31;</span>
+    }
+
+    // prettier-ignore
+    @Override
+    public String toString() {
+<span class="nc" id="L154">        return &quot;Book{&quot; +</span>
+<span class="nc" id="L155">            &quot;id=&quot; + getId() +</span>
+<span class="nc" id="L156">            &quot;, title='&quot; + getTitle() + &quot;'&quot; +</span>
+<span class="nc" id="L157">            &quot;, description='&quot; + getDescription() + &quot;'&quot; +</span>
+<span class="nc" id="L158">            &quot;, publicationDate='&quot; + getPublicationDate() + &quot;'&quot; +</span>
+<span class="nc" id="L159">            &quot;, price=&quot; + getPrice() +</span>
+            &quot;}&quot;;
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

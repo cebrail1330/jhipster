@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>BookResource.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Cebrailapp</a> &gt; <a href="index.source.html" class="el_package">com.cebrail.app.web.rest</a> &gt; <span class="el_source">BookResource.java</span></div><h1>BookResource.java</h1><pre class="source lang-java linenums">package com.cebrail.app.web.rest;
+
+import com.cebrail.app.domain.Book;
+import com.cebrail.app.service.BookService;
+import com.cebrail.app.web.rest.errors.BadRequestAlertException;
+import com.cebrail.app.service.dto.BookCriteria;
+import com.cebrail.app.service.BookQueryService;
+
+import io.github.jhipster.web.util.HeaderUtil;
+import io.github.jhipster.web.util.PaginationUtil;
+import io.github.jhipster.web.util.ResponseUtil;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.HttpStatus;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
+
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.util.List;
+import java.util.Optional;
+
+/**
+ * REST controller for managing {@link com.cebrail.app.domain.Book}.
+ */
+@RestController
+@RequestMapping(&quot;/api&quot;)
+public class BookResource {
+
+<span class="fc" id="L35">    private final Logger log = LoggerFactory.getLogger(BookResource.class);</span>
+
+    private static final String ENTITY_NAME = &quot;book&quot;;
+
+    @Value(&quot;${jhipster.clientApp.name}&quot;)
+    private String applicationName;
+
+    private final BookService bookService;
+
+    private final BookQueryService bookQueryService;
+
+<span class="fc" id="L46">    public BookResource(BookService bookService, BookQueryService bookQueryService) {</span>
+<span class="fc" id="L47">        this.bookService = bookService;</span>
+<span class="fc" id="L48">        this.bookQueryService = bookQueryService;</span>
+<span class="fc" id="L49">    }</span>
+
+    /**
+     * {@code POST  /books} : Create a new book.
+     *
+     * @param book the book to create.
+     * @return the {@link ResponseEntity} with status {@code 201 (Created)} and with body the new book, or with status {@code 400 (Bad Request)} if the book has already an ID.
+     * @throws URISyntaxException if the Location URI syntax is incorrect.
+     */
+    @PostMapping(&quot;/books&quot;)
+    public ResponseEntity&lt;Book&gt; createBook(@RequestBody Book book) throws URISyntaxException {
+<span class="fc" id="L60">        log.debug(&quot;REST request to save Book : {}&quot;, book);</span>
+<span class="fc bfc" id="L61" title="All 2 branches covered.">        if (book.getId() != null) {</span>
+<span class="fc" id="L62">            throw new BadRequestAlertException(&quot;A new book cannot already have an ID&quot;, ENTITY_NAME, &quot;idexists&quot;);</span>
+        }
+<span class="fc" id="L64">        Book result = bookService.save(book);</span>
+<span class="fc" id="L65">        return ResponseEntity.created(new URI(&quot;/api/books/&quot; + result.getId()))</span>
+<span class="fc" id="L66">            .headers(HeaderUtil.createEntityCreationAlert(applicationName, true, ENTITY_NAME, result.getId().toString()))</span>
+<span class="fc" id="L67">            .body(result);</span>
+    }
+
+    /**
+     * {@code PUT  /books} : Updates an existing book.
+     *
+     * @param book the book to update.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and with body the updated book,
+     * or with status {@code 400 (Bad Request)} if the book is not valid,
+     * or with status {@code 500 (Internal Server Error)} if the book couldn't be updated.
+     * @throws URISyntaxException if the Location URI syntax is incorrect.
+     */
+    @PutMapping(&quot;/books&quot;)
+    public ResponseEntity&lt;Book&gt; updateBook(@RequestBody Book book) throws URISyntaxException {
+<span class="fc" id="L81">        log.debug(&quot;REST request to update Book : {}&quot;, book);</span>
+<span class="fc bfc" id="L82" title="All 2 branches covered.">        if (book.getId() == null) {</span>
+<span class="fc" id="L83">            throw new BadRequestAlertException(&quot;Invalid id&quot;, ENTITY_NAME, &quot;idnull&quot;);</span>
+        }
+<span class="fc" id="L85">        Book result = bookService.save(book);</span>
+<span class="fc" id="L86">        return ResponseEntity.ok()</span>
+<span class="fc" id="L87">            .headers(HeaderUtil.createEntityUpdateAlert(applicationName, true, ENTITY_NAME, book.getId().toString()))</span>
+<span class="fc" id="L88">            .body(result);</span>
+    }
+
+    /**
+     * {@code GET  /books} : get all the books.
+     *
+     * @param pageable the pagination information.
+     * @param criteria the criteria which the requested entities should match.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and the list of books in body.
+     */
+    @GetMapping(&quot;/books&quot;)
+    public ResponseEntity&lt;List&lt;Book&gt;&gt; getAllBooks(BookCriteria criteria, Pageable pageable) {
+<span class="fc" id="L100">        log.debug(&quot;REST request to get Books by criteria: {}&quot;, criteria);</span>
+<span class="fc" id="L101">        Page&lt;Book&gt; page = bookQueryService.findByCriteria(criteria, pageable);</span>
+<span class="fc" id="L102">        HttpHeaders headers = PaginationUtil.generatePaginationHttpHeaders(ServletUriComponentsBuilder.fromCurrentRequest(), page);</span>
+<span class="fc" id="L103">        return ResponseEntity.ok().headers(headers).body(page.getContent());</span>
+    }
+
+    /**
+     * {@code GET  /books/count} : count all the books.
+     *
+     * @param criteria the criteria which the requested entities should match.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and the count in body.
+     */
+    @GetMapping(&quot;/books/count&quot;)
+    public ResponseEntity&lt;Long&gt; countBooks(BookCriteria criteria) {
+<span class="fc" id="L114">        log.debug(&quot;REST request to count Books by criteria: {}&quot;, criteria);</span>
+<span class="fc" id="L115">        return ResponseEntity.ok().body(bookQueryService.countByCriteria(criteria));</span>
+    }
+
+    /**
+     * {@code GET  /books/:id} : get the &quot;id&quot; book.
+     *
+     * @param id the id of the book to retrieve.
+     * @return the {@link ResponseEntity} with status {@code 200 (OK)} and with body the book, or with status {@code 404 (Not Found)}.
+     */
+    @GetMapping(&quot;/books/{id}&quot;)
+    public ResponseEntity&lt;Book&gt; getBook(@PathVariable Long id) {
+<span class="fc" id="L126">        log.debug(&quot;REST request to get Book : {}&quot;, id);</span>
+<span class="fc" id="L127">        Optional&lt;Book&gt; book = bookService.findOne(id);</span>
+<span class="fc" id="L128">        return ResponseUtil.wrapOrNotFound(book);</span>
+    }
+
+    /**
+     * {@code DELETE  /books/:id} : delete the &quot;id&quot; book.
+     *
+     * @param id the id of the book to delete.
+     * @return the {@link ResponseEntity} with status {@code 204 (NO_CONTENT)}.
+     */
+    @DeleteMapping(&quot;/books/{id}&quot;)
+    public ResponseEntity&lt;Void&gt; deleteBook(@PathVariable Long id) {
+<span class="fc" id="L139">        log.debug(&quot;REST request to delete Book : {}&quot;, id);</span>
+<span class="fc" id="L140">        bookService.delete(id);</span>
+<span class="fc" id="L141">        return ResponseEntity.noContent().headers(HeaderUtil.createEntityDeletionAlert(applicationName, true, ENTITY_NAME, id.toString())).build();</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.5.201910111838</span></div></body></html>

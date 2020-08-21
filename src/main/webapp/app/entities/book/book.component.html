@@ -1,0 +1,129 @@
+<div>
+    <h2 id="page-heading">
+        <span jhiTranslate="cebrailappApp.book.home.title">Books</span>
+
+        <button id="jh-create-entity" class="btn btn-primary float-right jh-create-entity create-book" [routerLink]="['/book/new']">
+            <fa-icon icon="plus"></fa-icon>
+            <span  jhiTranslate="cebrailappApp.book.home.createLabel">
+            Create a new Book
+            </span>
+        </button>
+    </h2>
+
+	<div>
+
+		<form name="searchForm" role="form" [formGroup]="searchForm">
+
+            <div>
+                <div>
+                    <label class="form-control-label" jhiTranslate="cebrailappApp.book.title" >Title</label>
+                    <input type="text"  class="form-control" formControlName="title.contains" [(ngModel)]="title" (input)="loadPage(1, true)">
+
+                </div>
+
+                <div class="form-group">
+                    <label class="form-control-label" jhiTranslate="cebrailappApp.book.description" for="field_description">Description</label>
+                    <input type="text" class="form-control" name="description" id="field_description"
+                           formControlName="description.contains" (input)="loadPage(1, true)"/>
+                </div>
+                <div class="form-group">
+                    <label class="form-control-label" jhiTranslate="cebrailappApp.book.price" for="field_price">Price</label>
+                    <input type="number" class="form-control" name="price" id="field_price"
+                           formControlName="price.equals" (input)="loadPage(1, true)"/>
+                </div>
+
+                <div class="form-group">
+                    <label jhiTranslate="cebrailappApp.book.author" for="field_authors">Author</label>
+                    <ng-multiselect-dropdown lass="form-control" id="field_authors" multiple name="authors" formControlName="authorId.in"
+                                             [placeholder]="'custom placeholder'"
+                                             [(ngModel)]="selectedItems"
+                                             [settings]="dropdownSettings"
+                                             [data]="dropdownList" (click)="loadPage(1, true)">
+                    </ng-multiselect-dropdown>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-control-label" jhiTranslate="cebrailappApp.book.publicationDate" for="field_publicationDate">Publication Date</label>
+                    <div class="input-group">
+                       <input id="field_publicationDate_greaterThanOrEqual" type="date" class="form-control" name="publicationDate_greaterThanOrEqual"
+                               ngbDatepicker #publicationDateGreaterThanOrEqualDp="ngbDatepicker" formControlName="publicationDate.greaterThanOrEqual" (input)="loadPage(1, true)"/>
+
+                    &nbsp;&nbsp;-&nbsp;&nbsp;
+
+                        <input id="field_publicationDate_lessThanOrEqual" type="date" class="form-control" name="publicationDate_lessThanOrEqual"
+                               ngbDatepicker #publicationDateLessThanOrEqualDp="ngbDatepicker" formControlName="publicationDate.lessThanOrEqual" (input)="loadPage(1, true)"/>
+
+                    </div>
+            </div>
+            </div>
+              <!--  <button type="button" id="search" class="btn btn-primary" (click)="loadPage(1, true)"> Search</button>
+-->
+
+		</form>
+	</div>
+
+    <jhi-alert-error></jhi-alert-error>
+
+    <jhi-alert></jhi-alert>
+
+    <div class="alert alert-warning" id="no-result" *ngIf="books?.length === 0">
+        <span jhiTranslate="cebrailappApp.book.home.notFound">No books found</span>
+    </div>
+
+    <div class="table-responsive" id="entities" *ngIf="books && books.length > 0">
+        <table class="table table-striped" aria-describedby="page-heading">
+            <thead>
+                <tr jhiSort [(predicate)]="predicate" [(ascending)]="ascending" [callback]="loadPage.bind(this)">
+                    <th scope="col"  jhiSortBy="id"><span jhiTranslate="global.field.id">ID</span> <fa-icon icon="sort"></fa-icon></th>
+                    <th scope="col"  jhiSortBy="title"><span jhiTranslate="cebrailappApp.book.title">Title</span> <fa-icon icon="sort"></fa-icon></th>
+                    <th scope="col"  jhiSortBy="description"><span jhiTranslate="cebrailappApp.book.description">Description</span> <fa-icon icon="sort"></fa-icon></th>
+                    <th scope="col"  jhiSortBy="publicationDate"><span jhiTranslate="cebrailappApp.book.publicationDate">Publication Date</span> <fa-icon icon="sort"></fa-icon></th>
+                    <th scope="col"  jhiSortBy="price"><span jhiTranslate="cebrailappApp.book.price">Price</span> <fa-icon icon="sort"></fa-icon></th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let book of books ;trackBy: trackId">
+                    <td><a [routerLink]="['/book', book.id, 'view']">{{ book.id }}</a></td>
+                    <td>{{ book.title }}</td>
+                    <td>{{ book.description }}</td>
+                    <td>{{ book.publicationDate | date:'mediumDate' }}</td>
+                    <td>{{ book.price }}</td>
+                    <td class="text-right">
+                        <div class="btn-group">
+                            <button type="submit"
+                                    [routerLink]="['/book', book.id, 'view']"
+                                    class="btn btn-info btn-sm">
+                                <fa-icon icon="eye"></fa-icon>
+                                <span class="d-none d-md-inline" jhiTranslate="entity.action.view">View</span>
+                            </button>
+
+                            <button type="submit"
+                                    [routerLink]="['/book', book.id, 'edit']"
+                                    class="btn btn-primary btn-sm">
+                                <fa-icon icon="pencil-alt"></fa-icon>
+                                <span class="d-none d-md-inline" jhiTranslate="entity.action.edit">Edit</span>
+                            </button>
+
+                            <button type="submit" (click)="delete(book)"
+                                    class="btn btn-danger btn-sm">
+                                <fa-icon icon="times"></fa-icon>
+                                <span class="d-none d-md-inline" jhiTranslate="entity.action.delete">Delete</span>
+                            </button>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div *ngIf="books && books.length > 0">
+        <div class="row justify-content-center">
+            <jhi-item-count [page]="page" [total]="totalItems" [itemsPerPage]="itemsPerPage"></jhi-item-count>
+        </div>
+
+        <div class="row justify-content-center">
+            <ngb-pagination [collectionSize]="totalItems" [(page)]="ngbPaginationPage" [pageSize]="itemsPerPage" [maxSize]="5" [rotate]="true" [boundaryLinks]="true" (pageChange)="loadPage($event)"></ngb-pagination>
+        </div>
+    </div>
+</div>
